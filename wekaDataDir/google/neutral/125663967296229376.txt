@@ -1,0 +1,1 @@
+while the improvements in USERNAME mac os are great the fullscreen implementation on monitors is broken

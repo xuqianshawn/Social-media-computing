@@ -1,0 +1,1 @@
+noarchive is used to restrict search engines from saving a cached copy of the page

@@ -1,0 +1,1 @@
+the lock screen now has facial recognition capability

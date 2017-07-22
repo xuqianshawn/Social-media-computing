@@ -1,0 +1,1 @@
+finally all searches for logged in users will be on https URL

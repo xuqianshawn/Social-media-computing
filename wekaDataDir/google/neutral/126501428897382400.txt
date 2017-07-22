@@ -1,0 +1,1 @@
+tip redirect URL to URL by using redirection

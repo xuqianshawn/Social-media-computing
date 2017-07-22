@@ -1,0 +1,1 @@
+consommation data affiche dans les paramtres avec mme une approximation de la consommation future

@@ -1,0 +1,1 @@
+google to begin encrypting searches outbound clicks by default with ssl search URL

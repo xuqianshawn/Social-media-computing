@@ -1,0 +1,6484 @@
+
+
+Filtered data:
+
+@relation 'C__Users_shawn_workspace_Sentiment_wekaDataDir_all-weka.filters.unsupervised.attribute.StringToWordVector-R1-W1000-prune-rate-1.0-N0-stemmerweka.core.stemmers.NullStemmer-M1-tokenizerweka.core.tokenizers.NGramTokenizer -delimiters \" \\r\\n\\t.,;:\\\'\\\"()?!\" -max 2 -min 1'
+
+@attribute class {irrelevant,negative,neutral,positive}
+@attribute LRB numeric
+@attribute 'LRB RRB' numeric
+@attribute 'LRB caschys' numeric
+@attribute 'LRB cc' numeric
+@attribute 'LRB comme' numeric
+@attribute 'LRB mobiflipde' numeric
+@attribute 'LRB para' numeric
+@attribute 'LRB se' numeric
+@attribute 'LRB un' numeric
+@attribute 'LRB via' numeric
+@attribute LSB numeric
+@attribute 'LSB RSB' numeric
+@attribute 'LSB ipad' numeric
+@attribute RRB numeric
+@attribute 'RRB URL' numeric
+@attribute 'RRB off' numeric
+@attribute RSB numeric
+@attribute 'RSB ipad' numeric
+@attribute URL numeric
+@attribute 'URL LRB' numeric
+@attribute 'URL URL' numeric
+@attribute 'URL USERNAME' numeric
+@attribute 'URL araclyla' numeric
+@attribute 'URL dat' numeric
+@attribute 'URL desde' numeric
+@attribute 'URL en' numeric
+@attribute 'URL nexus' numeric
+@attribute 'URL pues' numeric
+@attribute 'URL tambin' numeric
+@attribute 'URL va' numeric
+@attribute 'URL via' numeric
+@attribute USERNAME numeric
+@attribute 'USERNAME LRB' numeric
+@attribute 'USERNAME RRB' numeric
+@attribute 'USERNAME URL' numeric
+@attribute 'USERNAME USERNAME' numeric
+@attribute 'USERNAME ah' numeric
+@attribute 'USERNAME android' numeric
+@attribute 'USERNAME andy' numeric
+@attribute 'USERNAME at' numeric
+@attribute 'USERNAME ceo' numeric
+@attribute 'USERNAME cette' numeric
+@attribute 'USERNAME der' numeric
+@attribute 'USERNAME e' numeric
+@attribute 'USERNAME en' numeric
+@attribute 'USERNAME es' numeric
+@attribute 'USERNAME et' numeric
+@attribute 'USERNAME free' numeric
+@attribute 'USERNAME ganamos' numeric
+@attribute 'USERNAME gato' numeric
+@attribute 'USERNAME google' numeric
+@attribute 'USERNAME hace' numeric
+@attribute 'USERNAME hey' numeric
+@attribute 'USERNAME hola' numeric
+@attribute 'USERNAME i' numeric
+@attribute 'USERNAME ios' numeric
+@attribute 'USERNAME is' numeric
+@attribute 'USERNAME it' numeric
+@attribute 'USERNAME ja' numeric
+@attribute 'USERNAME jaja' numeric
+@attribute 'USERNAME jajajaja' numeric
+@attribute 'USERNAME je' numeric
+@attribute 'USERNAME le' numeric
+@attribute 'USERNAME me' numeric
+@attribute 'USERNAME meu' numeric
+@attribute 'USERNAME muycanal' numeric
+@attribute 'USERNAME new' numeric
+@attribute 'USERNAME nis' numeric
+@attribute 'USERNAME nouvelle' numeric
+@attribute 'USERNAME o' numeric
+@attribute 'USERNAME on' numeric
+@attribute 'USERNAME oooh' numeric
+@attribute 'USERNAME pero' numeric
+@attribute 'USERNAME por' numeric
+@attribute 'USERNAME possibilit' numeric
+@attribute 'USERNAME presenta' numeric
+@attribute 'USERNAME que' numeric
+@attribute 'USERNAME rt' numeric
+@attribute 'USERNAME sdk' numeric
+@attribute 'USERNAME se' numeric
+@attribute 'USERNAME si' numeric
+@attribute 'USERNAME store' numeric
+@attribute 'USERNAME terug' numeric
+@attribute 'USERNAME this' numeric
+@attribute 'USERNAME un' numeric
+@attribute 'USERNAME voor' numeric
+@attribute 'USERNAME ya' numeric
+@attribute 'USERNAME zo' numeric
+@attribute a numeric
+@attribute 'a URL' numeric
+@attribute 'a USERNAME' numeric
+@attribute 'a con' numeric
+@attribute 'a declarar' numeric
+@attribute 'a dormir' numeric
+@attribute 'a fait' numeric
+@attribute 'a gente' numeric
+@attribute 'a la' numeric
+@attribute 'a los' numeric
+@attribute 'a metamoforse' numeric
+@attribute 'a mi' numeric
+@attribute 'a nat' numeric
+@attribute 'a osmelxd' numeric
+@attribute 'a pas' numeric
+@attribute 'a rusku' numeric
+@attribute 'a t' numeric
+@attribute 'a todos' numeric
+@attribute 'a ver' numeric
+@attribute 'a windows' numeric
+@attribute aa numeric
+@attribute aan numeric
+@attribute aanbieding numeric
+@attribute 'aanbieding URL' numeric
+@attribute ab numeric
+@attribute 'ab USERNAME' numeric
+@attribute ac numeric
+@attribute acabar numeric
+@attribute 'acabar en' numeric
+@attribute acabo numeric
+@attribute 'acabo de' numeric
+@attribute acabou numeric
+@attribute accessibilit numeric
+@attribute 'accessibilit o' numeric
+@attribute activo numeric
+@attribute ad numeric
+@attribute aday numeric
+@attribute affiches numeric
+@attribute 'affiches sur' numeric
+@attribute ag numeric
+@attribute agenda numeric
+@attribute agora numeric
+@attribute 'agora se' numeric
+@attribute ah numeric
+@attribute 'ah haha' numeric
+@attribute ahora numeric
+@attribute 'ahora es' numeric
+@attribute 'ahora si' numeric
+@attribute ahorita numeric
+@attribute ai numeric
+@attribute 'ai no' numeric
+@attribute ainda numeric
+@attribute 'ainda te' numeric
+@attribute aja numeric
+@attribute ak numeric
+@attribute 'ak resp' numeric
+@attribute al numeric
+@attribute 'al menos' numeric
+@attribute 'al mundo' numeric
+@attribute algo numeric
+@attribute alguien numeric
+@attribute alguna numeric
+@attribute ali numeric
+@attribute already numeric
+@attribute als numeric
+@attribute althans numeric
+@attribute 'althans RRB' numeric
+@attribute am numeric
+@attribute ama numeric
+@attribute 'ama apesar' numeric
+@attribute amigo numeric
+@attribute amigos numeric
+@attribute amo numeric
+@attribute amsterodamu numeric
+@attribute 'amsterodamu chysta' numeric
+@attribute an numeric
+@attribute 'an e' numeric
+@attribute and numeric
+@attribute 'and USERNAME' numeric
+@attribute 'and doughnuts' numeric
+@attribute android numeric
+@attribute 'android URL' numeric
+@attribute 'android beam' numeric
+@attribute 'android ice' numeric
+@attribute andy numeric
+@attribute 'andy malone' numeric
+@attribute 'andy rubin' numeric
+@attribute ankor numeric
+@attribute 'ankor kelkeswa' numeric
+@attribute anne numeric
+@attribute 'anne encore' numeric
+@attribute anniversary numeric
+@attribute 'anniversary explica' numeric
+@attribute annonc numeric
+@attribute antes numeric
+@attribute 'antes de' numeric
+@attribute antiguo numeric
+@attribute 'antiguo caso' numeric
+@attribute ao numeric
+@attribute 'ao en' numeric
+@attribute aos numeric
+@attribute apareceu numeric
+@attribute aperu numeric
+@attribute 'aperu en' numeric
+@attribute apesar numeric
+@attribute 'apesar de' numeric
+@attribute aplicacin numeric
+@attribute 'aplicacin para' numeric
+@attribute aplicaciones numeric
+@attribute app numeric
+@attribute 'app combien' numeric
+@attribute 'app ou' numeric
+@attribute apple numeric
+@attribute application numeric
+@attribute 'application contacts' numeric
+@attribute apps numeric
+@attribute aqui numeric
+@attribute 'aqui en' numeric
+@attribute 'aqui no' numeric
+@attribute ar numeric
+@attribute araclyla numeric
+@attribute 'araclyla USERNAME' numeric
+@attribute are numeric
+@attribute area numeric
+@attribute 'area sessioni' numeric
+@attribute arm numeric
+@attribute arreglo numeric
+@attribute 'arreglo el' numeric
+@attribute as numeric
+@attribute asi numeric
+@attribute asia numeric
+@attribute asiaclassifiedtoday numeric
+@attribute 'asiaclassifiedtoday asia' numeric
+@attribute aspetto numeric
+@attribute 'aspetto area' numeric
+@attribute at numeric
+@attribute au numeric
+@attribute auch numeric
+@attribute auf numeric
+@attribute aujourd numeric
+@attribute 'aujourd hui' numeric
+@attribute aun numeric
+@attribute aunque numeric
+@attribute aus numeric
+@attribute aussi numeric
+@attribute avanade numeric
+@attribute 'avanade y' numeric
+@attribute avanzada numeric
+@attribute 'avanzada URL' numeric
+@attribute avec numeric
+@attribute 'avec lintgration' numeric
+@attribute 'avec omnitouch' numeric
+@attribute avoir numeric
+@attribute b numeric
+@attribute back numeric
+@attribute ballmer numeric
+@attribute 'ballmer ceo' numeric
+@attribute balmer numeric
+@attribute baru numeric
+@attribute basado numeric
+@attribute 'basado en' numeric
+@attribute basta numeric
+@attribute 'basta para' numeric
+@attribute beam numeric
+@attribute 'beam una' numeric
+@attribute beiden numeric
+@attribute 'beiden in' numeric
+@attribute bellen numeric
+@attribute ben numeric
+@attribute bendiiga numeric
+@attribute best numeric
+@attribute 'best cyst' numeric
+@attribute bezielend numeric
+@attribute 'bezielend leiderschap' numeric
+@attribute bien numeric
+@attribute bienvenida numeric
+@attribute big numeric
+@attribute 'big glutus' numeric
+@attribute bij numeric
+@attribute 'bij onder' numeric
+@attribute bill numeric
+@attribute 'bill gates' numeric
+@attribute blog numeric
+@attribute 'blog RRB' numeric
+@attribute boa numeric
+@attribute 'boa noite' numeric
+@attribute boba numeric
+@attribute 'boba que' numeric
+@attribute bolsillo numeric
+@attribute 'bolsillo RRB' numeric
+@attribute bom numeric
+@attribute bon numeric
+@attribute bonito numeric
+@attribute brasil numeric
+@attribute browser numeric
+@attribute buen numeric
+@attribute buenas numeric
+@attribute 'buenas noche' numeric
+@attribute 'buenas noches' numeric
+@attribute bueno numeric
+@attribute busco numeric
+@attribute 'busco ms' numeric
+@attribute business numeric
+@attribute 'business school' numeric
+@attribute but numeric
+@attribute by numeric
+@attribute 'by USERNAME' numeric
+@attribute c numeric
+@attribute 'c con' numeric
+@attribute 'c la' numeric
+@attribute 'c menm' numeric
+@attribute cada numeric
+@attribute 'cada vez' numeric
+@attribute cambiar numeric
+@attribute cambie numeric
+@attribute campaa numeric
+@attribute 'campaa de' numeric
+@attribute can numeric
+@attribute 'can not' numeric
+@attribute caschys numeric
+@attribute 'caschys blog' numeric
+@attribute casi numeric
+@attribute caso numeric
+@attribute 'caso de' numeric
+@attribute cc numeric
+@attribute 'cc USERNAME' numeric
+@attribute ce numeric
+@attribute cel numeric
+@attribute center numeric
+@attribute centrum numeric
+@attribute 'centrum i' numeric
+@attribute ceo numeric
+@attribute 'ceo de' numeric
+@attribute ces numeric
+@attribute cest numeric
+@attribute 'cest pas' numeric
+@attribute cette numeric
+@attribute 'cette anne' numeric
+@attribute chaque numeric
+@attribute 'chaque app' numeric
+@attribute 'chaque mail' numeric
+@attribute chat numeric
+@attribute che numeric
+@attribute check numeric
+@attribute 'check out' numeric
+@attribute chose numeric
+@attribute chrome numeric
+@attribute chysta numeric
+@attribute 'chysta se' numeric
+@attribute cientfico numeric
+@attribute 'cientfico para' numeric
+@attribute cierto numeric
+@attribute circles numeric
+@attribute 'circles bij' numeric
+@attribute clases numeric
+@attribute client numeric
+@attribute 'client URL' numeric
+@attribute clientes numeric
+@attribute cmo numeric
+@attribute 'cmo funcionarn' numeric
+@attribute co numeric
+@attribute codes numeric
+@attribute 'codes dan' numeric
+@attribute collega numeric
+@attribute 'collega URL' numeric
+@attribute com numeric
+@attribute 'com URL' numeric
+@attribute 'com o' numeric
+@attribute combat numeric
+@attribute 'combat evolved' numeric
+@attribute combien numeric
+@attribute 'combien de' numeric
+@attribute come numeric
+@attribute coming numeric
+@attribute 'coming to' numeric
+@attribute comme numeric
+@attribute 'comme sony' numeric
+@attribute como numeric
+@attribute 'como ice' numeric
+@attribute 'como no' numeric
+@attribute company numeric
+@attribute compartir numeric
+@attribute comprado numeric
+@attribute 'comprado el' numeric
+@attribute computer numeric
+@attribute 'computer ofrecen' numeric
+@attribute compuu numeric
+@attribute comunes numeric
+@attribute 'comunes que' numeric
+@attribute con numeric
+@attribute 'con URL' numeric
+@attribute 'con android' numeric
+@attribute 'con el' numeric
+@attribute 'con experiencia' numeric
+@attribute 'con ice' numeric
+@attribute 'con la' numeric
+@attribute 'con las' numeric
+@attribute 'con o' numeric
+@attribute 'con y' numeric
+@attribute conectado numeric
+@attribute connections numeric
+@attribute 'connections linkedin' numeric
+@attribute connects numeric
+@attribute 'connects un' numeric
+@attribute conoce numeric
+@attribute conocer numeric
+@attribute 'conocer el' numeric
+@attribute conocido numeric
+@attribute 'conocido como' numeric
+@attribute consommation numeric
+@attribute contacts numeric
+@attribute 'contacts les' numeric
+@attribute contenido numeric
+@attribute contra numeric
+@attribute convierte numeric
+@attribute 'convierte cualquier' numeric
+@attribute cool numeric
+@attribute core numeric
+@attribute 'core rules' numeric
+@attribute correo numeric
+@attribute cosa numeric
+@attribute cosas numeric
+@attribute coso numeric
+@attribute cran numeric
+@attribute 'cran tactile' numeric
+@attribute cream numeric
+@attribute 'cream sandwich' numeric
+@attribute crece numeric
+@attribute creen numeric
+@attribute creo numeric
+@attribute crypte numeric
+@attribute cualquier numeric
+@attribute 'cualquier superficie' numeric
+@attribute cuando numeric
+@attribute cuenta numeric
+@attribute 'cuenta de' numeric
+@attribute cyst numeric
+@attribute 'cyst on' numeric
+@attribute d numeric
+@attribute 'd d' numeric
+@attribute da numeric
+@attribute daar numeric
+@attribute 'daar gaan' numeric
+@attribute dag numeric
+@attribute dan numeric
+@attribute 'dan heb' numeric
+@attribute 'dan weer' numeric
+@attribute dando numeric
+@attribute dans numeric
+@attribute 'dans ics' numeric
+@attribute 'dans le' numeric
+@attribute 'dans les' numeric
+@attribute dapps numeric
+@attribute 'dapps en' numeric
+@attribute darse numeric
+@attribute 'darse prisa' numeric
+@attribute das numeric
+@attribute 'das galaxy' numeric
+@attribute dass numeric
+@attribute dat numeric
+@attribute data numeric
+@attribute 'data a' numeric
+@attribute 'data centrum' numeric
+@attribute days numeric
+@attribute dd numeric
+@attribute de numeric
+@attribute 'de URL' numeric
+@attribute 'de USERNAME' numeric
+@attribute 'de aanbieding' numeric
+@attribute 'de d' numeric
+@attribute 'de data' numeric
+@attribute 'de devel' numeric
+@attribute 'de dispositivos' numeric
+@attribute 'de e' numeric
+@attribute 'de en' numeric
+@attribute 'de gmail' numeric
+@attribute 'de google' numeric
+@attribute 'de la' numeric
+@attribute 'de las' numeric
+@attribute 'de los' numeric
+@attribute 'de microsoft' numeric
+@attribute 'de mis' numeric
+@attribute 'de monopolio' numeric
+@attribute 'de ne' numeric
+@attribute 'de nimporte' numeric
+@attribute 'de no' numeric
+@attribute 'de nuevo' numeric
+@attribute 'de nuevoooo' numeric
+@attribute 'de o' numeric
+@attribute 'de para' numeric
+@attribute 'de photo' numeric
+@attribute 'de que' numeric
+@attribute 'de ser' numeric
+@attribute 'de taguer' numeric
+@attribute 'de tener' numeric
+@attribute 'de todo' numeric
+@attribute 'de tu' numeric
+@attribute 'de tudo' numeric
+@attribute 'de un' numeric
+@attribute 'de voc' numeric
+@attribute 'de voir' numeric
+@attribute 'de volta' numeric
+@attribute 'de y' numeric
+@attribute debe numeric
+@attribute declarar numeric
+@attribute 'declarar por' numeric
+@attribute definitivamente numeric
+@attribute del numeric
+@attribute 'del ao' numeric
+@attribute 'del bolsillo' numeric
+@attribute 'del galaxy' numeric
+@attribute delante numeric
+@attribute 'delante de' numeric
+@attribute dem numeric
+@attribute demain numeric
+@attribute demasiado numeric
+@attribute den numeric
+@attribute depuis numeric
+@attribute der numeric
+@attribute 'der langsame' numeric
+@attribute dernier numeric
+@attribute 'dernier outil' numeric
+@attribute des numeric
+@attribute desarrolla numeric
+@attribute 'desarrolla una' numeric
+@attribute desarrolladores numeric
+@attribute 'desarrolladores c' numeric
+@attribute desde numeric
+@attribute despues numeric
+@attribute 'despues de' numeric
+@attribute destaque numeric
+@attribute 'destaque no' numeric
+@attribute deux numeric
+@attribute 'deux lignes' numeric
+@attribute devant numeric
+@attribute 'devant ics' numeric
+@attribute devel numeric
+@attribute 'devel oficialmente' numeric
+@attribute devices numeric
+@attribute di numeric
+@attribute 'di USERNAME' numeric
+@attribute dia numeric
+@attribute 'dia inteiro' numeric
+@attribute dias numeric
+@attribute dicas numeric
+@attribute dices numeric
+@attribute dicho numeric
+@attribute die numeric
+@attribute 'die leuke' numeric
+@attribute diferencia numeric
+@attribute diios numeric
+@attribute 'diios les' numeric
+@attribute dinner numeric
+@attribute 'dinner URL' numeric
+@attribute dios numeric
+@attribute direct numeric
+@attribute directement numeric
+@attribute 'directement dans' numeric
+@attribute dispo numeric
+@attribute 'dispo aujourd' numeric
+@attribute dispositivos numeric
+@attribute dit numeric
+@attribute 'dit althans' numeric
+@attribute divertido numeric
+@attribute dm numeric
+@attribute do numeric
+@attribute 'do android' numeric
+@attribute domani numeric
+@attribute 'domani un' numeric
+@attribute dominio numeric
+@attribute 'dominio html' numeric
+@attribute donde numeric
+@attribute 'donde las' numeric
+@attribute done numeric
+@attribute door numeric
+@attribute dormir numeric
+@attribute 'dormir pero' numeric
+@attribute dos numeric
+@attribute doughnuts numeric
+@attribute 'doughnuts for' numeric
+@attribute doy numeric
+@attribute du numeric
+@attribute 'du meilleur' numeric
+@attribute dynamics numeric
+@attribute 'dynamics URL' numeric
+@attribute e numeric
+@attribute 'e URL' numeric
+@attribute 'e c' numeric
+@attribute 'e grde' numeric
+@attribute 'e o' numeric
+@attribute 'e un' numeric
+@attribute earth numeric
+@attribute ebook numeric
+@attribute 'ebook URL' numeric
+@attribute ee numeric
+@attribute een numeric
+@attribute 'een publiek' numeric
+@attribute eerste numeric
+@attribute 'eerste weekend' numeric
+@attribute eingeloggte numeric
+@attribute 'eingeloggte user' numeric
+@attribute el numeric
+@attribute 'el URL' numeric
+@attribute 'el de' numeric
+@attribute 'el dominio' numeric
+@attribute 'el es' numeric
+@attribute 'el evento' numeric
+@attribute 'el fenmeno' numeric
+@attribute 'el futuro' numeric
+@attribute 'el galaxy' numeric
+@attribute 'el mundo' numeric
+@attribute 'el no' numeric
+@attribute 'el nuevo' numeric
+@attribute 'el para' numeric
+@attribute 'el por' numeric
+@attribute 'el remake' numeric
+@attribute 'el samsung' numeric
+@attribute 'el telefono' numeric
+@attribute 'el tiempo' numeric
+@attribute 'el vicio' numeric
+@attribute 'el x' numeric
+@attribute 'el xd' numeric
+@attribute 'el y' numeric
+@attribute ela numeric
+@attribute 'ela joga' numeric
+@attribute 'ela nao' numeric
+@attribute ellos numeric
+@attribute em numeric
+@attribute email numeric
+@attribute en numeric
+@attribute 'en URL' numeric
+@attribute 'en conocer' numeric
+@attribute 'en d' numeric
+@attribute 'en daar' numeric
+@attribute 'en dynamics' numeric
+@attribute 'en el' numeric
+@attribute 'en enlance' numeric
+@attribute 'en espaa' numeric
+@attribute 'en fb' numeric
+@attribute 'en la' numeric
+@attribute 'en les' numeric
+@attribute 'en lo' numeric
+@attribute 'en me' numeric
+@attribute 'en mi' numeric
+@attribute 'en nfc' numeric
+@attribute 'en nu' numeric
+@attribute 'en para' numeric
+@attribute 'en persona' numeric
+@attribute 'en que' numeric
+@attribute 'en quelque' numeric
+@attribute 'en sites' numeric
+@attribute 'en ti' numeric
+@attribute 'en tres' numeric
+@attribute 'en un' numeric
+@attribute 'en y' numeric
+@attribute encanta numeric
+@attribute encore numeric
+@attribute 'encore remporte' numeric
+@attribute enfin numeric
+@attribute 'enfin intgres' numeric
+@attribute engineer numeric
+@attribute enlaces numeric
+@attribute enlance numeric
+@attribute 'enlance ganando' numeric
+@attribute entonces numeric
+@attribute entre numeric
+@attribute 'entre personas' numeric
+@attribute entro numeric
+@attribute envie numeric
+@attribute er numeric
+@attribute 'er smartphone' numeric
+@attribute erbij numeric
+@attribute 'erbij zoeken' numeric
+@attribute ericsson numeric
+@attribute 'ericsson avec' numeric
+@attribute error numeric
+@attribute es numeric
+@attribute 'es de' numeric
+@attribute 'es la' numeric
+@attribute 'es lo' numeric
+@attribute 'es mas' numeric
+@attribute 'es para' numeric
+@attribute 'es que' numeric
+@attribute 'es un' numeric
+@attribute 'es una' numeric
+@attribute escrevendo numeric
+@attribute 'escrevendo o' numeric
+@attribute eso numeric
+@attribute espaa numeric
+@attribute 'espaa se' numeric
+@attribute espera numeric
+@attribute espero numeric
+@attribute esse numeric
+@attribute est numeric
+@attribute esta numeric
+@attribute 'esta pensando' numeric
+@attribute estar numeric
+@attribute estas numeric
+@attribute estava numeric
+@attribute este numeric
+@attribute estn numeric
+@attribute esto numeric
+@attribute estos numeric
+@attribute estoy numeric
+@attribute 'estoy dando' numeric
+@attribute ests numeric
+@attribute estudiar numeric
+@attribute estudio numeric
+@attribute et numeric
+@attribute 'et savoir' numeric
+@attribute eu numeric
+@attribute 'eu ai' numeric
+@attribute evaluatie numeric
+@attribute 'evaluatie learning' numeric
+@attribute evento numeric
+@attribute 'evento de' numeric
+@attribute everyone numeric
+@attribute evolved numeric
+@attribute 'evolved anniversary' numeric
+@attribute evrope numeric
+@attribute 'evrope uz' numeric
+@attribute excelente numeric
+@attribute experiencia numeric
+@attribute 'experiencia tambin' numeric
+@attribute explica numeric
+@attribute 'explica cmo' numeric
+@attribute eyed numeric
+@attribute 'eyed reuters' numeric
+@attribute facebook numeric
+@attribute 'facebook RRB' numeric
+@attribute faire numeric
+@attribute fait numeric
+@attribute faites numeric
+@attribute 'faites de' numeric
+@attribute falar numeric
+@attribute 'falar isso' numeric
+@attribute falta numeric
+@attribute favorito numeric
+@attribute fb numeric
+@attribute fblikes numeric
+@attribute feedback numeric
+@attribute felicitaciones numeric
+@attribute 'felicitaciones RRB' numeric
+@attribute feliz numeric
+@attribute 'feliz LRB' numeric
+@attribute fenmeno numeric
+@attribute ferranti numeric
+@attribute 'ferranti computer' numeric
+@attribute ficar numeric
+@attribute 'ficar escrevendo' numeric
+@attribute fijn numeric
+@attribute filavi numeric
+@attribute 'filavi aspetto' numeric
+@attribute filme numeric
+@attribute find numeric
+@attribute 'find more' numeric
+@attribute firma numeric
+@attribute 'firma tecnolgica' numeric
+@attribute flink numeric
+@attribute foi numeric
+@attribute followers numeric
+@attribute following numeric
+@attribute font numeric
+@attribute for numeric
+@attribute 'for dinner' numeric
+@attribute 'for hemp' numeric
+@attribute 'for the' numeric
+@attribute forma numeric
+@attribute formacin numeric
+@attribute fosse numeric
+@attribute 'fosse pra' numeric
+@attribute foto numeric
+@attribute fotos numeric
+@attribute fr numeric
+@attribute 'fr eingeloggte' numeric
+@attribute free numeric
+@attribute 'free speech' numeric
+@attribute 'free up' numeric
+@attribute from numeric
+@attribute frutas numeric
+@attribute 'frutas en' numeric
+@attribute fue numeric
+@attribute funcionarn numeric
+@attribute 'funcionarn el' numeric
+@attribute future numeric
+@attribute futuro numeric
+@attribute g numeric
+@attribute gaan numeric
+@attribute 'gaan we' numeric
+@attribute galaxy numeric
+@attribute 'galaxy nexus' numeric
+@attribute galera numeric
+@attribute 'galera seguir' numeric
+@attribute ganamos numeric
+@attribute 'ganamos socios' numeric
+@attribute ganando numeric
+@attribute 'ganando juntos' numeric
+@attribute garantie numeric
+@attribute gates numeric
+@attribute 'gates llamado' numeric
+@attribute gato numeric
+@attribute 'gato intenda' numeric
+@attribute geld numeric
+@attribute generalberholt numeric
+@attribute 'generalberholt ab' numeric
+@attribute generation numeric
+@attribute 'generation generalberholt' numeric
+@attribute generations numeric
+@attribute genial numeric
+@attribute gente numeric
+@attribute genyen numeric
+@attribute 'genyen an' numeric
+@attribute geral numeric
+@attribute gestin numeric
+@attribute get numeric
+@attribute 'get a' numeric
+@attribute gingerbread numeric
+@attribute glutus numeric
+@attribute 'glutus i' numeric
+@attribute gmail numeric
+@attribute 'gmail pour' numeric
+@attribute go numeric
+@attribute goed numeric
+@attribute gold numeric
+@attribute goodnight numeric
+@attribute google numeric
+@attribute 'google URL' numeric
+@attribute 'google earth' numeric
+@attribute 'google galaxy' numeric
+@attribute 'google panda' numeric
+@attribute 'google und' numeric
+@attribute 'google y' numeric
+@attribute gracias numeric
+@attribute 'gracias a' numeric
+@attribute gran numeric
+@attribute gratis numeric
+@attribute grde numeric
+@attribute 'grde accessibilit' numeric
+@attribute growth numeric
+@attribute grupo numeric
+@attribute gusta numeric
+@attribute gut numeric
+@attribute ha numeric
+@attribute haalt numeric
+@attribute 'haalt uit' numeric
+@attribute haba numeric
+@attribute 'haba comprado' numeric
+@attribute hablar numeric
+@attribute hace numeric
+@attribute 'hace un' numeric
+@attribute hacer numeric
+@attribute haha numeric
+@attribute 'haha diios' numeric
+@attribute hahaha numeric
+@attribute hallelujah numeric
+@attribute 'hallelujah rt' numeric
+@attribute halo numeric
+@attribute 'halo combat' numeric
+@attribute handig numeric
+@attribute 'handig in' numeric
+@attribute harvard numeric
+@attribute 'harvard business' numeric
+@attribute hasta numeric
+@attribute 'hasta el' numeric
+@attribute 'hasta maana' numeric
+@attribute hat numeric
+@attribute have numeric
+@attribute hay numeric
+@attribute 'hay que' numeric
+@attribute he numeric
+@attribute 'he dicho' numeric
+@attribute heb numeric
+@attribute 'heb je' numeric
+@attribute hebben numeric
+@attribute hemp numeric
+@attribute 'hemp for' numeric
+@attribute here numeric
+@attribute het numeric
+@attribute hey numeric
+@attribute 'hey USERNAME' numeric
+@attribute hoje numeric
+@attribute hola numeric
+@attribute holdem numeric
+@attribute hongkong numeric
+@attribute hoster numeric
+@attribute 'hoster del' numeric
+@attribute hotmail numeric
+@attribute how numeric
+@attribute 'how to' numeric
+@attribute hoy numeric
+@attribute 'hoy no' numeric
+@attribute html numeric
+@attribute 'html com' numeric
+@attribute htt numeric
+@attribute http numeric
+@attribute hui numeric
+@attribute i numeric
+@attribute 'i can' numeric
+@attribute 'i like' numeric
+@attribute 'i v' numeric
+@attribute ice numeric
+@attribute 'ice cream' numeric
+@attribute ich numeric
+@attribute ichiro numeric
+@attribute 'ichiro repeat' numeric
+@attribute ici numeric
+@attribute ics numeric
+@attribute ie numeric
+@attribute ik numeric
+@attribute il numeric
+@attribute image numeric
+@attribute imagino numeric
+@attribute importantes numeric
+@attribute in numeric
+@attribute 'in de' numeric
+@attribute 'in een' numeric
+@attribute 'in eerste' numeric
+@attribute 'in het' numeric
+@attribute 'in prima' numeric
+@attribute indian numeric
+@attribute indicar numeric
+@attribute 'indicar eu' numeric
+@attribute instantanne numeric
+@attribute inteiro numeric
+@attribute 'inteiro milena' numeric
+@attribute intenda numeric
+@attribute 'intenda a' numeric
+@attribute intende numeric
+@attribute 'intende ela' numeric
+@attribute interface numeric
+@attribute interfaz numeric
+@attribute intgr numeric
+@attribute intgration numeric
+@attribute 'intgration de' numeric
+@attribute intgres numeric
+@attribute into numeric
+@attribute ios numeric
+@attribute ipad numeric
+@attribute 'ipad RSB' numeric
+@attribute 'ipad generation' numeric
+@attribute iphone numeric
+@attribute iphones numeric
+@attribute 'iphones verkocht' numeric
+@attribute iria numeric
+@attribute 'iria ficar' numeric
+@attribute is numeric
+@attribute isso numeric
+@attribute 'isso iria' numeric
+@attribute ist numeric
+@attribute istoriju numeric
+@attribute 'istoriju URL' numeric
+@attribute it numeric
+@attribute its numeric
+@attribute itunes numeric
+@attribute iuehaiuaheiuhaeiuh numeric
+@attribute 'iuehaiuaheiuhaeiuh p' numeric
+@attribute j numeric
+@attribute ja numeric
+@attribute jag numeric
+@attribute jaja numeric
+@attribute jajaja numeric
+@attribute jajajaja numeric
+@attribute jajajajaja numeric
+@attribute jajajajajaja numeric
+@attribute janm numeric
+@attribute 'janm jwn' numeric
+@attribute je numeric
+@attribute 'je data' numeric
+@attribute 'je moet' numeric
+@attribute jetzt numeric
+@attribute job numeric
+@attribute jodi numeric
+@attribute 'jodi RRB' numeric
+@attribute joga numeric
+@attribute 'joga tudo' numeric
+@attribute jour numeric
+@attribute 'jour LRB' numeric
+@attribute juntos numeric
+@attribute 'juntos felicitaciones' numeric
+@attribute jwn numeric
+@attribute 'jwn li' numeric
+@attribute kan numeric
+@attribute kazdem numeric
+@attribute 'kazdem pres' numeric
+@attribute ke numeric
+@attribute 'ke prend' numeric
+@attribute keine numeric
+@attribute kelkeswa numeric
+@attribute 'kelkeswa app' numeric
+@attribute keynoteu numeric
+@attribute 'keynoteu vodi' numeric
+@attribute kijk numeric
+@attribute 'kijk op' numeric
+@attribute kinect numeric
+@attribute knee numeric
+@attribute know numeric
+@attribute ko numeric
+@attribute kroz numeric
+@attribute 'kroz istoriju' numeric
+@attribute kun numeric
+@attribute 'kun je' numeric
+@attribute kwijt numeric
+@attribute l numeric
+@attribute la numeric
+@attribute 'la firma' numeric
+@attribute 'la gente' numeric
+@attribute 'la ltima' numeric
+@attribute 'la new' numeric
+@attribute 'la nube' numeric
+@attribute 'la premire' numeric
+@attribute 'la radio' numeric
+@attribute 'la recherche' numeric
+@attribute 'la reconnaissance' numeric
+@attribute 'la semana' numeric
+@attribute 'la vez' numeric
+@attribute 'la vida' numeric
+@attribute laa numeric
+@attribute 'laa compuu' numeric
+@attribute langsame numeric
+@attribute 'langsame tod' numeric
+@attribute lanza numeric
+@attribute 'lanza URL' numeric
+@attribute 'lanza el' numeric
+@attribute 'lanza sitio' numeric
+@attribute lanzan numeric
+@attribute 'lanzan oficialmente' numeric
+@attribute lapp numeric
+@attribute largo numeric
+@attribute las numeric
+@attribute 'las aplicaciones' numeric
+@attribute 'las menciones' numeric
+@attribute 'las peleas' numeric
+@attribute 'las que' numeric
+@attribute le numeric
+@attribute 'le doy' numeric
+@attribute 'le fait' numeric
+@attribute 'le nfc' numeric
+@attribute 'le pasa' numeric
+@attribute 'le paso' numeric
+@attribute 'le prix' numeric
+@attribute lead numeric
+@attribute learning numeric
+@attribute 'learning circles' numeric
+@attribute leiderschap numeric
+@attribute 'leiderschap van' numeric
+@attribute les numeric
+@attribute 'les bendiiga' numeric
+@attribute 'les connections' numeric
+@attribute 'les mises' numeric
+@attribute 'les notifications' numeric
+@attribute 'les personnes' numeric
+@attribute leuke numeric
+@attribute 'leuke nieuwe' numeric
+@attribute levels numeric
+@attribute 'levels lol' numeric
+@attribute li numeric
+@attribute 'li ankor' numeric
+@attribute lie numeric
+@attribute 'lie sandra' numeric
+@attribute life numeric
+@attribute lignes numeric
+@attribute 'lignes sont' numeric
+@attribute like numeric
+@attribute 'like big' numeric
+@attribute linda numeric
+@attribute 'linda me' numeric
+@attribute linkedin numeric
+@attribute 'linkedin twitter' numeric
+@attribute links numeric
+@attribute 'links van' numeric
+@attribute lintgration numeric
+@attribute 'lintgration facebook' numeric
+@attribute lite numeric
+@attribute 'lite para' numeric
+@attribute live numeric
+@attribute llamado numeric
+@attribute 'llamado a' numeric
+@attribute lleg numeric
+@attribute llego numeric
+@attribute 'llego a' numeric
+@attribute lnt numeric
+@attribute lo numeric
+@attribute 'lo mas' numeric
+@attribute 'lo mataron' numeric
+@attribute 'lo mejor' numeric
+@attribute 'lo q' numeric
+@attribute 'lo que' numeric
+@attribute lol numeric
+@attribute 'lol rt' numeric
+@attribute lombok numeric
+@attribute los numeric
+@attribute 'los que' numeric
+@attribute losers numeric
+@attribute love numeric
+@attribute 'love how' numeric
+@attribute ltima numeric
+@attribute 'ltima campaa' numeric
+@attribute lugar numeric
+@attribute m numeric
+@attribute maaal numeric
+@attribute maana numeric
+@attribute 'maana xd' numeric
+@attribute maar numeric
+@attribute mac numeric
+@attribute macht numeric
+@attribute madrugada numeric
+@attribute mail numeric
+@attribute 'mail un' numeric
+@attribute mais numeric
+@attribute mala numeric
+@attribute maldito numeric
+@attribute malone numeric
+@attribute 'malone na' numeric
+@attribute manejar numeric
+@attribute 'manejar android' numeric
+@attribute market numeric
+@attribute martin numeric
+@attribute 'martin zijn' numeric
+@attribute mas numeric
+@attribute 'mas comunes' numeric
+@attribute 'mas y' numeric
+@attribute masih numeric
+@attribute mataron numeric
+@attribute 'mataron por' numeric
+@attribute me numeric
+@attribute 'me URL' numeric
+@attribute 'me arreglo' numeric
+@attribute 'me basta' numeric
+@attribute 'me encanta' numeric
+@attribute 'me esta' numeric
+@attribute 'me gusta' numeric
+@attribute 'me voy' numeric
+@attribute meer numeric
+@attribute meilleur numeric
+@attribute 'meilleur service' numeric
+@attribute mein numeric
+@attribute mejor numeric
+@attribute mejores numeric
+@attribute melhor numeric
+@attribute menciones numeric
+@attribute menm numeric
+@attribute menos numeric
+@attribute mercado numeric
+@attribute meses numeric
+@attribute mesh numeric
+@attribute mesmo numeric
+@attribute messagerie numeric
+@attribute 'messagerie vocale' numeric
+@attribute met numeric
+@attribute metamoforse numeric
+@attribute 'metamoforse sorridente' numeric
+@attribute meu numeric
+@attribute 'meu USERNAME' numeric
+@attribute meus numeric
+@attribute 'meus amigos' numeric
+@attribute mi numeric
+@attribute 'mi me' numeric
+@attribute 'mi vida' numeric
+@attribute 'mi y' numeric
+@attribute mich numeric
+@attribute microsoft numeric
+@attribute 'microsoft URL' numeric
+@attribute 'microsoft es' numeric
+@attribute mieux numeric
+@attribute mijn numeric
+@attribute milano numeric
+@attribute 'milano domani' numeric
+@attribute milena numeric
+@attribute millones numeric
+@attribute 'millones de' numeric
+@attribute mim numeric
+@attribute 'mim s' numeric
+@attribute min numeric
+@attribute mis numeric
+@attribute mises numeric
+@attribute 'mises jour' numeric
+@attribute mit numeric
+@attribute mln numeric
+@attribute 'mln iphones' numeric
+@attribute mm numeric
+@attribute mmm numeric
+@attribute mobiflipde numeric
+@attribute 'mobiflipde RRB' numeric
+@attribute mobile numeric
+@attribute moda numeric
+@attribute 'moda URL' numeric
+@attribute moet numeric
+@attribute moment numeric
+@attribute momento numeric
+@attribute 'momento URL' numeric
+@attribute monopolio numeric
+@attribute 'monopolio contra' numeric
+@attribute mooi numeric
+@attribute moral numeric
+@attribute more numeric
+@attribute 'more the' numeric
+@attribute morgen numeric
+@attribute mov numeric
+@attribute 'mov USERNAME' numeric
+@attribute ms numeric
+@attribute 'ms desarrolladores' numeric
+@attribute 'ms tiempo' numeric
+@attribute 'ms valorada' numeric
+@attribute msn numeric
+@attribute mucha numeric
+@attribute muitas numeric
+@attribute mundo numeric
+@attribute music numeric
+@attribute muy numeric
+@attribute muycanal numeric
+@attribute 'muycanal avanade' numeric
+@attribute my numeric
+@attribute n numeric
+@attribute na numeric
+@attribute 'na keynoteu' numeric
+@attribute naar numeric
+@attribute 'naar URL' numeric
+@attribute 'naar die' numeric
+@attribute nacional numeric
+@attribute nada numeric
+@attribute 'nada a' numeric
+@attribute 'nada que' numeric
+@attribute nadie numeric
+@attribute nao numeric
+@attribute 'nao intende' numeric
+@attribute nas numeric
+@attribute nat numeric
+@attribute 'nat a' numeric
+@attribute ne numeric
+@attribute 'ne slectionner' numeric
+@attribute necesitas numeric
+@attribute 'necesitas ser' numeric
+@attribute nee numeric
+@attribute nemecku numeric
+@attribute 'nemecku a' numeric
+@attribute new numeric
+@attribute 'new mov' numeric
+@attribute 'new orientation' numeric
+@attribute nexus numeric
+@attribute 'nexus URL' numeric
+@attribute 'nexus con' numeric
+@attribute 'nexus prime' numeric
+@attribute 'nexus und' numeric
+@attribute nfc numeric
+@attribute nfs numeric
+@attribute ni numeric
+@attribute nice numeric
+@attribute nicht numeric
+@attribute niet numeric
+@attribute nieuwe numeric
+@attribute 'nieuwe collega' numeric
+@attribute nimporte numeric
+@attribute 'nimporte quelle' numeric
+@attribute ninguem numeric
+@attribute nis numeric
+@attribute 'nis indicar' numeric
+@attribute no numeric
+@attribute 'no es' numeric
+@attribute 'no me' numeric
+@attribute 'no que' numeric
+@attribute 'no s' numeric
+@attribute 'no sabia' numeric
+@attribute 'no se' numeric
+@attribute 'no site' numeric
+@attribute 'no te' numeric
+@attribute 'no tengo' numeric
+@attribute 'no teu' numeric
+@attribute noche numeric
+@attribute noches numeric
+@attribute 'noches a' numeric
+@attribute nog numeric
+@attribute noite numeric
+@attribute nos numeric
+@attribute 'nos vemos' numeric
+@attribute not numeric
+@attribute 'not lie' numeric
+@attribute notifications numeric
+@attribute nouveau numeric
+@attribute nouvelle numeric
+@attribute 'nouvelle application' numeric
+@attribute noviembre numeric
+@attribute novo numeric
+@attribute now numeric
+@attribute 'now URL' numeric
+@attribute nu numeric
+@attribute 'nu beiden' numeric
+@attribute 'nu ook' numeric
+@attribute nube numeric
+@attribute nuestros numeric
+@attribute nueva numeric
+@attribute 'nueva forma' numeric
+@attribute 'nueva tecnologa' numeric
+@attribute nuevo numeric
+@attribute 'nuevo LRB' numeric
+@attribute 'nuevo de' numeric
+@attribute 'nuevo telfono' numeric
+@attribute nuevoooo numeric
+@attribute nunca numeric
+@attribute nur numeric
+@attribute o numeric
+@attribute 'o USERNAME' numeric
+@attribute 'o android' numeric
+@attribute 'o dernier' numeric
+@attribute 'o dia' numeric
+@attribute 'o meu' numeric
+@attribute 'o pedi' numeric
+@attribute 'o povo' numeric
+@attribute 'o qu' numeric
+@attribute 'o que' numeric
+@attribute 'o v' numeric
+@attribute 'o windows' numeric
+@attribute of numeric
+@attribute off numeric
+@attribute 'off a' numeric
+@attribute 'off buenas' numeric
+@attribute offiziell numeric
+@attribute 'offiziell vor' numeric
+@attribute oficial numeric
+@attribute 'oficial de' numeric
+@attribute oficialmente numeric
+@attribute 'oficialmente el' numeric
+@attribute ofrecen numeric
+@attribute 'ofrecen un' numeric
+@attribute og numeric
+@attribute oh numeric
+@attribute om numeric
+@attribute omnitouch numeric
+@attribute 'omnitouch faites' numeric
+@attribute on numeric
+@attribute 'on ak' numeric
+@attribute 'on knee' numeric
+@attribute 'on the' numeric
+@attribute onda numeric
+@attribute onder numeric
+@attribute 'onder bezielend' numeric
+@attribute onglets numeric
+@attribute online numeric
+@attribute oo numeric
+@attribute ook numeric
+@attribute 'ook de' numeric
+@attribute oooh numeric
+@attribute op numeric
+@attribute 'op URL' numeric
+@attribute 'op je' numeric
+@attribute or numeric
+@attribute orientation numeric
+@attribute 'orientation stratgique' numeric
+@attribute os numeric
+@attribute osmelxd numeric
+@attribute otro numeric
+@attribute ou numeric
+@attribute 'ou genyen' numeric
+@attribute 'ou pap' numeric
+@attribute 'ou pdi' numeric
+@attribute 'ou so' numeric
+@attribute our numeric
+@attribute out numeric
+@attribute outil numeric
+@attribute 'outil c' numeric
+@attribute outlook numeric
+@attribute over numeric
+@attribute p numeric
+@attribute pa numeric
+@attribute page numeric
+@attribute 'page de' numeric
+@attribute pakt numeric
+@attribute 'pakt vergrootglas' numeric
+@attribute pal numeric
+@attribute panda numeric
+@attribute pantalla numeric
+@attribute 'pantalla tctil' numeric
+@attribute pap numeric
+@attribute 'pap janm' numeric
+@attribute para numeric
+@attribute 'para la' numeric
+@attribute 'para los' numeric
+@attribute 'para manejar' numeric
+@attribute 'para no' numeric
+@attribute 'para proyecto' numeric
+@attribute 'para que' numeric
+@attribute 'para ser' numeric
+@attribute 'para ti' numeric
+@attribute 'para todos' numeric
+@attribute 'para trabajar' numeric
+@attribute 'para usar' numeric
+@attribute parado numeric
+@attribute partage numeric
+@attribute 'partage dapps' numeric
+@attribute parte numeric
+@attribute 'parte de' numeric
+@attribute pas numeric
+@attribute pasa numeric
+@attribute 'pasa a' numeric
+@attribute 'pasa ms' numeric
+@attribute pasar numeric
+@attribute paso numeric
+@attribute 'paso a' numeric
+@attribute pattern numeric
+@attribute 'pattern moda' numeric
+@attribute pdf numeric
+@attribute 'pdf ebook' numeric
+@attribute pdi numeric
+@attribute 'pdi on' numeric
+@attribute pedi numeric
+@attribute 'pedi no' numeric
+@attribute peleas numeric
+@attribute 'peleas entre' numeric
+@attribute pelo numeric
+@attribute pensamientos numeric
+@attribute pensando numeric
+@attribute 'pensando agora' numeric
+@attribute per numeric
+@attribute pero numeric
+@attribute 'pero el' numeric
+@attribute 'pero me' numeric
+@attribute 'pero no' numeric
+@attribute 'pero si' numeric
+@attribute persona numeric
+@attribute personas numeric
+@attribute 'personas son' numeric
+@attribute personnes numeric
+@attribute peu numeric
+@attribute 'peu comme' numeric
+@attribute peut numeric
+@attribute phone numeric
+@attribute photo numeric
+@attribute 'photo quasi' numeric
+@attribute pi numeric
+@attribute 'pi ou' numeric
+@attribute pin numeric
+@attribute pks numeric
+@attribute plan numeric
+@attribute 'plan nacional' numeric
+@attribute plataforma numeric
+@attribute please numeric
+@attribute plus numeric
+@attribute poco numeric
+@attribute pode numeric
+@attribute 'pode ser' numeric
+@attribute poker numeric
+@attribute pondre numeric
+@attribute ponen numeric
+@attribute por numeric
+@attribute 'por cierto' numeric
+@attribute 'por delante' numeric
+@attribute 'por el' numeric
+@attribute 'por eso' numeric
+@attribute 'por hoy' numeric
+@attribute 'por que' numeric
+@attribute 'por un' numeric
+@attribute 'por y' numeric
+@attribute 'por ya' numeric
+@attribute porque numeric
+@attribute possibilit numeric
+@attribute 'possibilit de' numeric
+@attribute posto numeric
+@attribute 'posto in' numeric
+@attribute pour numeric
+@attribute 'pour chaque' numeric
+@attribute povidani numeric
+@attribute 'povidani s' numeric
+@attribute povo numeric
+@attribute pra numeric
+@attribute 'pra galera' numeric
+@attribute 'pra mim' numeric
+@attribute 'pra quem' numeric
+@attribute premire numeric
+@attribute 'premire page' numeric
+@attribute prend numeric
+@attribute 'prend URL' numeric
+@attribute pres numeric
+@attribute presenta numeric
+@attribute 'presenta un' numeric
+@attribute presentancin numeric
+@attribute 'presentancin y' numeric
+@attribute presentations numeric
+@attribute prima numeric
+@attribute 'prima filavi' numeric
+@attribute prime numeric
+@attribute 'prime URL' numeric
+@attribute priode numeric
+@attribute 'priode et' numeric
+@attribute prisa numeric
+@attribute 'prisa en' numeric
+@attribute prise numeric
+@attribute 'prise de' numeric
+@attribute prisutne numeric
+@attribute 'prisutne kroz' numeric
+@attribute prix numeric
+@attribute 'prix du' numeric
+@attribute pro numeric
+@attribute propose numeric
+@attribute proxy numeric
+@attribute proyectada numeric
+@attribute 'proyectada sobre' numeric
+@attribute proyecto numeric
+@attribute 'proyecto en' numeric
+@attribute ps numeric
+@attribute pub numeric
+@attribute publiek numeric
+@attribute 'publiek zoals' numeric
+@attribute puede numeric
+@attribute puedo numeric
+@attribute pues numeric
+@attribute 'pues ahora' numeric
+@attribute pura numeric
+@attribute pure numeric
+@attribute q numeric
+@attribute 'q onda' numeric
+@attribute qe numeric
+@attribute qr numeric
+@attribute 'qr codes' numeric
+@attribute qu numeric
+@attribute 'qu se' numeric
+@attribute quando numeric
+@attribute quasi numeric
+@attribute 'quasi instantanne' numeric
+@attribute que numeric
+@attribute 'que USERNAME' numeric
+@attribute 'que a' numeric
+@attribute 'que darse' numeric
+@attribute 'que el' numeric
+@attribute 'que en' numeric
+@attribute 'que es' numeric
+@attribute 'que esta' numeric
+@attribute 'que eu' numeric
+@attribute 'que frutas' numeric
+@attribute 'que haba' numeric
+@attribute 'que le' numeric
+@attribute 'que lo' numeric
+@attribute 'que los' numeric
+@attribute 'que me' numeric
+@attribute 'que no' numeric
+@attribute 'que ponen' numeric
+@attribute 'que se' numeric
+@attribute 'que si' numeric
+@attribute 'que sirve' numeric
+@attribute 'que te' numeric
+@attribute 'que vende' numeric
+@attribute 'que ver' numeric
+@attribute quedo numeric
+@attribute quelle numeric
+@attribute 'quelle surface' numeric
+@attribute quelque numeric
+@attribute 'quelque sorte' numeric
+@attribute quem numeric
+@attribute querida numeric
+@attribute 'querida USERNAME' numeric
+@attribute qui numeric
+@attribute quien numeric
+@attribute quiere numeric
+@attribute quiero numeric
+@attribute quune numeric
+@attribute 'quune priode' numeric
+@attribute r numeric
+@attribute radio numeric
+@attribute rato numeric
+@attribute re numeric
+@attribute real numeric
+@attribute realmente numeric
+@attribute recherche numeric
+@attribute 'recherche crypte' numeric
+@attribute reconnaissance numeric
+@attribute 'reconnaissance vocale' numeric
+@attribute recuerdan numeric
+@attribute 'recuerdan que' numeric
+@attribute remake numeric
+@attribute 'remake de' numeric
+@attribute remporte numeric
+@attribute 'remporte le' numeric
+@attribute repeat numeric
+@attribute 'repeat pattern' numeric
+@attribute request numeric
+@attribute research numeric
+@attribute resp numeric
+@attribute 'resp ou' numeric
+@attribute respecto numeric
+@attribute respekt numeric
+@attribute reuters numeric
+@attribute row numeric
+@attribute 'row the' numeric
+@attribute rpg numeric
+@attribute 'rpg core' numeric
+@attribute rt numeric
+@attribute 'rt USERNAME' numeric
+@attribute rubin numeric
+@attribute 'rubin de' numeric
+@attribute rules numeric
+@attribute 'rules pdf' numeric
+@attribute rusku numeric
+@attribute 'rusku v' numeric
+@attribute s numeric
+@attribute 's LRB' numeric
+@attribute 's falar' numeric
+@attribute 's o' numeric
+@attribute sabe numeric
+@attribute sabia numeric
+@attribute sacarlo numeric
+@attribute 'sacarlo del' numeric
+@attribute saints numeric
+@attribute 'saints row' numeric
+@attribute samsung numeric
+@attribute 'samsung galaxy' numeric
+@attribute 'samsung lanza' numeric
+@attribute 'samsung nexus' numeric
+@attribute sandra numeric
+@attribute 'sandra levels' numeric
+@attribute sandwich numeric
+@attribute 'sandwich LRB' numeric
+@attribute 'sandwich URL' numeric
+@attribute 'sandwich android' numeric
+@attribute 'sandwich offiziell' numeric
+@attribute 'sandwich y' numeric
+@attribute sap numeric
+@attribute savoir numeric
+@attribute 'savoir pour' numeric
+@attribute sby numeric
+@attribute school numeric
+@attribute 'school pdf' numeric
+@attribute sdk numeric
+@attribute 'sdk dispo' numeric
+@attribute se numeric
+@attribute 'se fosse' numeric
+@attribute 'se hace' numeric
+@attribute 'se jodi' numeric
+@attribute 'se me' numeric
+@attribute 'se pasa' numeric
+@attribute 'se por' numeric
+@attribute 'se que' numeric
+@attribute 'se un' numeric
+@attribute 'se v' numeric
+@attribute sea numeric
+@attribute sean numeric
+@attribute seas numeric
+@attribute security numeric
+@attribute seg numeric
+@attribute segn numeric
+@attribute segue numeric
+@attribute 'segue de' numeric
+@attribute seguidores numeric
+@attribute seguir numeric
+@attribute 'seguir pode' numeric
+@attribute sehr numeric
+@attribute seit numeric
+@attribute sell numeric
+@attribute semana numeric
+@attribute senior numeric
+@attribute sense numeric
+@attribute seo numeric
+@attribute 'seo suche' numeric
+@attribute ser numeric
+@attribute 'ser feliz' numeric
+@attribute 'ser que' numeric
+@attribute 'ser un' numeric
+@attribute server numeric
+@attribute 'server URL' numeric
+@attribute service numeric
+@attribute 'service client' numeric
+@attribute 'service google' numeric
+@attribute servicio numeric
+@attribute servicios numeric
+@attribute sessioni numeric
+@attribute 'sessioni tecniche' numeric
+@attribute sex numeric
+@attribute share numeric
+@attribute sharepoint numeric
+@attribute si numeric
+@attribute 'si la' numeric
+@attribute 'si le' numeric
+@attribute 'si me' numeric
+@attribute 'si tengo' numeric
+@attribute 'si voz' numeric
+@attribute siempre numeric
+@attribute siga numeric
+@attribute sigo numeric
+@attribute sigue numeric
+@attribute sin numeric
+@attribute 'sin sacarlo' numeric
+@attribute singapore numeric
+@attribute sirve numeric
+@attribute 'sirve despues' numeric
+@attribute sistema numeric
+@attribute site numeric
+@attribute sites numeric
+@attribute 'sites de' numeric
+@attribute sitio numeric
+@attribute 'sitio oficial' numeric
+@attribute slectionner numeric
+@attribute 'slectionner quune' numeric
+@attribute smartphone numeric
+@attribute 'smartphone con' numeric
+@attribute so numeric
+@attribute 'so ou' numeric
+@attribute sobre numeric
+@attribute 'sobre cualquier' numeric
+@attribute socios numeric
+@attribute 'socios hoster' numeric
+@attribute software numeric
+@attribute soit numeric
+@attribute solamente numeric
+@attribute solo numeric
+@attribute son numeric
+@attribute 'son las' numeric
+@attribute 'son mas' numeric
+@attribute sonic numeric
+@attribute 'sonic generations' numeric
+@attribute sono numeric
+@attribute sont numeric
+@attribute 'sont affiches' numeric
+@attribute 'sont enfin' numeric
+@attribute sony numeric
+@attribute 'sony ericsson' numeric
+@attribute sopa numeric
+@attribute 'sopa boba' numeric
+@attribute sorridente numeric
+@attribute 'sorridente ela' numeric
+@attribute sorte numeric
+@attribute sos numeric
+@attribute sou numeric
+@attribute soy numeric
+@attribute specialist numeric
+@attribute speech numeric
+@attribute st numeric
+@attribute starring numeric
+@attribute 'starring ichiro' numeric
+@attribute stay numeric
+@attribute 'stay tunef' numeric
+@attribute stellen numeric
+@attribute stellt numeric
+@attribute steve numeric
+@attribute 'steve ballmer' numeric
+@attribute still numeric
+@attribute store numeric
+@attribute 'store starring' numeric
+@attribute story numeric
+@attribute 'story harvard' numeric
+@attribute strategy numeric
+@attribute stratgique numeric
+@attribute 'stratgique ke' numeric
+@attribute su numeric
+@attribute 'su tecnologa' numeric
+@attribute success numeric
+@attribute 'success story' numeric
+@attribute suche numeric
+@attribute 'suche fr' numeric
+@attribute sueo numeric
+@attribute sueos numeric
+@attribute sul numeric
+@attribute summit numeric
+@attribute super numeric
+@attribute superficie numeric
+@attribute 'superficie URL' numeric
+@attribute 'superficie en' numeric
+@attribute sur numeric
+@attribute 'sur la' numeric
+@attribute 'sur le' numeric
+@attribute surface numeric
+@attribute 'surface un' numeric
+@attribute surfactants numeric
+@attribute 'surfactants pdf' numeric
+@attribute sus numeric
+@attribute sympa numeric
+@attribute t numeric
+@attribute 't utilis' numeric
+@attribute ta numeric
+@attribute tablet numeric
+@attribute tactil numeric
+@attribute tactile numeric
+@attribute 'tactile URL' numeric
+@attribute taguer numeric
+@attribute 'taguer les' numeric
+@attribute tambin numeric
+@attribute 'tambin conocido' numeric
+@attribute 'tambin en' numeric
+@attribute tan numeric
+@attribute 'tan linda' numeric
+@attribute tanto numeric
+@attribute tctil numeric
+@attribute 'tctil proyectada' numeric
+@attribute 'tctil sobre' numeric
+@attribute te numeric
+@attribute 'te ama' numeric
+@attribute 'te amo' numeric
+@attribute teclado numeric
+@attribute 'teclado tctil' numeric
+@attribute tecniche numeric
+@attribute 'tecniche stay' numeric
+@attribute tecnolgica numeric
+@attribute 'tecnolgica ms' numeric
+@attribute tecnologa numeric
+@attribute 'tecnologa avanzada' numeric
+@attribute tecnologia numeric
+@attribute tel numeric
+@attribute telefono numeric
+@attribute 'telefono sin' numeric
+@attribute telfono numeric
+@attribute 'telfono de' numeric
+@attribute telfonos numeric
+@attribute tem numeric
+@attribute tendremos numeric
+@attribute tendue numeric
+@attribute tener numeric
+@attribute tengo numeric
+@attribute 'tengo a' numeric
+@attribute 'tengo lo' numeric
+@attribute 'tengo q' numeric
+@attribute 'tengo que' numeric
+@attribute 'tengo y' numeric
+@attribute tenho numeric
+@attribute terug numeric
+@attribute 'terug van' numeric
+@attribute tester numeric
+@attribute teu numeric
+@attribute 'teu pra' numeric
+@attribute texas numeric
+@attribute 'texas holdem' numeric
+@attribute thailand numeric
+@attribute 'thailand market' numeric
+@attribute that numeric
+@attribute the numeric
+@attribute 'the best' numeric
+@attribute 'the third' numeric
+@attribute then numeric
+@attribute third numeric
+@attribute 'third and' numeric
+@attribute this numeric
+@attribute ti numeric
+@attribute tiempo numeric
+@attribute 'tiempo en' numeric
+@attribute tiene numeric
+@attribute 'tiene un' numeric
+@attribute tienen numeric
+@attribute to numeric
+@attribute 'to sell' numeric
+@attribute tod numeric
+@attribute 'tod von' numeric
+@attribute todas numeric
+@attribute 'todas las' numeric
+@attribute today numeric
+@attribute todo numeric
+@attribute 'todo el' numeric
+@attribute 'todo por' numeric
+@attribute 'todo si' numeric
+@attribute 'todo y' numeric
+@attribute todos numeric
+@attribute 'todos los' numeric
+@attribute ton numeric
+@attribute tools numeric
+@attribute top numeric
+@attribute touch numeric
+@attribute touchscreen numeric
+@attribute 'touchscreen URL' numeric
+@attribute tournament numeric
+@attribute tous numeric
+@attribute tout numeric
+@attribute toutes numeric
+@attribute tra numeric
+@attribute trabajar numeric
+@attribute tre numeric
+@attribute tres numeric
+@attribute trs numeric
+@attribute 'trs sympa' numeric
+@attribute tt numeric
+@attribute ttinha numeric
+@attribute tu numeric
+@attribute tudo numeric
+@attribute 'tudo iuehaiuaheiuhaeiuh' numeric
+@attribute 'tudo no' numeric
+@attribute tunef numeric
+@attribute tweets numeric
+@attribute twitter numeric
+@attribute 'twitter sont' numeric
+@attribute twoja numeric
+@attribute typebuilder numeric
+@attribute u numeric
+@attribute uff numeric
+@attribute uhmw numeric
+@attribute uit numeric
+@attribute 'uit naar' numeric
+@attribute um numeric
+@attribute uma numeric
+@attribute un numeric
+@attribute 'un antiguo' numeric
+@attribute 'un aperu' numeric
+@attribute 'un basado' numeric
+@attribute 'un cientfico' numeric
+@attribute 'un cran' numeric
+@attribute 'un mercado' numeric
+@attribute 'un peu' numeric
+@attribute 'un posto' numeric
+@attribute 'un rato' numeric
+@attribute 'un service' numeric
+@attribute 'un teclado' numeric
+@attribute 'un vistazo' numeric
+@attribute una numeric
+@attribute 'una cuenta' numeric
+@attribute 'una nueva' numeric
+@attribute 'una pantalla' numeric
+@attribute 'una sopa' numeric
+@attribute und numeric
+@attribute 'und android' numeric
+@attribute 'und die' numeric
+@attribute 'und samsung' numeric
+@attribute une numeric
+@attribute up numeric
+@attribute 'up USERNAME' numeric
+@attribute 'up to' numeric
+@attribute update numeric
+@attribute ur numeric
+@attribute usa numeric
+@attribute usagi numeric
+@attribute 'usagi yojimbo' numeric
+@attribute usar numeric
+@attribute 'usar el' numeric
+@attribute use numeric
+@attribute user numeric
+@attribute 'user verschlsselt' numeric
+@attribute using numeric
+@attribute usuarios numeric
+@attribute utilis numeric
+@attribute utilisateurs numeric
+@attribute 'utilisateurs connects' numeric
+@attribute utilizar numeric
+@attribute uu numeric
+@attribute uz numeric
+@attribute 'uz je' numeric
+@attribute v numeric
+@attribute 'v amsterodamu' numeric
+@attribute 'v evrope' numeric
+@attribute 'v kazdem' numeric
+@attribute 'v nemecku' numeric
+@attribute va numeric
+@attribute 'va USERNAME' numeric
+@attribute vai numeric
+@attribute vale numeric
+@attribute valorada numeric
+@attribute 'valorada por' numeric
+@attribute van numeric
+@attribute 'van USERNAME' numeric
+@attribute 'van a' numeric
+@attribute 'van evaluatie' numeric
+@attribute 'van martin' numeric
+@attribute vast numeric
+@attribute vc numeric
+@attribute vemos numeric
+@attribute vende numeric
+@attribute 'vende todo' numeric
+@attribute vendidos numeric
+@attribute ver numeric
+@attribute vergrootglas numeric
+@attribute 'vergrootglas erbij' numeric
+@attribute verkocht numeric
+@attribute 'verkocht in' numeric
+@attribute vers numeric
+@attribute 'vers e' numeric
+@attribute verschlsselt numeric
+@attribute 'verschlsselt URL' numeric
+@attribute very numeric
+@attribute vez numeric
+@attribute 'vez URL' numeric
+@attribute vi numeric
+@attribute via numeric
+@attribute 'via USERNAME' numeric
+@attribute vicio numeric
+@attribute vida numeric
+@attribute video numeric
+@attribute videollamada numeric
+@attribute vido numeric
+@attribute virage numeric
+@attribute 'virage success' numeric
+@attribute vistazo numeric
+@attribute 'vistazo a' numeric
+@attribute visto numeric
+@attribute viva numeric
+@attribute voc numeric
+@attribute vocale numeric
+@attribute 'vocale directement' numeric
+@attribute vodi numeric
+@attribute 'vodi prisutne' numeric
+@attribute voici numeric
+@attribute voir numeric
+@attribute 'voir les' numeric
+@attribute volgens numeric
+@attribute volta numeric
+@attribute volviiendoo numeric
+@attribute 'volviiendoo ah' numeric
+@attribute von numeric
+@attribute 'von seo' numeric
+@attribute voor numeric
+@attribute 'voor de' numeric
+@attribute 'voor links' numeric
+@attribute vor numeric
+@attribute 'vor LRB' numeric
+@attribute vos numeric
+@attribute vou numeric
+@attribute vous numeric
+@attribute voy numeric
+@attribute 'voy a' numeric
+@attribute voz numeric
+@attribute vrai numeric
+@attribute vs numeric
+@attribute vv numeric
+@attribute w numeric
+@attribute warum numeric
+@attribute wat numeric
+@attribute we numeric
+@attribute 'we weer' numeric
+@attribute web numeric
+@attribute weekend numeric
+@attribute 'weekend URL' numeric
+@attribute weer numeric
+@attribute 'weer pakt' numeric
+@attribute 'weer wel' numeric
+@attribute weg numeric
+@attribute wel numeric
+@attribute 'wel een' numeric
+@attribute 'wel handig' numeric
+@attribute what numeric
+@attribute 'what is' numeric
+@attribute when numeric
+@attribute why numeric
+@attribute widgets numeric
+@attribute wie numeric
+@attribute windows numeric
+@attribute 'windows phone' numeric
+@attribute 'windows server' numeric
+@attribute 'windows update' numeric
+@attribute with numeric
+@attribute wordt numeric
+@attribute wwwalgnetve numeric
+@attribute x numeric
+@attribute 'x RRB' numeric
+@attribute 'x q' numeric
+@attribute xd numeric
+@attribute y numeric
+@attribute 'y URL' numeric
+@attribute 'y a' numeric
+@attribute 'y con' numeric
+@attribute 'y de' numeric
+@attribute 'y el' numeric
+@attribute 'y en' numeric
+@attribute 'y ferranti' numeric
+@attribute 'y lo' numeric
+@attribute 'y mas' numeric
+@attribute 'y mi' numeric
+@attribute 'y nada' numeric
+@attribute 'y no' numeric
+@attribute 'y samsung' numeric
+@attribute 'y su' numeric
+@attribute 'y tengo' numeric
+@attribute ya numeric
+@attribute 'ya es' numeric
+@attribute 'ya me' numeric
+@attribute 'ya no' numeric
+@attribute 'ya rt' numeric
+@attribute 'ya se' numeric
+@attribute yahoo numeric
+@attribute 'yahoo en' numeric
+@attribute yo numeric
+@attribute yojimbo numeric
+@attribute 'yojimbo rpg' numeric
+@attribute you numeric
+@attribute 'you are' numeric
+@attribute 'you do' numeric
+@attribute your numeric
+@attribute zeer numeric
+@attribute zijn numeric
+@attribute 'zijn qr' numeric
+@attribute zo numeric
+@attribute zoals numeric
+@attribute 'zoals dit' numeric
+@attribute zoek numeric
+@attribute zoeken numeric
+@attribute 'zoeken naar' numeric
+@attribute zu numeric
+@attribute 'zu android' numeric
+@attribute zum numeric
+@attribute 'LRB USERNAME' numeric
+@attribute 'LRB and' numeric
+@attribute 'LRB not' numeric
+@attribute 'LRB respect' numeric
+@attribute 'LRB xbl' numeric
+@attribute 'RRB accounts' numeric
+@attribute 'URL microsoft' numeric
+@attribute 'USERNAME and' numeric
+@attribute 'USERNAME calling' numeric
+@attribute 'USERNAME can' numeric
+@attribute 'USERNAME care' numeric
+@attribute 'USERNAME customer' numeric
+@attribute 'USERNAME dear' numeric
+@attribute 'USERNAME do' numeric
+@attribute 'USERNAME does' numeric
+@attribute 'USERNAME fail' numeric
+@attribute 'USERNAME for' numeric
+@attribute 'USERNAME genius' numeric
+@attribute 'USERNAME give' numeric
+@attribute 'USERNAME has' numeric
+@attribute 'USERNAME how' numeric
+@attribute 'USERNAME if' numeric
+@attribute 'USERNAME iphone' numeric
+@attribute 'USERNAME my' numeric
+@attribute 'USERNAME now' numeric
+@attribute 'USERNAME officially' numeric
+@attribute 'USERNAME one' numeric
+@attribute 'USERNAME please' numeric
+@attribute 'USERNAME s' numeric
+@attribute 'USERNAME so' numeric
+@attribute 'USERNAME tech' numeric
+@attribute 'USERNAME that' numeric
+@attribute 'USERNAME the' numeric
+@attribute 'USERNAME they' numeric
+@attribute 'USERNAME to' numeric
+@attribute 'USERNAME what' numeric
+@attribute 'USERNAME why' numeric
+@attribute 'USERNAME wow' numeric
+@attribute 'USERNAME you' numeric
+@attribute 'USERNAME your' numeric
+@attribute 'a droid' numeric
+@attribute 'a genius' numeric
+@attribute 'a great' numeric
+@attribute 'a little' numeric
+@attribute 'a lot' numeric
+@attribute 'a new' numeric
+@attribute 'a pc' numeric
+@attribute 'a problem' numeric
+@attribute 'a week' numeric
+@attribute able numeric
+@attribute 'able to' numeric
+@attribute about numeric
+@attribute 'about URL' numeric
+@attribute 'about hours' numeric
+@attribute absolutely numeric
+@attribute account numeric
+@attribute 'account has' numeric
+@attribute accounts numeric
+@attribute 'accounts after' numeric
+@attribute acct numeric
+@attribute 'acct being' numeric
+@attribute actually numeric
+@attribute after numeric
+@attribute 'after online' numeric
+@attribute again numeric
+@attribute agree numeric
+@attribute 'agree join' numeric
+@attribute albatross numeric
+@attribute 'albatross around' numeric
+@attribute all numeric
+@attribute 'all my' numeric
+@attribute 'all of' numeric
+@attribute 'all the' numeric
+@attribute alone numeric
+@attribute also numeric
+@attribute always numeric
+@attribute 'am not' numeric
+@attribute 'an albatross' numeric
+@attribute 'an hour' numeric
+@attribute 'and fat' numeric
+@attribute 'and i' numeric
+@attribute 'and inept' numeric
+@attribute 'and it' numeric
+@attribute 'and made' numeric
+@attribute 'and my' numeric
+@attribute 'and now' numeric
+@attribute 'and on' numeric
+@attribute 'and tell' numeric
+@attribute 'and the' numeric
+@attribute 'and they' numeric
+@attribute 'and you' numeric
+@attribute announcement numeric
+@attribute another numeric
+@attribute antitrust numeric
+@attribute any numeric
+@attribute anyone numeric
+@attribute 'app is' numeric
+@attribute apparently numeric
+@attribute 'apparently USERNAME' numeric
+@attribute 'apple store' numeric
+@attribute appointment numeric
+@attribute 'apps data' numeric
+@attribute around numeric
+@attribute 'around s' numeric
+@attribute arrogant numeric
+@attribute 'arrogant and' numeric
+@attribute ask numeric
+@attribute ass numeric
+@attribute 'ass bird' numeric
+@attribute 'ass over' numeric
+@attribute 'at USERNAME' numeric
+@attribute 'at pm' numeric
+@attribute 'at the' numeric
+@attribute attributed numeric
+@attribute 'attributed to' numeric
+@attribute audio numeric
+@attribute awful numeric
+@attribute 'back to' numeric
+@attribute bad numeric
+@attribute 'bad combo' numeric
+@attribute bar numeric
+@attribute battery numeric
+@attribute 'battery life' numeric
+@attribute be numeric
+@attribute 'be a' numeric
+@attribute 'be able' numeric
+@attribute 'be the' numeric
+@attribute been numeric
+@attribute 'been hacked' numeric
+@attribute 'been on' numeric
+@attribute 'been working' numeric
+@attribute before numeric
+@attribute being numeric
+@attribute 'being hacked' numeric
+@attribute believe numeric
+@attribute beta numeric
+@attribute better numeric
+@attribute 'better be' numeric
+@attribute between numeric
+@attribute biltmore numeric
+@attribute 'biltmore apple' numeric
+@attribute bird numeric
+@attribute 'bird and' numeric
+@attribute bloody numeric
+@attribute blue numeric
+@attribute 'blue ass' numeric
+@attribute blues numeric
+@attribute 'blues drink' numeric
+@attribute bn numeric
+@attribute 'bn to' numeric
+@attribute both numeric
+@attribute bought numeric
+@attribute boycotting numeric
+@attribute 'boycotting USERNAME' numeric
+@attribute broke numeric
+@attribute 'broke the' numeric
+@attribute browsers numeric
+@attribute 'but i' numeric
+@attribute buy numeric
+@attribute buying numeric
+@attribute 'buying a' numeric
+@attribute ca numeric
+@attribute 'ca nt' numeric
+@attribute call numeric
+@attribute calling numeric
+@attribute 'calling USERNAME' numeric
+@attribute calls numeric
+@attribute 'calls victims' numeric
+@attribute 'can suck' numeric
+@attribute 'can you' numeric
+@attribute capacity numeric
+@attribute 'capacity whale' numeric
+@attribute card numeric
+@attribute care numeric
+@attribute cause numeric
+@attribute charge numeric
+@attribute charging numeric
+@attribute chu numeric
+@attribute 'chu USERNAME' numeric
+@attribute cloud numeric
+@attribute code numeric
+@attribute combo numeric
+@attribute 'combo biltmore' numeric
+@attribute 'come on' numeric
+@attribute compares numeric
+@attribute 'compares to' numeric
+@attribute completely numeric
+@attribute congratulations numeric
+@attribute connect numeric
+@attribute 'connect to' numeric
+@attribute copy numeric
+@attribute cord numeric
+@attribute could numeric
+@attribute crap numeric
+@attribute crashes numeric
+@attribute crashing numeric
+@attribute credit numeric
+@attribute curse numeric
+@attribute 'curse them' numeric
+@attribute customer numeric
+@attribute 'customer service' numeric
+@attribute 'd be' numeric
+@attribute damage numeric
+@attribute damn numeric
+@attribute 'data and' numeric
+@attribute day numeric
+@attribute 'day something' numeric
+@attribute dead numeric
+@attribute deal numeric
+@attribute 'deal URL' numeric
+@attribute dear numeric
+@attribute 'dear USERNAME' numeric
+@attribute 'dear learn' numeric
+@attribute delete numeric
+@attribute did numeric
+@attribute 'did nt' numeric
+@attribute disappointed numeric
+@attribute disappointing numeric
+@attribute discussion numeric
+@attribute 'discussion URL' numeric
+@attribute 'do better' numeric
+@attribute 'do i' numeric
+@attribute 'do nt' numeric
+@attribute 'do u' numeric
+@attribute 'do you' numeric
+@attribute does numeric
+@attribute 'does not' numeric
+@attribute 'does nt' numeric
+@attribute doing numeric
+@attribute dont numeric
+@attribute down numeric
+@attribute downgrade numeric
+@attribute drink numeric
+@attribute 'drink rt' numeric
+@attribute droid numeric
+@attribute drop numeric
+@attribute 'drop attributed' numeric
+@attribute eclipsed numeric
+@attribute 'eclipsed URL' numeric
+@attribute either numeric
+@attribute else numeric
+@attribute 'else having' numeric
+@attribute 'else is' numeric
+@attribute engages numeric
+@attribute 'engages in' numeric
+@attribute even numeric
+@attribute ever numeric
+@attribute 'ever arrogant' numeric
+@attribute 'ever get' numeric
+@attribute every numeric
+@attribute 'every time' numeric
+@attribute 'everyone else' numeric
+@attribute everything numeric
+@attribute experience numeric
+@attribute 'experience ever' numeric
+@attribute fail numeric
+@attribute 'fail for' numeric
+@attribute failed numeric
+@attribute failing numeric
+@attribute family numeric
+@attribute fat numeric
+@attribute 'fat ass' numeric
+@attribute fault numeric
+@attribute fcucks numeric
+@attribute 'fcucks sake' numeric
+@attribute features numeric
+@attribute feel numeric
+@attribute file numeric
+@attribute first numeric
+@attribute 'first please' numeric
+@attribute 'first thing' numeric
+@attribute 'first time' numeric
+@attribute fix numeric
+@attribute 'fix ios' numeric
+@attribute 'fix it' numeric
+@attribute 'fix my' numeric
+@attribute 'fix she' numeric
+@attribute fixed numeric
+@attribute 'for a' numeric
+@attribute 'for fcucks' numeric
+@attribute 'for hours' numeric
+@attribute 'for my' numeric
+@attribute 'for such' numeric
+@attribute 'for this' numeric
+@attribute 'for using' numeric
+@attribute 'for wasting' numeric
+@attribute 'for you' numeric
+@attribute forget numeric
+@attribute freezes numeric
+@attribute 'from USERNAME' numeric
+@attribute 'from my' numeric
+@attribute frozen numeric
+@attribute 'frozen some' numeric
+@attribute fuck numeric
+@attribute 'fuck you' numeric
+@attribute fucked numeric
+@attribute fucking numeric
+@attribute 'fucking playlist' numeric
+@attribute full numeric
+@attribute gamers numeric
+@attribute 'gamers report' numeric
+@attribute genius numeric
+@attribute 'genius USERNAME' numeric
+@attribute 'genius bar' numeric
+@attribute 'get it' numeric
+@attribute gettin numeric
+@attribute getting numeric
+@attribute give numeric
+@attribute 'give me' numeric
+@attribute glad numeric
+@attribute goes numeric
+@attribute going numeric
+@attribute 'going to' numeric
+@attribute gon numeric
+@attribute 'gon na' numeric
+@attribute gone numeric
+@attribute good numeric
+@attribute got numeric
+@attribute 'got ta' numeric
+@attribute great numeric
+@attribute 'great product' numeric
+@attribute guys numeric
+@attribute hack numeric
+@attribute 'hack will' numeric
+@attribute hacked numeric
+@attribute 'hacked URL' numeric
+@attribute 'hacked this' numeric
+@attribute had numeric
+@attribute 'had the' numeric
+@attribute 'had to' numeric
+@attribute half numeric
+@attribute 'half an' numeric
+@attribute 'half the' numeric
+@attribute happened numeric
+@attribute has numeric
+@attribute 'has a' numeric
+@attribute 'has been' numeric
+@attribute 'has done' numeric
+@attribute 'has frozen' numeric
+@attribute 'has not' numeric
+@attribute hate numeric
+@attribute 'have a' numeric
+@attribute 'have been' numeric
+@attribute 'have to' numeric
+@attribute having numeric
+@attribute 'having this' numeric
+@attribute 'having trouble' numeric
+@attribute hell numeric
+@attribute help numeric
+@attribute her numeric
+@attribute hold numeric
+@attribute 'hold with' numeric
+@attribute home numeric
+@attribute hope numeric
+@attribute hour numeric
+@attribute hours numeric
+@attribute 'hours is' numeric
+@attribute 'how do' numeric
+@attribute 'how eclipsed' numeric
+@attribute 'how much' numeric
+@attribute hrs numeric
+@attribute hurry numeric
+@attribute 'i am' numeric
+@attribute 'i better' numeric
+@attribute 'i ca' numeric
+@attribute 'i do' numeric
+@attribute 'i ever' numeric
+@attribute 'i get' numeric
+@attribute 'i had' numeric
+@attribute 'i hate' numeric
+@attribute 'i have' numeric
+@attribute 'i just' numeric
+@attribute 'i keep' numeric
+@attribute 'i m' numeric
+@attribute 'i need' numeric
+@attribute 'i paid' numeric
+@attribute 'i really' numeric
+@attribute 'i ve' numeric
+@attribute 'i would' numeric
+@attribute icloud numeric
+@attribute idisk numeric
+@attribute if numeric
+@attribute 'if USERNAME' numeric
+@attribute 'if it' numeric
+@attribute im numeric
+@attribute 'in all' numeric
+@attribute 'in ios' numeric
+@attribute 'in itunes' numeric
+@attribute 'in line' numeric
+@attribute 'in my' numeric
+@attribute 'in racketeering' numeric
+@attribute 'in so' numeric
+@attribute 'in the' numeric
+@attribute incompatible numeric
+@attribute inept numeric
+@attribute 'inept bad' numeric
+@attribute installing numeric
+@attribute interesting numeric
+@attribute 'ios this' numeric
+@attribute 'ios update' numeric
+@attribute 'ios upgrade' numeric
+@attribute 'iphone and' numeric
+@attribute 'iphone is' numeric
+@attribute 'iphone s' numeric
+@attribute 'is a' numeric
+@attribute 'is everyone' numeric
+@attribute 'is failing' numeric
+@attribute 'is gettin' numeric
+@attribute 'is going' numeric
+@attribute 'is having' numeric
+@attribute 'is in' numeric
+@attribute 'is it' numeric
+@attribute 'is not' numeric
+@attribute 'is now' numeric
+@attribute 'is nt' numeric
+@attribute 'is the' numeric
+@attribute 'is this' numeric
+@attribute 'is worse' numeric
+@attribute issue numeric
+@attribute issues numeric
+@attribute 'issues they' numeric
+@attribute 'issues with' numeric
+@attribute 'it back' numeric
+@attribute 'it engages' numeric
+@attribute 'it has' numeric
+@attribute 'it is' numeric
+@attribute 'it just' numeric
+@attribute 'it played' numeric
+@attribute 'it s' numeric
+@attribute 'it to' numeric
+@attribute 'it was' numeric
+@attribute 'it wrong' numeric
+@attribute items numeric
+@attribute itouch numeric
+@attribute jobs numeric
+@attribute join numeric
+@attribute 'join the' numeric
+@attribute just numeric
+@attribute 'just like' numeric
+@attribute k numeric
+@attribute keep numeric
+@attribute kill numeric
+@attribute killed numeric
+@attribute late numeric
+@attribute launch numeric
+@attribute law numeric
+@attribute 'law it' numeric
+@attribute learn numeric
+@attribute 'learn some' numeric
+@attribute let numeric
+@attribute 'let me' numeric
+@attribute 'like USERNAME' numeric
+@attribute lil numeric
+@attribute 'lil blue' numeric
+@attribute line numeric
+@attribute 'line for' numeric
+@attribute lion numeric
+@attribute list numeric
+@attribute little numeric
+@attribute 'live LRB' numeric
+@attribute 'live acct' numeric
+@attribute ll numeric
+@attribute loop numeric
+@attribute lose numeric
+@attribute 'lose bn' numeric
+@attribute losing numeric
+@attribute lost numeric
+@attribute lot numeric
+@attribute 'm buying' numeric
+@attribute 'm on' numeric
+@attribute 'm wit' numeric
+@attribute made numeric
+@attribute 'made it' numeric
+@attribute make numeric
+@attribute makes numeric
+@attribute making numeric
+@attribute man numeric
+@attribute many numeric
+@attribute maybe numeric
+@attribute mb numeric
+@attribute 'me and' numeric
+@attribute 'me i' numeric
+@attribute 'me my' numeric
+@attribute 'me use' numeric
+@attribute media numeric
+@attribute mentions numeric
+@attribute messages numeric
+@attribute messed numeric
+@attribute 'messed up' numeric
+@attribute might numeric
+@attribute minutes numeric
+@attribute missing numeric
+@attribute months numeric
+@attribute 'months to' numeric
+@attribute most numeric
+@attribute much numeric
+@attribute must numeric
+@attribute 'my USERNAME' numeric
+@attribute 'my account' numeric
+@attribute 'my apps' numeric
+@attribute 'my fucking' numeric
+@attribute 'my ipad' numeric
+@attribute 'my iphone' numeric
+@attribute 'my itouch' numeric
+@attribute 'my new' numeric
+@attribute 'my phone' numeric
+@attribute 'my rt' numeric
+@attribute 'my time' numeric
+@attribute 'my xbox' numeric
+@attribute 'na fix' numeric
+@attribute 'na need' numeric
+@attribute name numeric
+@attribute neck numeric
+@attribute 'neck do' numeric
+@attribute need numeric
+@attribute 'need to' numeric
+@attribute needs numeric
+@attribute network numeric
+@attribute 'network issues' numeric
+@attribute never numeric
+@attribute 'new ios' numeric
+@attribute next numeric
+@attribute 'next for' numeric
+@attribute night numeric
+@attribute 'no i' numeric
+@attribute nokia numeric
+@attribute 'not be' numeric
+@attribute 'not been' numeric
+@attribute 'not resolve' numeric
+@attribute 'not working' numeric
+@attribute nothing numeric
+@attribute 'now USERNAME' numeric
+@attribute 'now i' numeric
+@attribute 'now it' numeric
+@attribute nt numeric
+@attribute 'nt be' numeric
+@attribute 'nt connect' numeric
+@attribute 'nt even' numeric
+@attribute 'nt fix' numeric
+@attribute 'nt forget' numeric
+@attribute 'nt i' numeric
+@attribute 'nt it' numeric
+@attribute 'nt let' numeric
+@attribute 'nt work' numeric
+@attribute 'nt you' numeric
+@attribute 'of a' numeric
+@attribute 'of my' numeric
+@attribute 'of shit' numeric
+@attribute 'of their' numeric
+@attribute office numeric
+@attribute 'office blues' numeric
+@attribute officially numeric
+@attribute 'officially boycotting' numeric
+@attribute ok numeric
+@attribute old numeric
+@attribute 'on USERNAME' numeric
+@attribute 'on a' numeric
+@attribute 'on and' numeric
+@attribute 'on day' numeric
+@attribute 'on hold' numeric
+@attribute 'on ipad' numeric
+@attribute 'on my' numeric
+@attribute 'on this' numeric
+@attribute one numeric
+@attribute 'one of' numeric
+@attribute 'online gamers' numeric
+@attribute only numeric
+@attribute 'only thing' numeric
+@attribute open numeric
+@attribute operating numeric
+@attribute 'or my' numeric
+@attribute order numeric
+@attribute 'order you' numeric
+@attribute other numeric
+@attribute 'out next' numeric
+@attribute 'out of' numeric
+@attribute outlaws numeric
+@attribute 'outlaws LRB' numeric
+@attribute outside numeric
+@attribute 'over capacity' numeric
+@attribute pages numeric
+@attribute paid numeric
+@attribute 'paid for' numeric
+@attribute part numeric
+@attribute 'part of' numeric
+@attribute past numeric
+@attribute pc numeric
+@attribute people numeric
+@attribute 'phone with' numeric
+@attribute piece numeric
+@attribute 'piece of' numeric
+@attribute piracy numeric
+@attribute 'piracy report' numeric
+@attribute played numeric
+@attribute 'played victim' numeric
+@attribute playlist numeric
+@attribute 'playlist order' numeric
+@attribute 'please fix' numeric
+@attribute pm numeric
+@attribute podcast numeric
+@attribute post numeric
+@attribute powerpoint numeric
+@attribute ppl numeric
+@attribute presentation numeric
+@attribute 'presentation first' numeric
+@attribute pretty numeric
+@attribute problem numeric
+@attribute product numeric
+@attribute 'product to' numeric
+@attribute products numeric
+@attribute proper numeric
+@attribute properly numeric
+@attribute psn numeric
+@attribute 'psn hack' numeric
+@attribute put numeric
+@attribute quality numeric
+@attribute racketeering numeric
+@attribute 'racketeering calls' numeric
+@attribute read numeric
+@attribute reader numeric
+@attribute 'reader tronman' numeric
+@attribute really numeric
+@attribute 'really like' numeric
+@attribute recognition numeric
+@attribute release numeric
+@attribute rename numeric
+@attribute 'rename a' numeric
+@attribute report numeric
+@attribute 'report they' numeric
+@attribute reservation numeric
+@attribute resolve numeric
+@attribute 'resolve the' numeric
+@attribute respect numeric
+@attribute 'respect our' numeric
+@attribute restore numeric
+@attribute 'restore loop' numeric
+@attribute retweets numeric
+@attribute revenue numeric
+@attribute 'revenue drop' numeric
+@attribute right numeric
+@attribute 'right now' numeric
+@attribute 'rt s' numeric
+@attribute 's been' numeric
+@attribute 's i' numeric
+@attribute 's neck' numeric
+@attribute 's the' numeric
+@attribute 's tomorrow' numeric
+@attribute said numeric
+@attribute sake numeric
+@attribute 'sake URL' numeric
+@attribute same numeric
+@attribute save numeric
+@attribute say numeric
+@attribute says numeric
+@attribute 'says you' numeric
+@attribute screen numeric
+@attribute section numeric
+@attribute 'section of' numeric
+@attribute see numeric
+@attribute 'see my' numeric
+@attribute seems numeric
+@attribute seen numeric
+@attribute send numeric
+@attribute seriously numeric
+@attribute 'service at' numeric
+@attribute 'service experience' numeric
+@attribute 'service for' numeric
+@attribute she numeric
+@attribute 'she ca' numeric
+@attribute shit numeric
+@attribute 'shit shit' numeric
+@attribute should numeric
+@attribute 'should have' numeric
+@attribute show numeric
+@attribute shows numeric
+@attribute since numeric
+@attribute 'since i' numeric
+@attribute siri numeric
+@attribute 'siri is' numeric
+@attribute sms numeric
+@attribute 'so fucking' numeric
+@attribute 'so much' numeric
+@attribute 'so they' numeric
+@attribute 'software update' numeric
+@attribute some numeric
+@attribute 'some live' numeric
+@attribute 'some presentation' numeric
+@attribute something numeric
+@attribute 'something of' numeric
+@attribute soon numeric
+@attribute sorri numeric
+@attribute 'sorri who' numeric
+@attribute sound numeric
+@attribute 'sound quality' numeric
+@attribute 'steve jobs' numeric
+@attribute stop numeric
+@attribute storage numeric
+@attribute stuck numeric
+@attribute 'stuck in' numeric
+@attribute such numeric
+@attribute suck numeric
+@attribute sucking numeric
+@attribute sucks numeric
+@attribute support numeric
+@attribute sync numeric
+@attribute syncing numeric
+@attribute system numeric
+@attribute take numeric
+@attribute talk numeric
+@attribute talking numeric
+@attribute 'talking to' numeric
+@attribute tech numeric
+@attribute tell numeric
+@attribute 'tell me' numeric
+@attribute 'tell that' numeric
+@attribute terrible numeric
+@attribute 'terrible i' numeric
+@attribute than numeric
+@attribute 'than psn' numeric
+@attribute thank numeric
+@attribute 'thank you' numeric
+@attribute thanks numeric
+@attribute 'thanks USERNAME' numeric
+@attribute 'that are' numeric
+@attribute 'that i' numeric
+@attribute 'that is' numeric
+@attribute 'that lil' numeric
+@attribute 'that s' numeric
+@attribute thats numeric
+@attribute 'the USERNAME' numeric
+@attribute 'the app' numeric
+@attribute 'the battery' numeric
+@attribute 'the discussion' numeric
+@attribute 'the first' numeric
+@attribute 'the hell' numeric
+@attribute 'the law' numeric
+@attribute 'the network' numeric
+@attribute 'the new' numeric
+@attribute 'the only' numeric
+@attribute 'the phone' numeric
+@attribute 'the upgrade' numeric
+@attribute their numeric
+@attribute them numeric
+@attribute 'them out' numeric
+@attribute 'them wasting' numeric
+@attribute there numeric
+@attribute 'there is' numeric
+@attribute these numeric
+@attribute they numeric
+@attribute 'they are' numeric
+@attribute 'they have' numeric
+@attribute 'they re' numeric
+@attribute 'they will' numeric
+@attribute thing numeric
+@attribute 'thing i' numeric
+@attribute think numeric
+@attribute 'this USERNAME' numeric
+@attribute 'this is' numeric
+@attribute 'this one' numeric
+@attribute 'this problem' numeric
+@attribute 'this shit' numeric
+@attribute 'this week' numeric
+@attribute though numeric
+@attribute through numeric
+@attribute time numeric
+@attribute 'time to' numeric
+@attribute times numeric
+@attribute 'to USERNAME' numeric
+@attribute 'to an' numeric
+@attribute 'to be' numeric
+@attribute 'to curse' numeric
+@attribute 'to deal' numeric
+@attribute 'to do' numeric
+@attribute 'to fix' numeric
+@attribute 'to get' numeric
+@attribute 'to ios' numeric
+@attribute 'to make' numeric
+@attribute 'to my' numeric
+@attribute 'to piracy' numeric
+@attribute 'to rename' numeric
+@attribute 'to same' numeric
+@attribute 'to see' numeric
+@attribute 'to sorri' numeric
+@attribute 'to the' numeric
+@attribute 'to use' numeric
+@attribute 'to work' numeric
+@attribute 'to your' numeric
+@attribute told numeric
+@attribute tomorrow numeric
+@attribute 'tomorrow and' numeric
+@attribute too numeric
+@attribute 'too many' numeric
+@attribute took numeric
+@attribute total numeric
+@attribute totally numeric
+@attribute tried numeric
+@attribute tronman numeric
+@attribute 'tronman compares' numeric
+@attribute trouble numeric
+@attribute trying numeric
+@attribute turn numeric
+@attribute 'turn off' numeric
+@attribute tv numeric
+@attribute type numeric
+@attribute ugh numeric
+@attribute unhappy numeric
+@attribute 'up with' numeric
+@attribute updates numeric
+@attribute updating numeric
+@attribute upgrade numeric
+@attribute 'upgrade to' numeric
+@attribute upgraded numeric
+@attribute upgrading numeric
+@attribute us numeric
+@attribute used numeric
+@attribute useful numeric
+@attribute users numeric
+@attribute uses numeric
+@attribute 'using them' numeric
+@attribute ve numeric
+@attribute victim numeric
+@attribute 'victim now' numeric
+@attribute victims numeric
+@attribute 'victims outlaws' numeric
+@attribute voice numeric
+@attribute wait numeric
+@attribute waited numeric
+@attribute waiting numeric
+@attribute 'waiting for' numeric
+@attribute wan numeric
+@attribute 'wan na' numeric
+@attribute was numeric
+@attribute wasting numeric
+@attribute 'wasting my' numeric
+@attribute week numeric
+@attribute 'week i' numeric
+@attribute went numeric
+@attribute whale numeric
+@attribute 'whale to' numeric
+@attribute 'what happened' numeric
+@attribute 'when broke' numeric
+@attribute 'when i' numeric
+@attribute 'when it' numeric
+@attribute where numeric
+@attribute which numeric
+@attribute 'which it' numeric
+@attribute who numeric
+@attribute 'who else' numeric
+@attribute 'why ca' numeric
+@attribute 'why do' numeric
+@attribute 'why does' numeric
+@attribute 'why is' numeric
+@attribute will numeric
+@attribute 'will i' numeric
+@attribute 'will need' numeric
+@attribute wit numeric
+@attribute 'wit chu' numeric
+@attribute 'with USERNAME' numeric
+@attribute 'with all' numeric
+@attribute 'with my' numeric
+@attribute 'with no' numeric
+@attribute 'with the' numeric
+@attribute without numeric
+@attribute 'without steve' numeric
+@attribute wo numeric
+@attribute 'wo nt' numeric
+@attribute word numeric
+@attribute work numeric
+@attribute working numeric
+@attribute 'working for' numeric
+@attribute world numeric
+@attribute worse numeric
+@attribute 'worse than' numeric
+@attribute worst numeric
+@attribute 'worst USERNAME' numeric
+@attribute would numeric
+@attribute wow numeric
+@attribute 'wow worst' numeric
+@attribute wrong numeric
+@attribute 'wrong URL' numeric
+@attribute wtf numeric
+@attribute 'wtf is' numeric
+@attribute xbl numeric
+@attribute 'xbl RRB' numeric
+@attribute xbox numeric
+@attribute 'xbox live' numeric
+@attribute year numeric
+@attribute years numeric
+@attribute 'you USERNAME' numeric
+@attribute 'you agree' numeric
+@attribute 'you did' numeric
+@attribute 'you just' numeric
+@attribute 'you need' numeric
+@attribute 'you piece' numeric
+@attribute 'you wan' numeric
+@attribute 'your network' numeric
+@attribute 'your update' numeric
+@attribute 'LRB cont' numeric
+@attribute 'RSB URL' numeric
+@attribute 'URL aday' numeric
+@attribute 'URL by' numeric
+@attribute 'URL rt' numeric
+@attribute 'USERNAME app' numeric
+@attribute 'USERNAME are' numeric
+@attribute 'USERNAME did' numeric
+@attribute 'USERNAME get' numeric
+@attribute 'USERNAME hello' numeric
+@attribute 'USERNAME home' numeric
+@attribute 'USERNAME ipod' numeric
+@attribute 'USERNAME microsoft' numeric
+@attribute 'USERNAME sold' numeric
+@attribute 'USERNAME steve' numeric
+@attribute 'USERNAME thank' numeric
+@attribute 'USERNAME we' numeric
+@attribute 'USERNAME when' numeric
+@attribute 'USERNAME would' numeric
+@attribute 'a computer' numeric
+@attribute 'a digital' numeric
+@attribute 'a touchscreen' numeric
+@attribute 'a try' numeric
+@attribute according numeric
+@attribute 'according to' numeric
+@attribute add numeric
+@attribute addicted numeric
+@attribute 'addicted to' numeric
+@attribute age numeric
+@attribute 'age is' numeric
+@attribute 'all URL' numeric
+@attribute 'all day' numeric
+@attribute 'all lovers' numeric
+@attribute 'am i' numeric
+@attribute 'an USERNAME' numeric
+@attribute 'an infinite' numeric
+@attribute 'and galaxy' numeric
+@attribute 'and let' numeric
+@attribute 'and more' numeric
+@attribute announce numeric
+@attribute announced numeric
+@attribute announces numeric
+@attribute 'any surface' numeric
+@attribute anything numeric
+@attribute apart numeric
+@attribute 'app URL' numeric
+@attribute 'app store' numeric
+@attribute 'are the' numeric
+@attribute 'are you' numeric
+@attribute article numeric
+@attribute 'as a' numeric
+@attribute 'as the' numeric
+@attribute 'at URL' numeric
+@attribute 'at and' numeric
+@attribute 'at web' numeric
+@attribute 'at what' numeric
+@attribute autopilot numeric
+@attribute 'autopilot and' numeric
+@attribute available numeric
+@attribute 'available URL' numeric
+@attribute 'available to' numeric
+@attribute away numeric
+@attribute awesome numeric
+@attribute baby numeric
+@attribute 'baby memories' numeric
+@attribute 'back on' numeric
+@attribute 'ballmer of' numeric
+@attribute 'ballmer on' numeric
+@attribute 'ballmer slams' numeric
+@attribute battle numeric
+@attribute 'beam for' numeric
+@attribute beat numeric
+@attribute because numeric
+@attribute bed numeric
+@attribute begin numeric
+@attribute 'between phones' numeric
+@attribute bing numeric
+@attribute bitch numeric
+@attribute bitly numeric
+@attribute 'bitly nejbye' numeric
+@attribute bookcase numeric
+@attribute 'bookcase URL' numeric
+@attribute booth numeric
+@attribute boring numeric
+@attribute break numeric
+@attribute build numeric
+@attribute building numeric
+@attribute builds numeric
+@attribute 'business URL' numeric
+@attribute 'buying sometimes' numeric
+@attribute buzz numeric
+@attribute 'calling all' numeric
+@attribute came numeric
+@attribute camera numeric
+@attribute carriers numeric
+@attribute case numeric
+@attribute celebrity numeric
+@attribute 'ceo steve' numeric
+@attribute change numeric
+@attribute charts numeric
+@attribute checking numeric
+@attribute child numeric
+@attribute competition numeric
+@attribute compiler numeric
+@attribute 'computer scientist' numeric
+@attribute confirms numeric
+@attribute 'confirms s' numeric
+@attribute consider numeric
+@attribute console numeric
+@attribute cont numeric
+@attribute 'cont RRB' numeric
+@attribute creamsandwich numeric
+@attribute create numeric
+@attribute customers numeric
+@attribute daily numeric
+@attribute dark numeric
+@attribute 'days hours' numeric
+@attribute design numeric
+@attribute details numeric
+@attribute developer numeric
+@attribute 'developer preview' numeric
+@attribute device numeric
+@attribute 'did you' numeric
+@attribute digital numeric
+@attribute 'digital bookcase' numeric
+@attribute download numeric
+@attribute drops numeric
+@attribute earnings numeric
+@attribute emails numeric
+@attribute end numeric
+@attribute event numeric
+@attribute everybody numeric
+@attribute eye numeric
+@attribute face numeric
+@attribute facial numeric
+@attribute 'facial recognition' numeric
+@attribute fan numeric
+@attribute fast numeric
+@attribute feature numeric
+@attribute 'features URL' numeric
+@attribute files numeric
+@attribute finally numeric
+@attribute 'find out' numeric
+@attribute follow numeric
+@attribute 'follow USERNAME' numeric
+@attribute 'follow me' numeric
+@attribute 'followers for' numeric
+@attribute 'for USERNAME' numeric
+@attribute 'for any' numeric
+@attribute 'for more' numeric
+@attribute 'for on' numeric
+@attribute 'for real' numeric
+@attribute 'for sharing' numeric
+@attribute 'for your' numeric
+@attribute forward numeric
+@attribute four numeric
+@attribute 'free windows' numeric
+@attribute 'from android' numeric
+@attribute 'from to' numeric
+@attribute fun numeric
+@attribute funny numeric
+@attribute 'funny i' numeric
+@attribute gain numeric
+@attribute 'gain followers' numeric
+@attribute game numeric
+@attribute gb numeric
+@attribute 'get back' numeric
+@attribute 'get the' numeric
+@attribute 'give it' numeric
+@attribute giving numeric
+@attribute global numeric
+@attribute 'go here' numeric
+@attribute 'good night' numeric
+@attribute 'good to' numeric
+@attribute 'google s' numeric
+@attribute 'google then' numeric
+@attribute 'great tech' numeric
+@attribute guess numeric
+@attribute 'had a' numeric
+@attribute hand numeric
+@attribute 'hand into' numeric
+@attribute hardware numeric
+@attribute hear numeric
+@attribute hello numeric
+@attribute 'hello world' numeric
+@attribute 'here URL' numeric
+@attribute him numeric
+@attribute his numeric
+@attribute hoes numeric
+@attribute holiday numeric
+@attribute hong numeric
+@attribute 'hong kong' numeric
+@attribute honor numeric
+@attribute 'hours minutes' numeric
+@attribute 'how funny' numeric
+@attribute 'i guess' numeric
+@attribute 'i think' numeric
+@attribute 'i though' numeric
+@attribute 'i want' numeric
+@attribute 'if i' numeric
+@attribute 'if you' numeric
+@attribute imessage numeric
+@attribute important numeric
+@attribute improvements numeric
+@attribute 'in URL' numeric
+@attribute 'in a' numeric
+@attribute 'in days' numeric
+@attribute 'in his' numeric
+@attribute 'in hong' numeric
+@attribute industry numeric
+@attribute infinite numeric
+@attribute 'infinite digital' numeric
+@attribute info numeric
+@attribute infographic numeric
+@attribute information numeric
+@attribute installed numeric
+@attribute 'installed the' numeric
+@attribute integrated numeric
+@attribute 'into a' numeric
+@attribute introduces numeric
+@attribute ipads numeric
+@attribute ipod numeric
+@attribute 'ipod touch' numeric
+@attribute 'is USERNAME' numeric
+@attribute 'is available' numeric
+@attribute 'is days' numeric
+@attribute 'is year' numeric
+@attribute 'it a' numeric
+@attribute 'it gain' numeric
+@attribute 'its own' numeric
+@attribute 'just installed' numeric
+@attribute key numeric
+@attribute kinda numeric
+@attribute 'know if' numeric
+@attribute kong numeric
+@attribute 'kong a' numeric
+@attribute last numeric
+@attribute later numeric
+@attribute latest numeric
+@attribute launches numeric
+@attribute launching numeric
+@attribute 'launching the' numeric
+@attribute leaving numeric
+@attribute 'let it' numeric
+@attribute 'let s' numeric
+@attribute 'like in' numeric
+@attribute listening numeric
+@attribute 'listening to' numeric
+@attribute location numeric
+@attribute lock numeric
+@attribute look numeric
+@attribute 'look at' numeric
+@attribute looking numeric
+@attribute looks numeric
+@attribute lovers numeric
+@attribute 'lovers like' numeric
+@attribute lucky numeric
+@attribute 'lucky URL' numeric
+@attribute 'm not' numeric
+@attribute manage numeric
+@attribute mango numeric
+@attribute 'mango available' numeric
+@attribute marketing numeric
+@attribute 'me on' numeric
+@attribute memories numeric
+@attribute 'memories app' numeric
+@attribute 'microsoft ceo' numeric
+@attribute 'microsoft opens' numeric
+@attribute 'microsoft s' numeric
+@attribute million numeric
+@attribute 'million iphone' numeric
+@attribute 'minutes seconds' numeric
+@attribute model numeric
+@attribute 'more LSB' numeric
+@attribute 'more than' numeric
+@attribute morning numeric
+@attribute msft numeric
+@attribute multiple numeric
+@attribute 'my age' numeric
+@attribute nejbye numeric
+@attribute 'new from' numeric
+@attribute 'new galaxy' numeric
+@attribute 'new look' numeric
+@attribute 'new phone' numeric
+@attribute 'new screen' numeric
+@attribute 'new twidroyd' numeric
+@attribute 'new version' numeric
+@attribute news numeric
+@attribute 'next week' numeric
+@attribute 'nexus LRB' numeric
+@attribute 'nexus s' numeric
+@attribute 'nexus site' numeric
+@attribute 'nexus vs' numeric
+@attribute 'nexus with' numeric
+@attribute 'not buying' numeric
+@attribute notes numeric
+@attribute nov numeric
+@attribute november numeric
+@attribute 'november URL' numeric
+@attribute 'now available' numeric
+@attribute 'nt buy' numeric
+@attribute 'nt have' numeric
+@attribute 'of URL' numeric
+@attribute 'of USERNAME' numeric
+@attribute 'of the' numeric
+@attribute offer numeric
+@attribute offers numeric
+@attribute official numeric
+@attribute 'omnitouch how' numeric
+@attribute 'on autopilot' numeric
+@attribute 'on google' numeric
+@attribute 'on not' numeric
+@attribute 'on twitter' numeric
+@attribute 'on your' numeric
+@attribute opens numeric
+@attribute 'opens the' numeric
+@attribute 'out USERNAME' numeric
+@attribute 'out yours' numeric
+@attribute own numeric
+@attribute pack numeric
+@attribute panorama numeric
+@attribute partner numeric
+@attribute 'people are' numeric
+@attribute perks numeric
+@attribute 'phone URL' numeric
+@attribute 'phone devices' numeric
+@attribute 'phone it' numeric
+@attribute 'phone mango' numeric
+@attribute phones numeric
+@attribute 'phones URL' numeric
+@attribute pictures numeric
+@attribute 'pictures URL' numeric
+@attribute plans numeric
+@attribute 'plans URL' numeric
+@attribute playful numeric
+@attribute 'playful learning' numeric
+@attribute posts numeric
+@attribute powered numeric
+@attribute preview numeric
+@attribute 'preview of' numeric
+@attribute promo numeric
+@attribute 'put your' numeric
+@attribute 're lucky' numeric
+@attribute 'real this' numeric
+@attribute 'really want' numeric
+@attribute register numeric
+@attribute released numeric
+@attribute releases numeric
+@attribute 'releases an' numeric
+@attribute reports numeric
+@attribute researchers numeric
+@attribute 'researchers want' numeric
+@attribute reveals numeric
+@attribute review numeric
+@attribute revolution numeric
+@attribute rip numeric
+@attribute roslyn numeric
+@attribute 'roslyn compiler' numeric
+@attribute run numeric
+@attribute 's URL' numeric
+@attribute 's USERNAME' numeric
+@attribute 's a' numeric
+@attribute 's ballmer' numeric
+@attribute 's give' numeric
+@attribute 's in' numeric
+@attribute 's new' numeric
+@attribute 's steve' numeric
+@attribute 's will' numeric
+@attribute sales numeric
+@attribute 'same so' numeric
+@attribute san numeric
+@attribute 'sandwich and' numeric
+@attribute 'sandwich official' numeric
+@attribute 'sandwich on' numeric
+@attribute 'sandwich pictures' numeric
+@attribute 'sandwich sdk' numeric
+@attribute saw numeric
+@attribute scientist numeric
+@attribute 'screen for' numeric
+@attribute 'sdk now' numeric
+@attribute search numeric
+@attribute searches numeric
+@attribute seconds numeric
+@attribute 'seconds find' numeric
+@attribute 'see the' numeric
+@attribute 'see you' numeric
+@attribute services numeric
+@attribute session numeric
+@attribute setup numeric
+@attribute sharing numeric
+@attribute 'sharing between' numeric
+@attribute 'siri for' numeric
+@attribute slams numeric
+@attribute 'slams android' numeric
+@attribute sleep numeric
+@attribute 'so i' numeric
+@attribute 'so try' numeric
+@attribute social numeric
+@attribute sold numeric
+@attribute 'sold million' numeric
+@attribute solution numeric
+@attribute someone numeric
+@attribute sometimes numeric
+@attribute 'sometimes you' numeric
+@attribute specs numeric
+@attribute spigot numeric
+@attribute 'spigot windows' numeric
+@attribute spotted numeric
+@attribute start numeric
+@attribute step numeric
+@attribute 'store URL' numeric
+@attribute stores numeric
+@attribute strange numeric
+@attribute stuff numeric
+@attribute suit numeric
+@attribute sure numeric
+@attribute 'surface URL' numeric
+@attribute surprised numeric
+@attribute tablets numeric
+@attribute 'tech war' numeric
+@attribute technical numeric
+@attribute technology numeric
+@attribute 'that USERNAME' numeric
+@attribute 'that the' numeric
+@attribute 'that was' numeric
+@attribute 'the URL' numeric
+@attribute 'the future' numeric
+@attribute 'the galaxy' numeric
+@attribute 'the great' numeric
+@attribute 'the ipad' numeric
+@attribute 'the iphone' numeric
+@attribute 'the omnitouch' numeric
+@attribute 'the same' numeric
+@attribute 'the spigot' numeric
+@attribute 'the time' numeric
+@attribute 'the world' numeric
+@attribute 'then go' numeric
+@attribute things numeric
+@attribute thinking numeric
+@attribute 'this new' numeric
+@attribute 'this time' numeric
+@attribute 'this video' numeric
+@attribute those numeric
+@attribute 'though that' numeric
+@attribute 'time LRB' numeric
+@attribute tip numeric
+@attribute tips numeric
+@attribute tired numeric
+@attribute 'to a' numeric
+@attribute 'to all' numeric
+@attribute 'to bed' numeric
+@attribute 'to begin' numeric
+@attribute 'to find' numeric
+@attribute 'to know' numeric
+@attribute 'to this' numeric
+@attribute 'to turn' numeric
+@attribute 'today s' numeric
+@attribute 'tomorrow at' numeric
+@attribute tonight numeric
+@attribute 'touch from' numeric
+@attribute 'touch screen' numeric
+@attribute traffic numeric
+@attribute training numeric
+@attribute try numeric
+@attribute 'try URL' numeric
+@attribute 'try bing' numeric
+@attribute 'turn your' numeric
+@attribute turns numeric
+@attribute tweet numeric
+@attribute tweeting numeric
+@attribute twidroyd numeric
+@attribute 'twidroyd for' numeric
+@attribute 'twitter on' numeric
+@attribute two numeric
+@attribute unlock numeric
+@attribute unveil numeric
+@attribute 'unveil ice' numeric
+@attribute unveils numeric
+@attribute unwrapping numeric
+@attribute 'unwrapping ice' numeric
+@attribute 'up for' numeric
+@attribute updated numeric
+@attribute 'users URL' numeric
+@attribute 'using URL' numeric
+@attribute version numeric
+@attribute 'version of' numeric
+@attribute 'video URL' numeric
+@attribute virtual numeric
+@attribute 'vs iphone' numeric
+@attribute 'vs vs' numeric
+@attribute want numeric
+@attribute 'want to' numeric
+@attribute war numeric
+@attribute 'war of' numeric
+@attribute 'was an' numeric
+@attribute watch numeric
+@attribute way numeric
+@attribute ways numeric
+@attribute 'ways to' numeric
+@attribute 'we are' numeric
+@attribute 'we got' numeric
+@attribute 'we re' numeric
+@attribute webgl numeric
+@attribute webinar numeric
+@attribute website numeric
+@attribute welcome numeric
+@attribute well numeric
+@attribute were numeric
+@attribute 'what s' numeric
+@attribute while numeric
+@attribute white numeric
+@attribute 'will be' numeric
+@attribute 'will get' numeric
+@attribute 'windows phones' numeric
+@attribute winning numeric
+@attribute wish numeric
+@attribute 'with a' numeric
+@attribute 'with ice' numeric
+@attribute wonder numeric
+@attribute 'world baby' numeric
+@attribute worth numeric
+@attribute 'would be' numeric
+@attribute 'year days' numeric
+@attribute yet numeric
+@attribute 'you URL' numeric
+@attribute 'you can' numeric
+@attribute 'you follow' numeric
+@attribute 'you have' numeric
+@attribute 'you know' numeric
+@attribute 'you re' numeric
+@attribute 'your hand' numeric
+@attribute 'your life' numeric
+@attribute 'your tweets' numeric
+@attribute 'your twitter' numeric
+@attribute yours numeric
+@attribute 'yours at' numeric
+@attribute z numeric
+@attribute 'z z' numeric
+@attribute 'LRB commercial' numeric
+@attribute 'LRB i' numeric
+@attribute 'LRB iphones' numeric
+@attribute 'LRB lovin' numeric
+@attribute 'LRB never' numeric
+@attribute 'LSB greader' numeric
+@attribute 'LSB live' numeric
+@attribute 'RRB RRB' numeric
+@attribute 'RRB USERNAME' numeric
+@attribute 'RRB is' numeric
+@attribute 'RRB thxx' numeric
+@attribute 'RRB to' numeric
+@attribute 'RRB way' numeric
+@attribute 'RSB five' numeric
+@attribute 'URL cool' numeric
+@attribute 'URL cream' numeric
+@attribute 'URL forget' numeric
+@attribute 'URL great' numeric
+@attribute 'URL i' numeric
+@attribute 'URL innovation' numeric
+@attribute 'URL is' numeric
+@attribute 'URL less' numeric
+@attribute 'URL poised' numeric
+@attribute 'URL this' numeric
+@attribute 'USERNAME actually' numeric
+@attribute 'USERNAME another' numeric
+@attribute 'USERNAME apple' numeric
+@attribute 'USERNAME awesome' numeric
+@attribute 'USERNAME boo' numeric
+@attribute 'USERNAME cards' numeric
+@attribute 'USERNAME check' numeric
+@attribute 'USERNAME codename' numeric
+@attribute 'USERNAME continuing' numeric
+@attribute 'USERNAME developer' numeric
+@attribute 'USERNAME employee' numeric
+@attribute 'USERNAME exciting' numeric
+@attribute 'USERNAME finally' numeric
+@attribute 'USERNAME fixed' numeric
+@attribute 'USERNAME gave' numeric
+@attribute 'USERNAME gives' numeric
+@attribute 'USERNAME got' numeric
+@attribute 'USERNAME have' numeric
+@attribute 'USERNAME hope' numeric
+@attribute 'USERNAME in' numeric
+@attribute 'USERNAME introducing' numeric
+@attribute 'USERNAME iphones' numeric
+@attribute 'USERNAME isb' numeric
+@attribute 'USERNAME just' numeric
+@attribute 'USERNAME keep' numeric
+@attribute 'USERNAME launches' numeric
+@attribute 'USERNAME literally' numeric
+@attribute 'USERNAME love' numeric
+@attribute 'USERNAME loving' numeric
+@attribute 'USERNAME mouse' numeric
+@attribute 'USERNAME no' numeric
+@attribute 'USERNAME over' numeric
+@attribute 'USERNAME raise' numeric
+@attribute 'USERNAME releases' numeric
+@attribute 'USERNAME research' numeric
+@attribute 'USERNAME retail' numeric
+@attribute 'USERNAME safari' numeric
+@attribute 'USERNAME sells' numeric
+@attribute 'USERNAME service' numeric
+@attribute 'USERNAME set' numeric
+@attribute 'USERNAME should' numeric
+@attribute 'USERNAME telegraph' numeric
+@attribute 'USERNAME than' numeric
+@attribute 'USERNAME thanks' numeric
+@attribute 'USERNAME thx' numeric
+@attribute 'USERNAME tonight' numeric
+@attribute 'USERNAME top' numeric
+@attribute 'USERNAME u' numeric
+@attribute 'USERNAME up' numeric
+@attribute 'USERNAME update' numeric
+@attribute 'USERNAME upload' numeric
+@attribute 'USERNAME via' numeric
+@attribute 'USERNAME video' numeric
+@attribute 'USERNAME website' numeric
+@attribute 'USERNAME were' numeric
+@attribute 'USERNAME which' numeric
+@attribute 'USERNAME wish' numeric
+@attribute 'USERNAME x' numeric
+@attribute 'USERNAME yeah' numeric
+@attribute 'USERNAME yes' numeric
+@attribute 'USERNAME yesterday' numeric
+@attribute 'a bit' numeric
+@attribute 'a bite' numeric
+@attribute 'a body' numeric
+@attribute 'a brand' numeric
+@attribute 'a case' numeric
+@attribute 'a champ' numeric
+@attribute 'a cheap' numeric
+@attribute 'a contender' numeric
+@attribute 'a design' numeric
+@attribute 'a duet' numeric
+@attribute 'a evo' numeric
+@attribute 'a feel' numeric
+@attribute 'a few' numeric
+@attribute 'a foundation' numeric
+@attribute 'a free' numeric
+@attribute 'a good' numeric
+@attribute 'a google' numeric
+@attribute 'a hookup' numeric
+@attribute 'a job' numeric
+@attribute 'a launch' numeric
+@attribute 'a local' numeric
+@attribute 'a major' numeric
+@attribute 'a product' numeric
+@attribute 'a readable' numeric
+@attribute 'a replacement' numeric
+@attribute 'a sense' numeric
+@attribute 'a taste' numeric
+@attribute 'a thorn' numeric
+@attribute 'a total' numeric
+@attribute 'a true' numeric
+@attribute 'a very' numeric
+@attribute 'a website' numeric
+@attribute 'a while' numeric
+@attribute abandoned numeric
+@attribute 'abandoned facebook' numeric
+@attribute 'about about' numeric
+@attribute 'about but' numeric
+@attribute 'about how' numeric
+@attribute 'about importance' numeric
+@attribute 'about it' numeric
+@attribute 'about now' numeric
+@attribute 'about thats' numeric
+@attribute 'about the' numeric
+@attribute 'about to' numeric
+@attribute above numeric
+@attribute 'above and' numeric
+@attribute 'absolutely love' numeric
+@attribute 'absolutely loving' numeric
+@attribute accompanying numeric
+@attribute 'accompanying phone' numeric
+@attribute action numeric
+@attribute 'action pretty' numeric
+@attribute 'actually do' numeric
+@attribute 'actually gets' numeric
+@attribute 'actually the' numeric
+@attribute 'actually work' numeric
+@attribute 'actually working' numeric
+@attribute 'add me' numeric
+@attribute 'add my' numeric
+@attribute 'add yours' numeric
+@attribute addict numeric
+@attribute 'addict RRB' numeric
+@attribute admit numeric
+@attribute 'admit USERNAME' numeric
+@attribute admitting numeric
+@attribute 'admitting you' numeric
+@attribute adopted numeric
+@attribute 'adopted a' numeric
+@attribute affair numeric
+@attribute 'affair URL' numeric
+@attribute 'after all' numeric
+@attribute 'again yrs' numeric
+@attribute 'agree to' numeric
+@attribute aka numeric
+@attribute 'aka it' numeric
+@attribute album numeric
+@attribute 'album in' numeric
+@attribute 'all USERNAME' numeric
+@attribute 'all do' numeric
+@attribute 'all other' numeric
+@attribute 'all scream' numeric
+@attribute 'all searches' numeric
+@attribute 'all this' numeric
+@attribute 'all well' numeric
+@attribute almost numeric
+@attribute 'almost bought' numeric
+@attribute 'alone is' numeric
+@attribute along numeric
+@attribute 'along with' numeric
+@attribute 'always shows' numeric
+@attribute 'am dying' numeric
+@attribute 'am in' numeric
+@attribute 'am loving' numeric
+@attribute 'am searching' numeric
+@attribute 'am sooo' numeric
+@attribute 'am using' numeric
+@attribute amazed numeric
+@attribute 'amazed at' numeric
+@attribute amazing numeric
+@attribute 'amazing USERNAME' numeric
+@attribute 'amazing and' numeric
+@attribute 'amazing call' numeric
+@attribute 'amazing interested' numeric
+@attribute 'amazing on' numeric
+@attribute 'amazing s' numeric
+@attribute 'amazing what' numeric
+@attribute amount numeric
+@attribute 'amount of' numeric
+@attribute 'an awesome' numeric
+@attribute 'an get' numeric
+@attribute 'an ice' numeric
+@attribute 'an ios' numeric
+@attribute 'an old' numeric
+@attribute 'an powered' numeric
+@attribute 'an unexpected' numeric
+@attribute 'and URL' numeric
+@attribute 'and a' numeric
+@attribute 'and all' numeric
+@attribute 'and as' numeric
+@attribute 'and beyond' numeric
+@attribute 'and bring' numeric
+@attribute 'and ceremoniously' numeric
+@attribute 'and college' numeric
+@attribute 'and completes' numeric
+@attribute 'and dynamics' numeric
+@attribute 'and emails' numeric
+@attribute 'and entertaining' numeric
+@attribute 'and every' numeric
+@attribute 'and forth' numeric
+@attribute 'and games' numeric
+@attribute 'and gave' numeric
+@attribute 'and google' numeric
+@attribute 'and have' numeric
+@attribute 'and ice' numeric
+@attribute 'and in' numeric
+@attribute 'and integrated' numeric
+@attribute 'and less' numeric
+@attribute 'and lost' numeric
+@attribute 'and make' numeric
+@attribute 'and media' numeric
+@attribute 'and new' numeric
+@attribute 'and offering' numeric
+@attribute 'and only' numeric
+@attribute 'and opening' numeric
+@attribute 'and os' numeric
+@attribute 'and others' numeric
+@attribute 'and proves' numeric
+@attribute 'and replacing' numeric
+@attribute 'and responsive' numeric
+@attribute 'and samsung' numeric
+@attribute 'and see' numeric
+@attribute 'and should' numeric
+@attribute 'and showing' numeric
+@attribute 'and useful' numeric
+@attribute 'and we' numeric
+@attribute 'and where' numeric
+@attribute 'and widget' numeric
+@attribute 'and works' numeric
+@attribute 'and yet' numeric
+@attribute andor numeric
+@attribute 'andor you' numeric
+@attribute 'android announcement' numeric
+@attribute 'android as' numeric
+@attribute 'android conversations' numeric
+@attribute 'android excited' numeric
+@attribute 'android features' numeric
+@attribute 'android for' numeric
+@attribute 'android phone' numeric
+@attribute 'android update' numeric
+@attribute 'android users' numeric
+@attribute 'android was' numeric
+@attribute 'announcement from' numeric
+@attribute 'another great' numeric
+@attribute answers numeric
+@attribute 'answers to' numeric
+@attribute anti numeric
+@attribute 'anti propaganda' numeric
+@attribute 'any help' numeric
+@attribute apologize numeric
+@attribute 'apologize to' numeric
+@attribute 'app along' numeric
+@attribute 'app are' numeric
+@attribute 'app has' numeric
+@attribute 'app improvements' numeric
+@attribute 'app in' numeric
+@attribute 'app notifies' numeric
+@attribute 'app now' numeric
+@attribute 'app to' numeric
+@attribute 'app with' numeric
+@attribute appear numeric
+@attribute 'appear to' numeric
+@attribute 'apple funds' numeric
+@attribute 'apple sells' numeric
+@attribute apples numeric
+@attribute 'apples to' numeric
+@attribute apply numeric
+@attribute 'apply for' numeric
+@attribute appreciated numeric
+@attribute 'apps and' numeric
+@attribute 'apps on' numeric
+@attribute arc numeric
+@attribute 'arc mouse' numeric
+@attribute architecture numeric
+@attribute 'architecture in' numeric
+@attribute 'are all' numeric
+@attribute 'are appreciated' numeric
+@attribute 'are as' numeric
+@attribute 'are doing' numeric
+@attribute 'are essential' numeric
+@attribute 'are hurting' numeric
+@attribute 'are in' numeric
+@attribute 'are neither' numeric
+@attribute 'are not' numeric
+@attribute 'are ok' numeric
+@attribute 'are pleased' numeric
+@attribute 'are sick' numeric
+@attribute 'are what' numeric
+@attribute arrived numeric
+@attribute 'arrived at' numeric
+@attribute arrives numeric
+@attribute 'arrives in' numeric
+@attribute articles numeric
+@attribute 'articles files' numeric
+@attribute 'as an' numeric
+@attribute 'as bigdealdawson' numeric
+@attribute 'as dev' numeric
+@attribute 'as i' numeric
+@attribute 'as it' numeric
+@attribute 'as usual' numeric
+@attribute 'as well' numeric
+@attribute assessment numeric
+@attribute 'assessment in' numeric
+@attribute 'at dollar' numeric
+@attribute 'at how' numeric
+@attribute 'at integrating' numeric
+@attribute 'at its' numeric
+@attribute 'at least' numeric
+@attribute 'at local' numeric
+@attribute 'at o' numeric
+@attribute 'at t' numeric
+@attribute 'at ux' numeric
+@attribute automatically numeric
+@attribute 'automatically expanded' numeric
+@attribute avtar numeric
+@attribute 'avtar URL' numeric
+@attribute 'away by' numeric
+@attribute 'away just' numeric
+@attribute 'awesome USERNAME' numeric
+@attribute 'awesome amount' numeric
+@attribute 'awesome bitly' numeric
+@attribute 'awesome ca' numeric
+@attribute 'awesome great' numeric
+@attribute 'awesome little' numeric
+@attribute 'awesome service' numeric
+@attribute 'awesome widgets' numeric
+@attribute awesomeness numeric
+@attribute 'awesomeness RRB' numeric
+@attribute 'b deal' numeric
+@attribute 'back almost' numeric
+@attribute 'back and' numeric
+@attribute 'back plate' numeric
+@attribute background numeric
+@attribute backside numeric
+@attribute 'backside for' numeric
+@attribute backup numeric
+@attribute 'backup and' numeric
+@attribute 'bad USERNAME' numeric
+@attribute bag numeric
+@attribute 'bag phone' numeric
+@attribute bahhh numeric
+@attribute 'bahhh my' numeric
+@attribute 'ballmer thinks' numeric
+@attribute 'battery drain' numeric
+@attribute 'battle in' numeric
+@attribute 'be crack' numeric
+@attribute 'be delivered' numeric
+@attribute 'be heard' numeric
+@attribute 'be included' numeric
+@attribute 'be on' numeric
+@attribute 'be so' numeric
+@attribute 'be thanks' numeric
+@attribute 'be this' numeric
+@attribute 'be with' numeric
+@attribute 'beam sharing' numeric
+@attribute beating numeric
+@attribute 'beating speech' numeric
+@attribute beautiful numeric
+@attribute 'beautiful beyond' numeric
+@attribute 'beautiful totally' numeric
+@attribute 'because you' numeric
+@attribute 'bed and' numeric
+@attribute 'been a' numeric
+@attribute 'been blown' numeric
+@attribute 'been off' numeric
+@attribute 'been redesigned' numeric
+@attribute 'been waiting' numeric
+@attribute 'being here' numeric
+@attribute 'believe should' numeric
+@attribute beneficial numeric
+@attribute 'beneficial features' numeric
+@attribute benefits numeric
+@attribute 'benefits of' numeric
+@attribute berry numeric
+@attribute 'berry powered' numeric
+@attribute 'best in' numeric
+@attribute 'best invention' numeric
+@attribute 'best pavilions' numeric
+@attribute 'beta good' numeric
+@attribute 'better URL' numeric
+@attribute 'better feature' numeric
+@attribute 'better gallery' numeric
+@attribute 'better than' numeric
+@attribute 'between and' numeric
+@attribute beyond numeric
+@attribute 'beyond and' numeric
+@attribute 'beyond smart' numeric
+@attribute bff numeric
+@attribute 'bff rite' numeric
+@attribute bigdealdawson numeric
+@attribute 'bigdealdawson at' numeric
+@attribute biggest numeric
+@attribute 'biggest threat' numeric
+@attribute bit numeric
+@attribute 'bit confusing' numeric
+@attribute bitching numeric
+@attribute 'bitching about' numeric
+@attribute bite numeric
+@attribute 'bitly qpgxle' numeric
+@attribute blatant numeric
+@attribute 'blatant anti' numeric
+@attribute 'blog RSB' numeric
+@attribute 'blog post' numeric
+@attribute bloomberg numeric
+@attribute 'bloomberg URL' numeric
+@attribute blown numeric
+@attribute 'blown away' numeric
+@attribute body numeric
+@attribute 'body into' numeric
+@attribute 'body lolol' numeric
+@attribute boo numeric
+@attribute 'boo hissapple' numeric
+@attribute 'bookcase for' numeric
+@attribute 'bookcase rt' numeric
+@attribute 'bookcase thank' numeric
+@attribute bookmarks numeric
+@attribute 'bookmarks nice' numeric
+@attribute 'bookmarks with' numeric
+@attribute books numeric
+@attribute 'books looks' numeric
+@attribute boost numeric
+@attribute 'boost google' numeric
+@attribute boot numeric
+@attribute 'boot reaction' numeric
+@attribute borders numeric
+@attribute 'borders URL' numeric
+@attribute bored numeric
+@attribute 'bored sad' numeric
+@attribute bottom numeric
+@attribute 'bottom and' numeric
+@attribute 'bought it' numeric
+@attribute bound numeric
+@attribute 'bound playbooks' numeric
+@attribute brand numeric
+@attribute 'brand new' numeric
+@attribute brilliance numeric
+@attribute 'brilliance lives' numeric
+@attribute bring numeric
+@attribute 'bring your' numeric
+@attribute bringing numeric
+@attribute 'bringing the' numeric
+@attribute bro numeric
+@attribute 'bro rt' numeric
+@attribute brother numeric
+@attribute 'brother to' numeric
+@attribute browse numeric
+@attribute 'browse but' numeric
+@attribute 'build a' numeric
+@attribute 'building thanks' numeric
+@attribute builtin numeric
+@attribute 'builtin to' numeric
+@attribute burn numeric
+@attribute 'burn my' numeric
+@attribute bus numeric
+@attribute 'bus with' numeric
+@attribute businesses numeric
+@attribute 'businesses i' numeric
+@attribute 'but USERNAME' numeric
+@attribute 'but fun' numeric
+@attribute 'but good' numeric
+@attribute 'but is' numeric
+@attribute 'but it' numeric
+@attribute 'but my' numeric
+@attribute 'but no' numeric
+@attribute 'but nothing' numeric
+@attribute 'but the' numeric
+@attribute 'but unfair' numeric
+@attribute 'but yeah' numeric
+@attribute buttons numeric
+@attribute 'buttons that' numeric
+@attribute 'by and' numeric
+@attribute 'by email' numeric
+@attribute 'by helps' numeric
+@attribute 'by imitation' numeric
+@attribute 'by no' numeric
+@attribute 'by people' numeric
+@attribute 'by technological' numeric
+@attribute calendar numeric
+@attribute 'calendar app' numeric
+@attribute 'call me' numeric
+@attribute 'call my' numeric
+@attribute 'call waiting' numeric
+@attribute 'camera app' numeric
+@attribute 'camera on' numeric
+@attribute 'camera zero' numeric
+@attribute camper numeric
+@attribute 'camper i' numeric
+@attribute campus numeric
+@attribute 'campus love' numeric
+@attribute 'can actually' numeric
+@attribute 'can be' numeric
+@attribute 'can literally' numeric
+@attribute canada numeric
+@attribute 'canada URL' numeric
+@attribute cant numeric
+@attribute 'cant build' numeric
+@attribute 'cant in' numeric
+@attribute 'cant remember' numeric
+@attribute capabilities numeric
+@attribute 'capabilities far' numeric
+@attribute 'card i' numeric
+@attribute cards numeric
+@attribute 'cards app' numeric
+@attribute 'case and' numeric
+@attribute 'case has' numeric
+@attribute cash numeric
+@attribute ceremoniously numeric
+@attribute 'ceremoniously burn' numeric
+@attribute champ numeric
+@attribute 'champ now' numeric
+@attribute 'champ to' numeric
+@attribute 'change my' numeric
+@attribute 'change the' numeric
+@attribute changed numeric
+@attribute 'changed my' numeric
+@attribute 'changed the' numeric
+@attribute changer numeric
+@attribute 'changer in' numeric
+@attribute chao numeric
+@attribute characters numeric
+@attribute 'characters p' numeric
+@attribute 'charge me' numeric
+@attribute cheap numeric
+@attribute 'cheap toy' numeric
+@attribute 'check is' numeric
+@attribute 'check this' numeric
+@attribute china numeric
+@attribute 'china apple' numeric
+@attribute chris numeric
+@attribute close numeric
+@attribute 'close personal' numeric
+@attribute closely numeric
+@attribute 'closely collaborated' numeric
+@attribute 'cloud USERNAME' numeric
+@attribute cnt numeric
+@attribute 'cnt get' numeric
+@attribute coach numeric
+@attribute 'coach wants' numeric
+@attribute codename numeric
+@attribute 'codename data' numeric
+@attribute collaborated numeric
+@attribute 'collaborated to' numeric
+@attribute colleague numeric
+@attribute 'colleague william' numeric
+@attribute college numeric
+@attribute 'college you' numeric
+@attribute 'come to' numeric
+@attribute 'coming next' numeric
+@attribute commands numeric
+@attribute 'commands on' numeric
+@attribute commercial numeric
+@attribute 'commercial RRB' numeric
+@attribute communications numeric
+@attribute 'communications giants' numeric
+@attribute 'company andor' numeric
+@attribute compelling numeric
+@attribute 'compelling selfservice' numeric
+@attribute completes numeric
+@attribute 'completes my' numeric
+@attribute 'computer to' numeric
+@attribute conference numeric
+@attribute 'conference here' numeric
+@attribute confusing numeric
+@attribute 'confusing but' numeric
+@attribute connected numeric
+@attribute 'connected to' numeric
+@attribute considering numeric
+@attribute 'considering the' numeric
+@attribute contact numeric
+@attribute 'contacts articles' numeric
+@attribute contender numeric
+@attribute 'contender to' numeric
+@attribute content numeric
+@attribute 'content bitly' numeric
+@attribute 'content vs' numeric
+@attribute continuing numeric
+@attribute 'continuing to' numeric
+@attribute conversations numeric
+@attribute 'conversations automatically' numeric
+@attribute converting numeric
+@attribute 'converting me' numeric
+@attribute 'cool but' numeric
+@attribute 'cool tool' numeric
+@attribute correct numeric
+@attribute 'correct place' numeric
+@attribute 'could b' numeric
+@attribute 'could let' numeric
+@attribute courtesy numeric
+@attribute 'courtesy of' numeric
+@attribute covers numeric
+@attribute 'covers mail' numeric
+@attribute crack numeric
+@attribute 'crack iphone' numeric
+@attribute 'crack on' numeric
+@attribute cracked numeric
+@attribute 'cracked x' numeric
+@attribute craving numeric
+@attribute 'craving for' numeric
+@attribute 'create compelling' numeric
+@attribute 'create new' numeric
+@attribute cs numeric
+@attribute 'cs new' numeric
+@attribute ctp numeric
+@attribute 'ctp coming' numeric
+@attribute current numeric
+@attribute 'current one' numeric
+@attribute currently numeric
+@attribute 'currently learning' numeric
+@attribute 'currently ordering' numeric
+@attribute 'dark side' numeric
+@attribute 'data explorer' numeric
+@attribute 'data usage' numeric
+@attribute 'day RRB' numeric
+@attribute 'day but' numeric
+@attribute 'day i' numeric
+@attribute 'day it' numeric
+@attribute 'day of' numeric
+@attribute 'days USERNAME' numeric
+@attribute 'days as' numeric
+@attribute 'days better' numeric
+@attribute 'days bitly' numeric
+@attribute daysofgratefulness numeric
+@attribute db numeric
+@attribute 'db URL' numeric
+@attribute 'deal of' numeric
+@attribute 'dear i' numeric
+@attribute debut numeric
+@attribute 'debut weekend' numeric
+@attribute delay numeric
+@attribute 'delay camera' numeric
+@attribute delicious numeric
+@attribute 'delicious new' numeric
+@attribute 'delicious piece' numeric
+@attribute delivered numeric
+@attribute 'delivered today' numeric
+@attribute delivering numeric
+@attribute 'design and' numeric
+@attribute 'design philosophy' numeric
+@attribute desire numeric
+@attribute desired numeric
+@attribute 'desired than' numeric
+@attribute detailed numeric
+@attribute 'detailed URL' numeric
+@attribute dev numeric
+@attribute 'dev evangelist' numeric
+@attribute 'dev opportunities' numeric
+@attribute 'developer here' numeric
+@attribute developers numeric
+@attribute 'developers sdk' numeric
+@attribute 'device frame' numeric
+@attribute 'device it' numeric
+@attribute 'device s' numeric
+@attribute 'device should' numeric
+@attribute 'devices URL' numeric
+@attribute dictation numeric
+@attribute 'did an' numeric
+@attribute 'did shit' numeric
+@attribute 'did there' numeric
+@attribute different numeric
+@attribute 'different apps' numeric
+@attribute difficult numeric
+@attribute 'difficult to' numeric
+@attribute dis numeric
+@attribute 'dis iphone' numeric
+@attribute disappear numeric
+@attribute 'disappear when' numeric
+@attribute discuss numeric
+@attribute dishing numeric
+@attribute 'dishing out' numeric
+@attribute display numeric
+@attribute 'display at' numeric
+@attribute disruptions numeric
+@attribute 'disruptions and' numeric
+@attribute 'do is' numeric
+@attribute 'do it' numeric
+@attribute 'do more' numeric
+@attribute 'do unbelievable' numeric
+@attribute 'does a' numeric
+@attribute 'does everything' numeric
+@attribute 'doing because' numeric
+@attribute 'doing it' numeric
+@attribute 'doing what' numeric
+@attribute dollar numeric
+@attribute 'dollar store' numeric
+@attribute 'done by' numeric
+@attribute 'done much' numeric
+@attribute 'done right' numeric
+@attribute 'done with' numeric
+@attribute dostupan numeric
+@attribute 'dostupan sdk' numeric
+@attribute doubt numeric
+@attribute 'doubt it' numeric
+@attribute 'down awesome' numeric
+@attribute 'down from' numeric
+@attribute 'down on' numeric
+@attribute drain numeric
+@attribute 'drain problem' numeric
+@attribute drakes numeric
+@attribute 'drakes vers' numeric
+@attribute due numeric
+@attribute 'due to' numeric
+@attribute duet numeric
+@attribute 'duet with' numeric
+@attribute dying numeric
+@attribute 'dying haha' numeric
+@attribute 'dynamics are' numeric
+@attribute earned numeric
+@attribute 'earned cash' numeric
+@attribute 'earth helps' numeric
+@attribute easter numeric
+@attribute 'easter eggs' numeric
+@attribute education numeric
+@attribute 'education apps' numeric
+@attribute effect numeric
+@attribute 'effect URL' numeric
+@attribute efffing numeric
+@attribute 'efffing amazing' numeric
+@attribute efficient numeric
+@attribute 'efficient way' numeric
+@attribute eggs numeric
+@attribute 'eggs pull' numeric
+@attribute 'email or' numeric
+@attribute 'email pop' numeric
+@attribute 'emails on' numeric
+@attribute emphasis numeric
+@attribute 'emphasis on' numeric
+@attribute employee numeric
+@attribute 'employee that' numeric
+@attribute engaging numeric
+@attribute 'engaging than' numeric
+@attribute enhance numeric
+@attribute 'enhance siri' numeric
+@attribute enjoy numeric
+@attribute 'enjoy idea' numeric
+@attribute enterprise numeric
+@attribute 'enterprise scalability' numeric
+@attribute entertaining numeric
+@attribute 'entertaining i' numeric
+@attribute errors numeric
+@attribute 'errors more' numeric
+@attribute essential numeric
+@attribute 'essential tools' numeric
+@attribute esxi numeric
+@attribute 'esxi no' numeric
+@attribute evangelist numeric
+@attribute 'evangelist for' numeric
+@attribute 'event USERNAME' numeric
+@attribute 'event is' numeric
+@attribute 'event peanuts' numeric
+@attribute 'ever RRB' numeric
+@attribute 'ever USERNAME' numeric
+@attribute 'ever had' numeric
+@attribute 'every other' numeric
+@attribute 'everyone that' numeric
+@attribute evo numeric
+@attribute 'evo d' numeric
+@attribute 'evo face' numeric
+@attribute exam numeric
+@attribute 'exam questions' numeric
+@attribute excellent numeric
+@attribute 'excellent colleague' numeric
+@attribute excited numeric
+@attribute 'excited for' numeric
+@attribute 'excited to' numeric
+@attribute exciting numeric
+@attribute 'exciting day' numeric
+@attribute expanded numeric
+@attribute 'experience URL' numeric
+@attribute 'experience forward' numeric
+@attribute explorer numeric
+@attribute 'explorer ctp' numeric
+@attribute extent numeric
+@attribute 'extent RRB' numeric
+@attribute 'eye phone' numeric
+@attribute 'face unlock' numeric
+@attribute 'facebook for' numeric
+@attribute 'facebook messed' numeric
+@attribute fact numeric
+@attribute 'fact URL' numeric
+@attribute 'family safety' numeric
+@attribute fancy numeric
+@attribute 'fancy an' numeric
+@attribute far numeric
+@attribute 'far i' numeric
+@attribute 'far superior' numeric
+@attribute favorite numeric
+@attribute 'favorite app' numeric
+@attribute 'feature USERNAME' numeric
+@attribute 'feature few' numeric
+@attribute 'feature looks' numeric
+@attribute 'feature required' numeric
+@attribute featured numeric
+@attribute 'featured education' numeric
+@attribute 'features awesomeness' numeric
+@attribute 'features thoughts' numeric
+@attribute 'feel a' numeric
+@attribute 'feel for' numeric
+@attribute 'feel slightly' numeric
+@attribute feeling numeric
+@attribute 'feeling of' numeric
+@attribute 'feeling when' numeric
+@attribute fellows numeric
+@attribute 'fellows here' numeric
+@attribute few numeric
+@attribute 'few days' numeric
+@attribute 'few featured' numeric
+@attribute 'few more' numeric
+@attribute fiction numeric
+@attribute 'fiction but' numeric
+@attribute 'files and' numeric
+@attribute 'finally a' numeric
+@attribute 'finally all' numeric
+@attribute 'finally get' numeric
+@attribute 'finally power' numeric
+@attribute 'finally thanks' numeric
+@attribute 'finally turning' numeric
+@attribute 'find the' numeric
+@attribute 'find whores' numeric
+@attribute fine numeric
+@attribute 'fine with' numeric
+@attribute fingers numeric
+@attribute 'fingers are' numeric
+@attribute finland numeric
+@attribute 'finland URL' numeric
+@attribute 'first page' numeric
+@attribute 'first weekend' numeric
+@attribute firstgen numeric
+@attribute 'firstgen wp' numeric
+@attribute five numeric
+@attribute 'five reasons' numeric
+@attribute 'fixed my' numeric
+@attribute flashcard numeric
+@attribute 'flashcard apps' numeric
+@attribute flawless numeric
+@attribute 'flawless and' numeric
+@attribute focus numeric
+@attribute 'focus on' numeric
+@attribute folders numeric
+@attribute 'folders from' numeric
+@attribute 'font emphasis' numeric
+@attribute 'font is' numeric
+@attribute 'for admitting' numeric
+@attribute 'for aka' numeric
+@attribute 'for all' numeric
+@attribute 'for being' numeric
+@attribute 'for books' numeric
+@attribute 'for converting' numeric
+@attribute 'for email' numeric
+@attribute 'for ever' numeric
+@attribute 'for galaxy' numeric
+@attribute 'for getting' numeric
+@attribute 'for going' numeric
+@attribute 'for ice' numeric
+@attribute 'for it' numeric
+@attribute 'for logged' numeric
+@attribute 'for me' numeric
+@attribute 'for most' numeric
+@attribute 'for nexus' numeric
+@attribute 'for richer' numeric
+@attribute 'for small' numeric
+@attribute 'for smartphone' numeric
+@attribute 'for some' numeric
+@attribute 'for stupid' numeric
+@attribute 'for twitter' numeric
+@attribute 'for we' numeric
+@attribute 'for widgets' numeric
+@attribute 'forget siri' numeric
+@attribute 'forget the' numeric
+@attribute forgettin numeric
+@attribute 'forgettin how' numeric
+@attribute forsure numeric
+@attribute 'forsure not' numeric
+@attribute forth numeric
+@attribute 'forth between' numeric
+@attribute 'forward to' numeric
+@attribute 'forward we' numeric
+@attribute foundation numeric
+@attribute 'four million' numeric
+@attribute frame numeric
+@attribute 'frame generator' numeric
+@attribute 'free firstgen' numeric
+@attribute 'free iphone' numeric
+@attribute 'free tools' numeric
+@attribute friend numeric
+@attribute 'from and' numeric
+@attribute 'from google' numeric
+@attribute 'from middle' numeric
+@attribute 'from nov' numeric
+@attribute 'from st' numeric
+@attribute 'from that' numeric
+@attribute 'from the' numeric
+@attribute 'from within' numeric
+@attribute fsf numeric
+@attribute 'fsf secure' numeric
+@attribute 'fucking missed' numeric
+@attribute 'full screen' numeric
+@attribute 'fun releases' numeric
+@attribute funds numeric
+@attribute 'funds a' numeric
+@attribute 'funds sweatshops' numeric
+@attribute 'funny and' numeric
+@attribute 'future of' numeric
+@attribute gallery numeric
+@attribute 'gallery app' numeric
+@attribute 'game by' numeric
+@attribute 'game changer' numeric
+@attribute games numeric
+@attribute 'games pretty' numeric
+@attribute 'gates funds' numeric
+@attribute gave numeric
+@attribute 'gave me' numeric
+@attribute 'gave siri' numeric
+@attribute gear numeric
+@attribute generator numeric
+@attribute 'generator updated' numeric
+@attribute 'get an' numeric
+@attribute 'get dis' numeric
+@attribute 'get me' numeric
+@attribute 'get my' numeric
+@attribute 'get on' numeric
+@attribute 'get over' numeric
+@attribute 'get swype' numeric
+@attribute 'get your' numeric
+@attribute gets numeric
+@attribute 'gets my' numeric
+@attribute 'gets ported' numeric
+@attribute 'gets where' numeric
+@attribute 'getting me' numeric
+@attribute 'getting ready' numeric
+@attribute gf numeric
+@attribute 'gf LRB' numeric
+@attribute giants numeric
+@attribute 'giants really' numeric
+@attribute gigs numeric
+@attribute 'gigs thx' numeric
+@attribute gives numeric
+@attribute 'gives everyone' numeric
+@attribute 'gives users' numeric
+@attribute 'glad adopted' numeric
+@attribute 'glad it' numeric
+@attribute 'glad that' numeric
+@attribute 'glad you' numeric
+@attribute globe numeric
+@attribute 'globe project' numeric
+@attribute 'gmail app' numeric
+@attribute 'gmail offline' numeric
+@attribute 'go USERNAME' numeric
+@attribute 'go according' numeric
+@attribute 'go back' numeric
+@attribute 'go get' numeric
+@attribute 'go go' numeric
+@attribute 'go ice' numeric
+@attribute 'go in' numeric
+@attribute 'go straight' numeric
+@attribute 'go to' numeric
+@attribute god numeric
+@attribute 'god gmail' numeric
+@attribute 'going above' numeric
+@attribute 'going amazing' numeric
+@attribute 'going on' numeric
+@attribute 'good and' numeric
+@attribute 'good android' numeric
+@attribute 'good at' numeric
+@attribute 'good dev' numeric
+@attribute 'good job' numeric
+@attribute 'good looks' numeric
+@attribute 'good one' numeric
+@attribute 'good points' numeric
+@attribute 'good signs' numeric
+@attribute 'good start' numeric
+@attribute 'good thing' numeric
+@attribute 'good ui' numeric
+@attribute 'google and' numeric
+@attribute 'google android' numeric
+@attribute 'google contact' numeric
+@attribute 'google have' numeric
+@attribute 'google i' numeric
+@attribute 'google ice' numeric
+@attribute 'google ics' numeric
+@attribute 'google is' numeric
+@attribute 'google nexus' numeric
+@attribute 'google vs' numeric
+@attribute 'got a' numeric
+@attribute 'got an' numeric
+@attribute 'got me' numeric
+@attribute 'got prettier' numeric
+@attribute grass numeric
+@attribute 'grass is' numeric
+@attribute 'gratis when' numeric
+@attribute greader numeric
+@attribute 'greader share' numeric
+@attribute 'great customer' numeric
+@attribute 'great for' numeric
+@attribute 'great james' numeric
+@attribute 'great job' numeric
+@attribute 'great she' numeric
+@attribute 'great sql' numeric
+@attribute 'great time' numeric
+@attribute 'great up' numeric
+@attribute greatly numeric
+@attribute 'greatly appreciated' numeric
+@attribute greener numeric
+@attribute groundbreaking numeric
+@attribute 'guess android' numeric
+@attribute 'guess i' numeric
+@attribute guy numeric
+@attribute 'guy at' numeric
+@attribute 'guy does' numeric
+@attribute 'had an' numeric
+@attribute 'had and' numeric
+@attribute 'had great' numeric
+@attribute 'had my' numeric
+@attribute 'had no' numeric
+@attribute 'haha at' numeric
+@attribute 'haha siri' numeric
+@attribute hairline numeric
+@attribute 'hairline crack' numeric
+@attribute 'hand if' numeric
+@attribute 'hand it' numeric
+@attribute 'hand me' numeric
+@attribute handsets numeric
+@attribute 'handsets at' numeric
+@attribute happy numeric
+@attribute 'happy RRB' numeric
+@attribute 'happy and' numeric
+@attribute 'happy camper' numeric
+@attribute hard numeric
+@attribute 'hard earned' numeric
+@attribute 'hardware improvements' numeric
+@attribute 'has amazing' numeric
+@attribute 'has arrived' numeric
+@attribute 'has changed' numeric
+@attribute 'has cracked' numeric
+@attribute 'has made' numeric
+@attribute 'has panorama' numeric
+@attribute 'has said' numeric
+@attribute 'has some' numeric
+@attribute 'has the' numeric
+@attribute 'has to' numeric
+@attribute 'has very' numeric
+@attribute 'have RRB' numeric
+@attribute 'have changed' numeric
+@attribute 'have closely' numeric
+@attribute 'have invented' numeric
+@attribute 'have missed' numeric
+@attribute 'have nt' numeric
+@attribute 'have public' numeric
+@attribute 'have put' numeric
+@attribute 'have shifted' numeric
+@attribute 'have spoiled' numeric
+@attribute 'have sugarcoated' numeric
+@attribute 'have taken' numeric
+@attribute 'have text' numeric
+@attribute 'have the' numeric
+@attribute 'he gets' numeric
+@attribute 'he s' numeric
+@attribute headed numeric
+@attribute 'headed URL' numeric
+@attribute heard numeric
+@attribute 'heard by' numeric
+@attribute 'hell naw' numeric
+@attribute 'help from' numeric
+@attribute 'help greatly' numeric
+@attribute 'help keep' numeric
+@attribute helps numeric
+@attribute 'helps locate' numeric
+@attribute 'helps you' numeric
+@attribute helsinki numeric
+@attribute 'helsinki finland' numeric
+@attribute 'her iphone' numeric
+@attribute 'here i' numeric
+@attribute 'here s' numeric
+@attribute 'here when' numeric
+@attribute 'here with' numeric
+@attribute 'hey parents' numeric
+@attribute 'hey parentsdid' numeric
+@attribute hide numeric
+@attribute 'hide a' numeric
+@attribute high numeric
+@attribute 'high school' numeric
+@attribute hilarious numeric
+@attribute 'hilarious USERNAME' numeric
+@attribute 'him the' numeric
+@attribute hissapple numeric
+@attribute 'hissapple wuhu' numeric
+@attribute 'home from' numeric
+@attribute hookup numeric
+@attribute 'hookup stop' numeric
+@attribute 'hope they' numeric
+@attribute hoping numeric
+@attribute 'hoping i' numeric
+@attribute hotspots numeric
+@attribute 'hotspots URL' numeric
+@attribute 'how good' numeric
+@attribute 'how it' numeric
+@attribute 'how siri' numeric
+@attribute 'how underrated' numeric
+@attribute hper numeric
+@attribute 'hper lager' numeric
+@attribute htc numeric
+@attribute 'htc desire' numeric
+@attribute 'http t' numeric
+@attribute https numeric
+@attribute 'https URL' numeric
+@attribute humor numeric
+@attribute 'humor URL' numeric
+@attribute hungry numeric
+@attribute hurting numeric
+@attribute hut numeric
+@attribute 'hut USERNAME' numeric
+@attribute 'hut hut' numeric
+@attribute 'i URL' numeric
+@attribute 'i USERNAME' numeric
+@attribute 'i absolutely' numeric
+@attribute 'i agree' numeric
+@attribute 'i cant' numeric
+@attribute 'i cnt' numeric
+@attribute 'i come' numeric
+@attribute 'i fancy' numeric
+@attribute 'i feel' numeric
+@attribute 'i fucking' numeric
+@attribute 'i go' numeric
+@attribute 'i got' numeric
+@attribute 'i know' numeric
+@attribute 'i ll' numeric
+@attribute 'i love' numeric
+@attribute 'i lovee' numeric
+@attribute 'i must' numeric
+@attribute 'i replace' numeric
+@attribute 'i saw' numeric
+@attribute 'i sent' numeric
+@attribute 'i showed' numeric
+@attribute 'i smashed' numeric
+@attribute 'i use' numeric
+@attribute 'i used' numeric
+@attribute 'i walk' numeric
+@attribute 'i wan' numeric
+@attribute 'i was' numeric
+@attribute 'i will' numeric
+@attribute icecream numeric
+@attribute 'icecream sandwich' numeric
+@attribute 'icloud backup' numeric
+@attribute 'ics looks' numeric
+@attribute 'ics on' numeric
+@attribute idea numeric
+@attribute 'idea could' numeric
+@attribute 'idea it' numeric
+@attribute 'im moving' numeric
+@attribute imitation numeric
+@attribute 'imitation sad' numeric
+@attribute imo numeric
+@attribute 'imo android' numeric
+@attribute importance numeric
+@attribute 'importance of' numeric
+@attribute impressed numeric
+@attribute 'impressed much' numeric
+@attribute 'impressed with' numeric
+@attribute impressive numeric
+@attribute 'impressive finally' numeric
+@attribute 'impressive numbers' numeric
+@attribute 'improvements camera' numeric
+@attribute 'improvements data' numeric
+@attribute 'improvements gmail' numeric
+@attribute 'improvements inbuilt' numeric
+@attribute 'improvements stacks' numeric
+@attribute 'in USERNAME' numeric
+@attribute 'in action' numeric
+@attribute 'in and' numeric
+@attribute 'in beta' numeric
+@attribute 'in canada' numeric
+@attribute 'in debut' numeric
+@attribute 'in doubt' numeric
+@attribute 'in finally' numeric
+@attribute 'in first' numeric
+@attribute 'in full' numeric
+@attribute 'in ice' numeric
+@attribute 'in less' numeric
+@attribute 'in looks' numeric
+@attribute 'in love' numeric
+@attribute 'in new' numeric
+@attribute 'in pc' numeric
+@attribute 'in photosharing' numeric
+@attribute 'in regent' numeric
+@attribute 'in saying' numeric
+@attribute 'in space' numeric
+@attribute 'in store' numeric
+@attribute 'in terms' numeric
+@attribute 'in that' numeric
+@attribute 'in today' numeric
+@attribute 'in touch' numeric
+@attribute 'in users' numeric
+@attribute 'in win' numeric
+@attribute inbuilt numeric
+@attribute 'inbuilt bitly' numeric
+@attribute 'inbuilt panoramic' numeric
+@attribute included numeric
+@attribute 'included with' numeric
+@attribute incredible numeric
+@attribute 'incredible million' numeric
+@attribute 'incredible people' numeric
+@attribute 'infinite spiral' numeric
+@attribute 'info USERNAME' numeric
+@attribute 'info on' numeric
+@attribute 'info registration' numeric
+@attribute inline numeric
+@attribute 'inline keyboard' numeric
+@attribute innovation numeric
+@attribute 'innovation by' numeric
+@attribute innovations numeric
+@attribute 'innovations should' numeric
+@attribute innovators numeric
+@attribute 'innovators from' numeric
+@attribute inspire numeric
+@attribute 'inspire people' numeric
+@attribute instant numeric
+@attribute 'instant photo' numeric
+@attribute 'integrated twitter' numeric
+@attribute integrating numeric
+@attribute 'integrating different' numeric
+@attribute interest numeric
+@attribute 'interest rt' numeric
+@attribute interested numeric
+@attribute 'interested to' numeric
+@attribute 'interesting URL' numeric
+@attribute 'interesting battle' numeric
+@attribute 'interesting bookcase' numeric
+@attribute internet numeric
+@attribute 'internet was' numeric
+@attribute introduced numeric
+@attribute 'introduced as' numeric
+@attribute 'introduced for' numeric
+@attribute introducing numeric
+@attribute 'introducing galaxy' numeric
+@attribute 'introducing ice' numeric
+@attribute invented numeric
+@attribute 'invented a' numeric
+@attribute invention numeric
+@attribute 'invention ever' numeric
+@attribute invested numeric
+@attribute 'invested macbook' numeric
+@attribute 'ios USERNAME' numeric
+@attribute 'ios easter' numeric
+@attribute 'ios for' numeric
+@attribute 'ios is' numeric
+@attribute 'ios user' numeric
+@attribute 'ipad URL' numeric
+@attribute 'ipads replace' numeric
+@attribute 'iphone RRB' numeric
+@attribute 'iphone URL' numeric
+@attribute 'iphone USERNAME' numeric
+@attribute 'iphone but' numeric
+@attribute 'iphone i' numeric
+@attribute 'iphone it' numeric
+@attribute 'iphone made' numeric
+@attribute 'iphone or' numeric
+@attribute 'iphone ss' numeric
+@attribute 'iphone that' numeric
+@attribute 'iphone users' numeric
+@attribute 'iphones RRB' numeric
+@attribute 'iphones in' numeric
+@attribute 'iphones their' numeric
+@attribute 'iphones with' numeric
+@attribute 'ipod update' numeric
+@attribute 'is actually' numeric
+@attribute 'is amazing' numeric
+@attribute 'is awesome' numeric
+@attribute 'is blatant' numeric
+@attribute 'is builtin' numeric
+@attribute 'is due' numeric
+@attribute 'is efffing' numeric
+@attribute 'is funny' numeric
+@attribute 'is get' numeric
+@attribute 'is good' numeric
+@attribute 'is great' numeric
+@attribute 'is greener' numeric
+@attribute 'is headed' numeric
+@attribute 'is here' numeric
+@attribute 'is its' numeric
+@attribute 'is just' numeric
+@attribute 'is live' numeric
+@attribute 'is looking' numeric
+@attribute 'is making' numeric
+@attribute 'is moving' numeric
+@attribute 'is my' numeric
+@attribute 'is nice' numeric
+@attribute 'is onto' numeric
+@attribute 'is pretty' numeric
+@attribute 'is reliable' numeric
+@attribute 'is science' numeric
+@attribute 'is still' numeric
+@attribute 'is sweet' numeric
+@attribute 'is taking' numeric
+@attribute 'is that' numeric
+@attribute 'is too' numeric
+@attribute 'is very' numeric
+@attribute 'is way' numeric
+@attribute 'is winning' numeric
+@attribute 'is worth' numeric
+@attribute 'is years' numeric
+@attribute isb numeric
+@attribute 'isb watching' numeric
+@attribute iscream numeric
+@attribute 'iscream u' numeric
+@attribute 'it RRB' numeric
+@attribute 'it USERNAME' numeric
+@attribute 'it always' numeric
+@attribute 'it any' numeric
+@attribute 'it but' numeric
+@attribute 'it did' numeric
+@attribute 'it gets' numeric
+@attribute 'it had' numeric
+@attribute 'it helps' numeric
+@attribute 'it it' numeric
+@attribute 'it looks' numeric
+@attribute 'it now' numeric
+@attribute 'it real' numeric
+@attribute 'it shows' numeric
+@attribute 'it syncs' numeric
+@attribute 'it well' numeric
+@attribute 'it when' numeric
+@attribute 'it will' numeric
+@attribute 'it would' numeric
+@attribute 'it yourself' numeric
+@attribute 'its not' numeric
+@attribute 'its power' numeric
+@attribute 'its stores' numeric
+@attribute james numeric
+@attribute 'james stewart' numeric
+@attribute 'job USERNAME' numeric
+@attribute 'job and' numeric
+@attribute 'job at' numeric
+@attribute 'job well' numeric
+@attribute 'jobs brilliance' numeric
+@attribute jus numeric
+@attribute 'jus updated' numeric
+@attribute 'just add' numeric
+@attribute 'just apply' numeric
+@attribute 'just beautiful' numeric
+@attribute 'just got' numeric
+@attribute 'just now' numeric
+@attribute 'just registered' numeric
+@attribute 'just seen' numeric
+@attribute 'k users' numeric
+@attribute 'keep doing' numeric
+@attribute 'keep forgettin' numeric
+@attribute 'keep in' numeric
+@attribute 'keep your' numeric
+@attribute keyboard numeric
+@attribute 'keyboard spell' numeric
+@attribute kids numeric
+@attribute 'kids safe' numeric
+@attribute 'know about' numeric
+@attribute 'know you' numeric
+@attribute 'kong i' numeric
+@attribute krause numeric
+@attribute 'krause for' numeric
+@attribute lag numeric
+@attribute 'lag bitly' numeric
+@attribute lager numeric
+@attribute 'lager ny' numeric
+@attribute 'last days' numeric
+@attribute 'launch were' numeric
+@attribute 'launches ice' numeric
+@attribute laying numeric
+@attribute 'laying down' numeric
+@attribute 'learning mandarin' numeric
+@attribute 'learning playful' numeric
+@attribute least numeric
+@attribute 'least is' numeric
+@attribute 'least the' numeric
+@attribute left numeric
+@attribute 'left socia' numeric
+@attribute less numeric
+@attribute 'less desired' numeric
+@attribute 'less nerdiness' numeric
+@attribute 'less than' numeric
+@attribute 'let you' numeric
+@attribute letting numeric
+@attribute 'letting out' numeric
+@attribute 'life lol' numeric
+@attribute 'like a' numeric
+@attribute 'like an' numeric
+@attribute 'like lol' numeric
+@attribute 'like miley' numeric
+@attribute 'like my' numeric
+@attribute 'like science' numeric
+@attribute 'like the' numeric
+@attribute 'like to' numeric
+@attribute 'like what' numeric
+@attribute liking numeric
+@attribute 'liking the' numeric
+@attribute 'line smart' numeric
+@attribute literally numeric
+@attribute 'literally go' numeric
+@attribute 'literally had' numeric
+@attribute 'little feature' numeric
+@attribute 'little more' numeric
+@attribute 'live URL' numeric
+@attribute 'live USERNAME' numeric
+@attribute 'live blog' numeric
+@attribute 'live family' numeric
+@attribute 'live wallpaper' numeric
+@attribute lives numeric
+@attribute 'lives on' numeric
+@attribute 'll keep' numeric
+@attribute 'll miss' numeric
+@attribute lmao numeric
+@attribute 'lmao i' numeric
+@attribute local numeric
+@attribute 'local post' numeric
+@attribute locate numeric
+@attribute 'locate salmonella' numeric
+@attribute 'lock screen' numeric
+@attribute logged numeric
+@attribute 'logged in' numeric
+@attribute 'lol hell' numeric
+@attribute 'lol ring' numeric
+@attribute lolol numeric
+@attribute longer numeric
+@attribute 'longer paying' numeric
+@attribute 'look like' numeric
+@attribute 'look outdated' numeric
+@attribute 'looking forward' numeric
+@attribute 'looking to' numeric
+@attribute 'looks amazing' numeric
+@attribute 'looks awesome' numeric
+@attribute 'looks good' numeric
+@attribute 'looks is' numeric
+@attribute 'looks like' numeric
+@attribute 'looks nice' numeric
+@attribute 'looks promising' numeric
+@attribute 'looks really' numeric
+@attribute 'lost gigs' numeric
+@attribute lots numeric
+@attribute 'lots of' numeric
+@attribute 'love USERNAME' numeric
+@attribute 'love about' numeric
+@attribute 'love affair' numeric
+@attribute 'love easter' numeric
+@attribute 'love ice' numeric
+@attribute 'love ios' numeric
+@attribute 'love love' numeric
+@attribute 'love my' numeric
+@attribute 'love the' numeric
+@attribute 'love with' numeric
+@attribute 'love you' numeric
+@attribute lovee numeric
+@attribute lovin numeric
+@attribute 'lovin it' numeric
+@attribute loving numeric
+@attribute 'loving my' numeric
+@attribute 'loving the' numeric
+@attribute 'loving this' numeric
+@attribute 'm about' numeric
+@attribute 'm addicted' numeric
+@attribute 'm amazed' numeric
+@attribute 'm an' numeric
+@attribute 'm loving' numeric
+@attribute 'm now' numeric
+@attribute 'm over' numeric
+@attribute 'm so' numeric
+@attribute 'm thankful' numeric
+@attribute 'm very' numeric
+@attribute 'mac os' numeric
+@attribute macbook numeric
+@attribute 'macbook is' numeric
+@attribute 'macbook pro' numeric
+@attribute mad numeric
+@attribute 'mad happy' numeric
+@attribute 'mad props' numeric
+@attribute 'made me' numeric
+@attribute 'made my' numeric
+@attribute magical numeric
+@attribute 'magical i' numeric
+@attribute 'mail now' numeric
+@attribute major numeric
+@attribute 'major game' numeric
+@attribute 'make a' numeric
+@attribute 'make all' numeric
+@attribute 'make it' numeric
+@attribute 'make me' numeric
+@attribute 'make the' numeric
+@attribute 'make up' numeric
+@attribute 'makes learning' numeric
+@attribute 'makes the' numeric
+@attribute 'making me' numeric
+@attribute 'man by' numeric
+@attribute mandarin numeric
+@attribute 'mandarin for' numeric
+@attribute 'mango shows' numeric
+@attribute 'market share' numeric
+@attribute marks numeric
+@attribute 'marks university' numeric
+@attribute 'maybe but' numeric
+@attribute 'maybe not' numeric
+@attribute 'me a' numeric
+@attribute 'me by' numeric
+@attribute 'me haha' numeric
+@attribute 'me hungry' numeric
+@attribute 'me it' numeric
+@attribute 'me lol' numeric
+@attribute 'me mins' numeric
+@attribute 'me that' numeric
+@attribute 'me the' numeric
+@attribute 'me through' numeric
+@attribute 'me throw' numeric
+@attribute 'me to' numeric
+@attribute 'me too' numeric
+@attribute 'media i' numeric
+@attribute 'messages and' numeric
+@attribute 'microsoft mouse' numeric
+@attribute 'microsoft stores' numeric
+@attribute middle numeric
+@attribute 'middle top' numeric
+@attribute miley numeric
+@attribute 'miley URL' numeric
+@attribute 'million URL' numeric
+@attribute 'million in' numeric
+@attribute 'million iphones' numeric
+@attribute mind numeric
+@attribute 'mind blown' numeric
+@attribute mins numeric
+@attribute 'mins to' numeric
+@attribute miss numeric
+@attribute 'miss it' numeric
+@attribute missed numeric
+@attribute 'missed you' numeric
+@attribute 'missing i' numeric
+@attribute mixer numeric
+@attribute 'mixer building' numeric
+@attribute 'mmm rt' numeric
+@attribute mmmm numeric
+@attribute 'mmmm ice' numeric
+@attribute 'mobile experience' numeric
+@attribute mode numeric
+@attribute 'mode more' numeric
+@attribute month numeric
+@attribute 'month URL' numeric
+@attribute mood numeric
+@attribute 'mood now' numeric
+@attribute 'more URL' numeric
+@attribute 'more awesome' numeric
+@attribute 'more connected' numeric
+@attribute 'more engaging' numeric
+@attribute 'more feature' numeric
+@attribute 'more of' numeric
+@attribute 'more often' numeric
+@attribute 'more on' numeric
+@attribute 'more picture' numeric
+@attribute 'more rooting' numeric
+@attribute 'most delicious' numeric
+@attribute 'most efficient' numeric
+@attribute 'most people' numeric
+@attribute 'most texts' numeric
+@attribute mouse numeric
+@attribute 'mouse courtesy' numeric
+@attribute 'mouse is' numeric
+@attribute 'mouse without' numeric
+@attribute move numeric
+@attribute 'move RRB' numeric
+@attribute moving numeric
+@attribute 'moving to' numeric
+@attribute 'much abandoned' numeric
+@attribute 'much better' numeric
+@attribute 'much i' numeric
+@attribute 'much sums' numeric
+@attribute 'much this' numeric
+@attribute 'much with' numeric
+@attribute 'music arrives' numeric
+@attribute 'music s' numeric
+@attribute 'must admit' numeric
+@attribute 'my background' numeric
+@attribute 'my battery' numeric
+@attribute 'my bed' numeric
+@attribute 'my berry' numeric
+@attribute 'my bff' numeric
+@attribute 'my brother' numeric
+@attribute 'my case' numeric
+@attribute 'my computer' numeric
+@attribute 'my day' numeric
+@attribute 'my evo' numeric
+@attribute 'my excellent' numeric
+@attribute 'my eye' numeric
+@attribute 'my facebook' numeric
+@attribute 'my favorite' numeric
+@attribute 'my fingers' numeric
+@attribute 'my gear' numeric
+@attribute 'my hard' numeric
+@attribute 'my htc' numeric
+@attribute 'my its' numeric
+@attribute 'my life' numeric
+@attribute 'my macbook' numeric
+@attribute 'my mind' numeric
+@attribute 'my pants' numeric
+@attribute 'my parents' numeric
+@attribute 'my plan' numeric
+@attribute 'my profile' numeric
+@attribute 'my sentences' numeric
+@attribute 'my side' numeric
+@attribute 'my thank' numeric
+@attribute 'my touch' numeric
+@attribute 'my upcoming' numeric
+@attribute 'my waterdamaged' numeric
+@attribute 'my way' numeric
+@attribute 'my wife' numeric
+@attribute 'my with' numeric
+@attribute 'my work' numeric
+@attribute 'na boost' numeric
+@attribute 'na it' numeric
+@attribute native numeric
+@attribute 'native voice' numeric
+@attribute navigation numeric
+@attribute naw numeric
+@attribute nearest numeric
+@attribute 'nearest trash' numeric
+@attribute neat numeric
+@attribute 'neat but' numeric
+@attribute 'need a' numeric
+@attribute 'need an' numeric
+@attribute neither numeric
+@attribute 'neither peas' numeric
+@attribute nerdiness numeric
+@attribute 'never ever' numeric
+@attribute 'new USERNAME' numeric
+@attribute 'new accompanying' numeric
+@attribute 'new and' numeric
+@attribute 'new android' numeric
+@attribute 'new avtar' numeric
+@attribute 'new backside' numeric
+@attribute 'new calendar' numeric
+@attribute 'new camera' numeric
+@attribute 'new features' numeric
+@attribute 'new fellows' numeric
+@attribute 'new folders' numeric
+@attribute 'new font' numeric
+@attribute 'new gf' numeric
+@attribute 'new google' numeric
+@attribute 'new ipod' numeric
+@attribute 'new is' numeric
+@attribute 'new macbook' numeric
+@attribute 'new nexus' numeric
+@attribute 'new one' numeric
+@attribute 'new s' numeric
+@attribute 'new user' numeric
+@attribute 'new windows' numeric
+@attribute 'next month' numeric
+@attribute 'next year' numeric
+@attribute 'nexus RRB' numeric
+@attribute 'nexus and' numeric
+@attribute 'nexus app' numeric
+@attribute 'nexus has' numeric
+@attribute 'nexus in' numeric
+@attribute 'nexus is' numeric
+@attribute 'nexus looks' numeric
+@attribute 'nexus now' numeric
+@attribute 'nexus os' numeric
+@attribute 'nexus page' numeric
+@attribute 'nexus simple' numeric
+@attribute 'nexus your' numeric
+@attribute nfl numeric
+@attribute 'nfl teams' numeric
+@attribute 'nice and' numeric
+@attribute 'nice guy' numeric
+@attribute 'nice job' numeric
+@attribute 'nice report' numeric
+@attribute 'nice scores' numeric
+@attribute 'nice talk' numeric
+@attribute 'nice trivia' numeric
+@attribute 'nice ui' numeric
+@attribute 'nice with' numeric
+@attribute nicki numeric
+@attribute 'nicki s' numeric
+@attribute 'no beating' numeric
+@attribute 'no errors' numeric
+@attribute 'no idea' numeric
+@attribute 'no longer' numeric
+@attribute 'no more' numeric
+@attribute 'no question' numeric
+@attribute 'no sound' numeric
+@attribute nor numeric
+@attribute 'nor nuts' numeric
+@attribute 'not a' numeric
+@attribute 'not bad' numeric
+@attribute 'not delivering' numeric
+@attribute 'not impressed' numeric
+@attribute 'not the' numeric
+@attribute 'not wait' numeric
+@attribute 'nothing groundbreaking' numeric
+@attribute 'notifications phone' numeric
+@attribute notifies numeric
+@attribute 'notifies me' numeric
+@attribute 'nov info' numeric
+@attribute 'now all' numeric
+@attribute 'now craving' numeric
+@attribute 'now for' numeric
+@attribute 'now glad' numeric
+@attribute 'now has' numeric
+@attribute 'now invested' numeric
+@attribute 'now lol' numeric
+@attribute 'now make' numeric
+@attribute 'now over' numeric
+@attribute 'now please' numeric
+@attribute 'now try' numeric
+@attribute 'now twitter' numeric
+@attribute 'now want' numeric
+@attribute 'now wifi' numeric
+@attribute 'nt charge' numeric
+@attribute 'nt did' numeric
+@attribute 'nt this' numeric
+@attribute 'nt wait' numeric
+@attribute numbers numeric
+@attribute 'numbers URL' numeric
+@attribute nuts numeric
+@attribute 'nuts discuss' numeric
+@attribute ny numeric
+@attribute 'ny releasepartyguide' numeric
+@attribute 'ny times' numeric
+@attribute nytimes numeric
+@attribute 'nytimes coach' numeric
+@attribute 'o and' numeric
+@attribute 'of android' numeric
+@attribute 'of architecture' numeric
+@attribute 'of google' numeric
+@attribute 'of had' numeric
+@attribute 'of humor' numeric
+@attribute 'of info' numeric
+@attribute 'of innovators' numeric
+@attribute 'of last' numeric
+@attribute 'of s' numeric
+@attribute 'of sandwich' numeric
+@attribute 'of these' numeric
+@attribute 'of uh' numeric
+@attribute 'of unified' numeric
+@attribute 'off make' numeric
+@attribute 'off twitter' numeric
+@attribute 'offer up' numeric
+@attribute offering numeric
+@attribute 'offering to' numeric
+@attribute 'office and' numeric
+@attribute 'officially detailed' numeric
+@attribute offline numeric
+@attribute 'offline search' numeric
+@attribute often numeric
+@attribute 'ok with' numeric
+@attribute okay numeric
+@attribute 'okay i' numeric
+@attribute 'old bag' numeric
+@attribute 'old i' numeric
+@attribute omg numeric
+@attribute 'omg RRB' numeric
+@attribute 'on android' numeric
+@attribute 'on design' numeric
+@attribute 'on display' numeric
+@attribute 'on for' numeric
+@attribute 'on forsure' numeric
+@attribute 'on go' numeric
+@attribute 'on https' numeric
+@attribute 'on ice' numeric
+@attribute 'on ics' numeric
+@attribute 'on letting' numeric
+@attribute 'on one' numeric
+@attribute 'on selling' numeric
+@attribute 'on some' numeric
+@attribute 'on thanks' numeric
+@attribute 'on user' numeric
+@attribute 'one LRB' numeric
+@attribute 'one RRB' numeric
+@attribute 'one and' numeric
+@attribute 'one more' numeric
+@attribute 'one personalization' numeric
+@attribute 'one really' numeric
+@attribute 'one so' numeric
+@attribute 'one with' numeric
+@attribute 'one word' numeric
+@attribute 'online live' numeric
+@attribute onlinelive numeric
+@attribute 'onlinelive family' numeric
+@attribute 'only USERNAME' numeric
+@attribute 'only retarded' numeric
+@attribute onto numeric
+@attribute 'onto something' numeric
+@attribute opening numeric
+@attribute 'opening it' numeric
+@attribute 'operating systems' numeric
+@attribute opportunities numeric
+@attribute 'opportunities at' numeric
+@attribute 'or a' numeric
+@attribute 'or go' numeric
+@attribute 'or http' numeric
+@attribute 'or something' numeric
+@attribute oranges numeric
+@attribute 'oranges maybe' numeric
+@attribute ordering numeric
+@attribute 'ordering a' numeric
+@attribute 'os URL' numeric
+@attribute 'os for' numeric
+@attribute 'os hardware' numeric
+@attribute 'os improvements' numeric
+@attribute 'os interesting' numeric
+@attribute 'os make' numeric
+@attribute osnexus numeric
+@attribute 'osnexus line' numeric
+@attribute 'other mood' numeric
+@attribute 'other smartphone' numeric
+@attribute others numeric
+@attribute 'out free' numeric
+@attribute 'out introducing' numeric
+@attribute 'out the' numeric
+@attribute 'out your' numeric
+@attribute outdated numeric
+@attribute 'outdated wowww' numeric
+@attribute 'over million' numeric
+@attribute 'over people' numeric
+@attribute 'over that' numeric
+@attribute 'over time' numeric
+@attribute 'over to' numeric
+@attribute 'over yrs' numeric
+@attribute owns numeric
+@attribute 'owns the' numeric
+@attribute 'p rt' numeric
+@attribute 'page is' numeric
+@attribute 'page of' numeric
+@attribute 'panorama capabilities' numeric
+@attribute panoramic numeric
+@attribute 'panoramic pictures' numeric
+@attribute pants numeric
+@attribute parents numeric
+@attribute 'parents did' numeric
+@attribute 'parents when' numeric
+@attribute parentsdid numeric
+@attribute 'parentsdid you' numeric
+@attribute party numeric
+@attribute 'party URL' numeric
+@attribute pass numeric
+@attribute 'pass up' numeric
+@attribute pavilions numeric
+@attribute 'pavilions at' numeric
+@attribute paying numeric
+@attribute 'paying for' numeric
+@attribute 'pc LRB' numeric
+@attribute 'pc thanks' numeric
+@attribute peanuts numeric
+@attribute 'peanuts are' numeric
+@attribute peas numeric
+@attribute 'peas nor' numeric
+@attribute 'people USERNAME' numeric
+@attribute 'people app' numeric
+@attribute 'people appear' numeric
+@attribute 'people bitching' numeric
+@attribute 'people have' numeric
+@attribute 'people to' numeric
+@attribute 'people unlike' numeric
+@attribute person numeric
+@attribute 'person on' numeric
+@attribute personal numeric
+@attribute 'personal event' numeric
+@attribute personalization numeric
+@attribute 'personalization db' numeric
+@attribute philosophy numeric
+@attribute 'philosophy for' numeric
+@attribute 'phone are' numeric
+@attribute 'phone cs' numeric
+@attribute 'phone gratis' numeric
+@attribute 'phone i' numeric
+@attribute 'phone makes' numeric
+@attribute 'phone market' numeric
+@attribute 'phone nice' numeric
+@attribute 'phone on' numeric
+@attribute 'phone search' numeric
+@attribute 'phone v' numeric
+@attribute 'photo album' numeric
+@attribute 'photo sharing' numeric
+@attribute photosharing numeric
+@attribute 'photosharing URL' numeric
+@attribute picture numeric
+@attribute 'picture of' numeric
+@attribute 'pictures bitly' numeric
+@attribute pinch numeric
+@attribute 'pinch to' numeric
+@attribute place numeric
+@attribute 'plan LRB' numeric
+@attribute planet numeric
+@attribute 'planet when' numeric
+@attribute plate numeric
+@attribute 'plate on' numeric
+@attribute platform numeric
+@attribute 'platform has' numeric
+@attribute play numeric
+@attribute 'play nice' numeric
+@attribute 'play with' numeric
+@attribute playbooks numeric
+@attribute 'playbooks on' numeric
+@attribute 'playful with' numeric
+@attribute playing numeric
+@attribute 'playing nice' numeric
+@attribute 'please send' numeric
+@attribute pleased numeric
+@attribute 'pleased to' numeric
+@attribute points numeric
+@attribute 'points about' numeric
+@attribute poised numeric
+@attribute 'poised to' numeric
+@attribute polish numeric
+@attribute 'polish i' numeric
+@attribute pop numeric
+@attribute 'pop up' numeric
+@attribute ported numeric
+@attribute 'ported over' numeric
+@attribute 'post cool' numeric
+@attribute 'post office' numeric
+@attribute power numeric
+@attribute 'power to' numeric
+@attribute 'power users' numeric
+@attribute 'power volume' numeric
+@attribute 'powered phone' numeric
+@attribute 'powered technology' numeric
+@attribute prettier numeric
+@attribute 'prettier URL' numeric
+@attribute 'pretty cool' numeric
+@attribute 'pretty impressive' numeric
+@attribute 'pretty much' numeric
+@attribute 'pretty sweet' numeric
+@attribute 'prime looks' numeric
+@attribute 'prime released' numeric
+@attribute 'pro bahhh' numeric
+@attribute 'pro next' numeric
+@attribute 'pro wow' numeric
+@attribute 'problem with' numeric
+@attribute 'product that' numeric
+@attribute 'products inspire' numeric
+@attribute profile numeric
+@attribute 'profile on' numeric
+@attribute progressive numeric
+@attribute 'progressive left' numeric
+@attribute project numeric
+@attribute 'project add' numeric
+@attribute promise numeric
+@attribute 'promise i' numeric
+@attribute promising numeric
+@attribute 'promising as' numeric
+@attribute propaganda numeric
+@attribute props numeric
+@attribute 'props to' numeric
+@attribute proves numeric
+@attribute 'proves enterprise' numeric
+@attribute provided numeric
+@attribute 'provided in' numeric
+@attribute public numeric
+@attribute 'public speaking' numeric
+@attribute publicly numeric
+@attribute 'publicly and' numeric
+@attribute pull numeric
+@attribute 'pull down' numeric
+@attribute pulls numeric
+@attribute 'pulls down' numeric
+@attribute push numeric
+@attribute 'push the' numeric
+@attribute 'put and' numeric
+@attribute qpgxle numeric
+@attribute question numeric
+@attribute 'question bro' numeric
+@attribute questions numeric
+@attribute 'questions in' numeric
+@attribute 'r is' numeric
+@attribute 'r really' numeric
+@attribute raise numeric
+@attribute 'raise your' numeric
+@attribute 're one' numeric
+@attribute 're ugly' numeric
+@attribute 're useless' numeric
+@attribute reaction numeric
+@attribute 'reaction this' numeric
+@attribute readable numeric
+@attribute 'readable font' numeric
+@attribute 'reader owns' numeric
+@attribute ready numeric
+@attribute 'ready for' numeric
+@attribute 'real fast' numeric
+@attribute 'real life' numeric
+@attribute 'real world' numeric
+@attribute 'really USERNAME' numeric
+@attribute 'really about' numeric
+@attribute 'really beneficial' numeric
+@attribute 'really good' numeric
+@attribute 'really i' numeric
+@attribute 'really interesting' numeric
+@attribute 'really surprised' numeric
+@attribute reasons numeric
+@attribute 'reasons why' numeric
+@attribute received numeric
+@attribute 'received today' numeric
+@attribute red numeric
+@attribute 'red hut' numeric
+@attribute 'red red' numeric
+@attribute redesigned numeric
+@attribute 'redesigned under' numeric
+@attribute referring numeric
+@attribute 'referring to' numeric
+@attribute regent numeric
+@attribute 'regent st' numeric
+@attribute 'register now' numeric
+@attribute registered numeric
+@attribute 'registered as' numeric
+@attribute registration numeric
+@attribute 'registration at' numeric
+@attribute 'released LSB' numeric
+@attribute releasepartyguide numeric
+@attribute 'releasepartyguide for' numeric
+@attribute reliable numeric
+@attribute remember numeric
+@attribute 'remember how' numeric
+@attribute replace numeric
+@attribute 'replace bound' numeric
+@attribute 'replace my' numeric
+@attribute 'replace the' numeric
+@attribute replaced numeric
+@attribute 'replaced my' numeric
+@attribute replacement numeric
+@attribute 'replacement iphone' numeric
+@attribute replacing numeric
+@attribute 'replacing my' numeric
+@attribute 'report http' numeric
+@attribute 'reports that' numeric
+@attribute required numeric
+@attribute 'research shows' numeric
+@attribute responsive numeric
+@attribute 'responsive screen' numeric
+@attribute retail numeric
+@attribute 'retail success' numeric
+@attribute retarded numeric
+@attribute 'retarded person' numeric
+@attribute richer numeric
+@attribute 'richer content' numeric
+@attribute 'right you' numeric
+@attribute ring numeric
+@attribute 'ring tone' numeric
+@attribute rite numeric
+@attribute 'rite about' numeric
+@attribute rooting numeric
+@attribute 'rooting required' numeric
+@attribute 'rt me' numeric
+@attribute rtjeffbullas numeric
+@attribute 'rtjeffbullas twitters' numeric
+@attribute 's and' numeric
+@attribute 's at' numeric
+@attribute 's best' numeric
+@attribute 's bookmarks' numeric
+@attribute 's difficult' numeric
+@attribute 's first' numeric
+@attribute 's for' numeric
+@attribute 's going' numeric
+@attribute 's hoping' numeric
+@attribute 's ice' numeric
+@attribute 's like' numeric
+@attribute 's look' numeric
+@attribute 's looking' numeric
+@attribute 's market' numeric
+@attribute 's ny' numeric
+@attribute 's really' numeric
+@attribute 's siri' numeric
+@attribute 's still' numeric
+@attribute 's thank' numeric
+@attribute 's thanks' numeric
+@attribute 's time' numeric
+@attribute 's units' numeric
+@attribute 's working' numeric
+@attribute sad numeric
+@attribute 'sad mad' numeric
+@attribute 'sad sad' numeric
+@attribute safari numeric
+@attribute 'safari reader' numeric
+@attribute safe numeric
+@attribute 'safe online' numeric
+@attribute 'safe onlinelive' numeric
+@attribute safety numeric
+@attribute 'safety URL' numeric
+@attribute 'said so' numeric
+@attribute sale numeric
+@attribute 'sale again' numeric
+@attribute 'sales top' numeric
+@attribute salmonella numeric
+@attribute 'salmonella hotspots' numeric
+@attribute 'same but' numeric
+@attribute 'samsung and' numeric
+@attribute 'samsung icecream' numeric
+@attribute 'sandwich RRB' numeric
+@attribute 'sandwich are' numeric
+@attribute 'sandwich day' numeric
+@attribute 'sandwich developers' numeric
+@attribute 'sandwich event' numeric
+@attribute 'sandwich ever' numeric
+@attribute 'sandwich imo' numeric
+@attribute 'sandwich is' numeric
+@attribute 'sandwich looks' numeric
+@attribute 'sandwich now' numeric
+@attribute 'sandwich officially' numeric
+@attribute 'sandwich os' numeric
+@attribute 'sandwich rt' numeric
+@attribute 'sandwich sounds' numeric
+@attribute 'sandwich the' numeric
+@attribute 'sandwich will' numeric
+@attribute 'sandwich wonder' numeric
+@attribute 'saw it' numeric
+@attribute 'say a' numeric
+@attribute saying numeric
+@attribute 'saying and' numeric
+@attribute 'says study' numeric
+@attribute scalability numeric
+@attribute 'scalability k' numeric
+@attribute 'school and' numeric
+@attribute science numeric
+@attribute 'science fact' numeric
+@attribute 'science fiction' numeric
+@attribute 'scientist to' numeric
+@attribute scores numeric
+@attribute 'scores were' numeric
+@attribute scream numeric
+@attribute 'scream a' numeric
+@attribute 'scream v' numeric
+@attribute 'screen and' numeric
+@attribute 'screen mode' numeric
+@attribute 'screen thanks' numeric
+@attribute screenshot numeric
+@attribute 'screenshot no' numeric
+@attribute screenshots numeric
+@attribute 'screenshots just' numeric
+@attribute scroll numeric
+@attribute 'scroll feature' numeric
+@attribute scrolling numeric
+@attribute 'scrolling introduced' numeric
+@attribute 'sdk r' numeric
+@attribute 'sdk wow' numeric
+@attribute 'search better' numeric
+@attribute 'search covers' numeric
+@attribute 'search like' numeric
+@attribute 'search of' numeric
+@attribute 'searches for' numeric
+@attribute 'searches things' numeric
+@attribute searching numeric
+@attribute 'searching for' numeric
+@attribute secure numeric
+@attribute 'secure boot' numeric
+@attribute 'see finally' numeric
+@attribute 'see how' numeric
+@attribute 'see what' numeric
+@attribute 'see where' numeric
+@attribute 'seen a' numeric
+@attribute selfservice numeric
+@attribute 'selfservice solutions' numeric
+@attribute selling numeric
+@attribute 'selling more' numeric
+@attribute sells numeric
+@attribute 'sells million' numeric
+@attribute 'sells over' numeric
+@attribute 'send it' numeric
+@attribute 'send me' numeric
+@attribute 'sense of' numeric
+@attribute sent numeric
+@attribute 'sent has' numeric
+@attribute sentences numeric
+@attribute 'seo benefits' numeric
+@attribute 'seriously what' numeric
+@attribute 'server session' numeric
+@attribute 'server works' numeric
+@attribute 'service from' numeric
+@attribute 'service im' numeric
+@attribute 'service my' numeric
+@attribute 'service received' numeric
+@attribute 'services provided' numeric
+@attribute 'session USERNAME' numeric
+@attribute set numeric
+@attribute 'set red' numeric
+@attribute 'set up' numeric
+@attribute 'share RSB' numeric
+@attribute 'share in' numeric
+@attribute 'sharing and' numeric
+@attribute 'sharing contacts' numeric
+@attribute 'she does' numeric
+@attribute shifted numeric
+@attribute 'shifted to' numeric
+@attribute 'shit all' numeric
+@attribute 'shit is' numeric
+@attribute 'shit lol' numeric
+@attribute 'should be' numeric
+@attribute 'should do' numeric
+@attribute 'should i' numeric
+@attribute showed numeric
+@attribute 'showed him' numeric
+@attribute showing numeric
+@attribute 'showing me' numeric
+@attribute 'shows glad' numeric
+@attribute 'shows looks' numeric
+@attribute 'shows me' numeric
+@attribute 'shows soooo' numeric
+@attribute 'shows still' numeric
+@attribute shutter numeric
+@attribute 'shutter lag' numeric
+@attribute sick numeric
+@attribute side numeric
+@attribute 'side USERNAME' numeric
+@attribute 'side for' numeric
+@attribute signs numeric
+@attribute 'signs a' numeric
+@attribute simple numeric
+@attribute 'simple beautiful' numeric
+@attribute simply numeric
+@attribute 'simply the' numeric
+@attribute 'siri a' numeric
+@attribute 'siri alone' numeric
+@attribute 'siri has' numeric
+@attribute 'siri pretty' numeric
+@attribute 'siri suggested' numeric
+@attribute 'siri there' numeric
+@attribute 'siri which' numeric
+@attribute skills numeric
+@attribute 'sleep like' numeric
+@attribute slegit numeric
+@attribute slightly numeric
+@attribute 'slightly more' numeric
+@attribute small numeric
+@attribute 'small businesses' numeric
+@attribute smart numeric
+@attribute 'smart URL' numeric
+@attribute 'smart move' numeric
+@attribute 'smart phone' numeric
+@attribute smartest numeric
+@attribute 'smartest phone' numeric
+@attribute 'smartphone operating' numeric
+@attribute 'smartphone success' numeric
+@attribute smashed numeric
+@attribute 'smashed my' numeric
+@attribute smooth numeric
+@attribute 'smooth and' numeric
+@attribute 'so add' numeric
+@attribute 'so excited' numeric
+@attribute 'so far' numeric
+@attribute 'so glad' numeric
+@attribute 'so ready' numeric
+@attribute 'so so' numeric
+@attribute 'so thankful' numeric
+@attribute 'so the' numeric
+@attribute 'so to' numeric
+@attribute 'so useful' numeric
+@attribute 'so yeah' numeric
+@attribute socia numeric
+@attribute 'social seo' numeric
+@attribute solutions numeric
+@attribute 'some extent' numeric
+@attribute 'some ice' numeric
+@attribute 'some nfl' numeric
+@attribute 'some of' numeric
+@attribute 'some really' numeric
+@attribute 'something and' numeric
+@attribute 'something done' numeric
+@attribute 'something i' numeric
+@attribute 'something magical' numeric
+@attribute 'soon getting' numeric
+@attribute sooo numeric
+@attribute 'sooo glad' numeric
+@attribute soooo numeric
+@attribute 'soooo much' numeric
+@attribute sounds numeric
+@attribute 'sounds tasty' numeric
+@attribute 'sounds yummy' numeric
+@attribute space numeric
+@attribute 'space URL' numeric
+@attribute speakers numeric
+@attribute 'speakers ever' numeric
+@attribute speaking numeric
+@attribute 'speaking skills' numeric
+@attribute 'speech commands' numeric
+@attribute spell numeric
+@attribute 'spell check' numeric
+@attribute 'spell i' numeric
+@attribute spend numeric
+@attribute 'spend my' numeric
+@attribute spiral numeric
+@attribute 'spiral bookcase' numeric
+@attribute spoiled numeric
+@attribute 'spoiled me' numeric
+@attribute sql numeric
+@attribute 'sql server' numeric
+@attribute ss numeric
+@attribute 'ss in' numeric
+@attribute 'st day' numeric
+@attribute 'st store' numeric
+@attribute stacks numeric
+@attribute 'stacks scrolling' numeric
+@attribute stalkerismo numeric
+@attribute steffen numeric
+@attribute 'steffen krause' numeric
+@attribute 'steve and' numeric
+@attribute stewart numeric
+@attribute 'stewart story' numeric
+@attribute sticking numeric
+@attribute 'sticking it' numeric
+@attribute 'still has' numeric
+@attribute 'still in' numeric
+@attribute 'still no' numeric
+@attribute 'stop teasing' numeric
+@attribute 'store USERNAME' numeric
+@attribute 'store has' numeric
+@attribute 'store here' numeric
+@attribute 'store in' numeric
+@attribute 'store replaced' numeric
+@attribute 'stores URL' numeric
+@attribute 'stores offer' numeric
+@attribute 'story in' numeric
+@attribute straight numeric
+@attribute 'straight to' numeric
+@attribute strangest numeric
+@attribute 'strangest things' numeric
+@attribute study numeric
+@attribute stupid numeric
+@attribute 'stupid things' numeric
+@attribute submitted numeric
+@attribute 'submitted to' numeric
+@attribute 'success URL' numeric
+@attribute 'success http' numeric
+@attribute sugarcoated numeric
+@attribute 'sugarcoated the' numeric
+@attribute suggested numeric
+@attribute 'suggested where' numeric
+@attribute sums numeric
+@attribute 'sums up' numeric
+@attribute sunday numeric
+@attribute 'sunday truly' numeric
+@attribute superior numeric
+@attribute 'superior to' numeric
+@attribute 'surprised to' numeric
+@attribute sweatshops numeric
+@attribute 'sweatshops there' numeric
+@attribute sweet numeric
+@attribute 'sweet URL' numeric
+@attribute 'sweet ice' numeric
+@attribute 'sweet man' numeric
+@attribute 'sweet notifications' numeric
+@attribute swype numeric
+@attribute 'swype on' numeric
+@attribute 'sync icloud' numeric
+@attribute syncs numeric
+@attribute 'syncs with' numeric
+@attribute 'syncs your' numeric
+@attribute systems numeric
+@attribute 'systems look' numeric
+@attribute 't you' numeric
+@attribute 'ta hand' numeric
+@attribute 'tablets says' numeric
+@attribute 'take off' numeric
+@attribute taken numeric
+@attribute 'taken me' numeric
+@attribute taking numeric
+@attribute 'taking seriously' numeric
+@attribute 'talk about' numeric
+@attribute 'talk by' numeric
+@attribute 'talk going' numeric
+@attribute target numeric
+@attribute 'target in' numeric
+@attribute taste numeric
+@attribute 'taste for' numeric
+@attribute 'taste of' numeric
+@attribute tasty numeric
+@attribute 'tasty p' numeric
+@attribute teamo numeric
+@attribute 'teamo chao' numeric
+@attribute teams numeric
+@attribute 'teams URL' numeric
+@attribute teasing numeric
+@attribute 'teasing me' numeric
+@attribute 'tech turns' numeric
+@attribute technological numeric
+@attribute 'technological innovations' numeric
+@attribute 'technology actually' numeric
+@attribute teehee numeric
+@attribute 'teehee xx' numeric
+@attribute telegraph numeric
+@attribute 'telegraph reports' numeric
+@attribute terms numeric
+@attribute 'terms of' numeric
+@attribute tests numeric
+@attribute 'tests and' numeric
+@attribute text numeric
+@attribute 'text tone' numeric
+@attribute 'text tones' numeric
+@attribute texts numeric
+@attribute 'texts thanks' numeric
+@attribute 'than apologize' numeric
+@attribute 'than characters' numeric
+@attribute 'than content' numeric
+@attribute 'than tablets' numeric
+@attribute 'than the' numeric
+@attribute 'thank for' numeric
+@attribute 'thank god' numeric
+@attribute 'thank u' numeric
+@attribute thankful numeric
+@attribute 'thankful for' numeric
+@attribute 'thanks android' numeric
+@attribute 'thanks bringing' numeric
+@attribute 'thanks chris' numeric
+@attribute 'thanks for' numeric
+@attribute 'thanks guys' numeric
+@attribute 'thanks to' numeric
+@attribute 'that actually' numeric
+@attribute 'that am' numeric
+@attribute 'that did' numeric
+@attribute 'that disappear' numeric
+@attribute 'that do' numeric
+@attribute 'that help' numeric
+@attribute 'that mood' numeric
+@attribute 'that most' numeric
+@attribute 'that now' numeric
+@attribute 'that shit' numeric
+@attribute 'that target' numeric
+@attribute 'that they' numeric
+@attribute 'that voice' numeric
+@attribute 'thats the' numeric
+@attribute 'the and' numeric
+@attribute 'the android' numeric
+@attribute 'the answers' numeric
+@attribute 'the arc' numeric
+@attribute 'the back' numeric
+@attribute 'the biggest' numeric
+@attribute 'the bus' numeric
+@attribute 'the campus' numeric
+@attribute 'the card' numeric
+@attribute 'the cloud' numeric
+@attribute 'the conference' numeric
+@attribute 'the correct' numeric
+@attribute 'the current' numeric
+@attribute 'the dark' numeric
+@attribute 'the delicious' numeric
+@attribute 'the disruptions' numeric
+@attribute 'the event' numeric
+@attribute 'the feeling' numeric
+@attribute 'the free' numeric
+@attribute 'the fsf' numeric
+@attribute 'the grass' numeric
+@attribute 'the hairline' numeric
+@attribute 'the i' numeric
+@attribute 'the ice' numeric
+@attribute 'the incredible' numeric
+@attribute 'the is' numeric
+@attribute 'the lock' numeric
+@attribute 'the look' numeric
+@attribute 'the love' numeric
+@attribute 'the man' numeric
+@attribute 'the messages' numeric
+@attribute 'the mixer' numeric
+@attribute 'the mobile' numeric
+@attribute 'the most' numeric
+@attribute 'the nearest' numeric
+@attribute 'the nice' numeric
+@attribute 'the one' numeric
+@attribute 'the osnexus' numeric
+@attribute 'the party' numeric
+@attribute 'the people' numeric
+@attribute 'the platform' numeric
+@attribute 'the polish' numeric
+@attribute 'the power' numeric
+@attribute 'the progressive' numeric
+@attribute 'the real' numeric
+@attribute 'the s' numeric
+@attribute 'the samsung' numeric
+@attribute 'the screen' numeric
+@attribute 'the scroll' numeric
+@attribute 'the services' numeric
+@attribute 'the smart' numeric
+@attribute 'the smartest' numeric
+@attribute 'the social' numeric
+@attribute 'the space' numeric
+@attribute 'the strangest' numeric
+@attribute 'the support' numeric
+@attribute 'the taste' numeric
+@attribute 'the technology' numeric
+@attribute 'the trash' numeric
+@attribute 'the twitter' numeric
+@attribute 'the virtual' numeric
+@attribute 'the war' numeric
+@attribute 'the way' numeric
+@attribute 'the webgl' numeric
+@attribute 'the worldwide' numeric
+@attribute 'the worst' numeric
+@attribute 'the wow' numeric
+@attribute 'the year' numeric
+@attribute 'the zero' numeric
+@attribute 'their focus' numeric
+@attribute 'their search' numeric
+@attribute 'their service' numeric
+@attribute 'their uber' numeric
+@attribute 'there while' numeric
+@attribute 'there you' numeric
+@attribute 'these are' numeric
+@attribute 'these days' numeric
+@attribute 'these toys' numeric
+@attribute 'they believe' numeric
+@attribute 'they call' numeric
+@attribute 'they hand' numeric
+@attribute 'thing with' numeric
+@attribute 'things d' numeric
+@attribute 'things for' numeric
+@attribute 'things siri' numeric
+@attribute 'think URL' numeric
+@attribute 'think USERNAME' numeric
+@attribute 'think about' numeric
+@attribute 'think it' numeric
+@attribute 'think siri' numeric
+@attribute 'think so' numeric
+@attribute thinks numeric
+@attribute 'thinks you' numeric
+@attribute 'this could' numeric
+@attribute 'this data' numeric
+@attribute 'this good' numeric
+@attribute 'this planet' numeric
+@attribute 'this talk' numeric
+@attribute 'this twitter' numeric
+@attribute 'this with' numeric
+@attribute thorn numeric
+@attribute 'thorn in' numeric
+@attribute thoughts numeric
+@attribute 'thoughts URL' numeric
+@attribute 'thoughts on' numeric
+@attribute threat numeric
+@attribute 'threat to' numeric
+@attribute three numeric
+@attribute 'three playing' numeric
+@attribute 'through high' numeric
+@attribute throw numeric
+@attribute 'throw this' numeric
+@attribute thx numeric
+@attribute 'thx USERNAME' numeric
+@attribute 'thx to' numeric
+@attribute thxx numeric
+@attribute 'thxx USERNAME' numeric
+@attribute til numeric
+@attribute 'til it' numeric
+@attribute 'time cc' numeric
+@attribute 'time with' numeric
+@attribute 'times about' numeric
+@attribute 'to URL' numeric
+@attribute 'to and' numeric
+@attribute 'to as' numeric
+@attribute 'to bottom' numeric
+@attribute 'to browse' numeric
+@attribute 'to call' numeric
+@attribute 'to change' numeric
+@attribute 'to china' numeric
+@attribute 'to create' numeric
+@attribute 'to enhance' numeric
+@attribute 'to for' numeric
+@attribute 'to go' numeric
+@attribute 'to hide' numeric
+@attribute 'to hong' numeric
+@attribute 'to is' numeric
+@attribute 'to it' numeric
+@attribute 'to mac' numeric
+@attribute 'to marks' numeric
+@attribute 'to me' numeric
+@attribute 'to or' numeric
+@attribute 'to oranges' numeric
+@attribute 'to pass' numeric
+@attribute 'to play' numeric
+@attribute 'to push' numeric
+@attribute 'to replace' numeric
+@attribute 'to samsung' numeric
+@attribute 'to sleep' numeric
+@attribute 'to some' numeric
+@attribute 'to spell' numeric
+@attribute 'to spend' numeric
+@attribute 'to steffen' numeric
+@attribute 'to sticking' numeric
+@attribute 'to thank' numeric
+@attribute 'to their' numeric
+@attribute 'to tweet' numeric
+@attribute 'to windows' numeric
+@attribute 'to write' numeric
+@attribute 'to writing' numeric
+@attribute 'to zoom' numeric
+@attribute 'today from' numeric
+@attribute 'today i' numeric
+@attribute 'today internet' numeric
+@attribute 'today sunday' numeric
+@attribute 'today sweet' numeric
+@attribute tone numeric
+@attribute 'tone drakes' numeric
+@attribute 'tone nicki' numeric
+@attribute tones numeric
+@attribute 'tones now' numeric
+@attribute 'tonight in' numeric
+@attribute 'too USERNAME' numeric
+@attribute 'too good' numeric
+@attribute 'too rt' numeric
+@attribute tool numeric
+@attribute 'tool microsoft' numeric
+@attribute 'tools from' numeric
+@attribute 'tools inbuilt' numeric
+@attribute 'tools to' numeric
+@attribute 'top four' numeric
+@attribute 'top three' numeric
+@attribute 'top to' numeric
+@attribute 'total new' numeric
+@attribute 'totally gon' numeric
+@attribute 'touch more' numeric
+@attribute 'touch well' numeric
+@attribute tour numeric
+@attribute 'tour helsinki' numeric
+@attribute toy numeric
+@attribute 'toy at' numeric
+@attribute toys numeric
+@attribute trash numeric
+@attribute 'trash an' numeric
+@attribute 'trash for' numeric
+@attribute trip numeric
+@attribute 'trip to' numeric
+@attribute trivia numeric
+@attribute 'trivia game' numeric
+@attribute true numeric
+@attribute 'true friend' numeric
+@attribute truly numeric
+@attribute 'truly is' numeric
+@attribute 'try it' numeric
+@attribute turning numeric
+@attribute 'turning their' numeric
+@attribute 'turns your' numeric
+@attribute 'tweet something' numeric
+@attribute 'twitter are' numeric
+@attribute 'twitter for' numeric
+@attribute 'twitter is' numeric
+@attribute 'twitter shit' numeric
+@attribute 'twitter slegit' numeric
+@attribute 'twitter world' numeric
+@attribute twitters numeric
+@attribute 'twitters impressive' numeric
+@attribute 'u USERNAME' numeric
+@attribute 'u r' numeric
+@attribute 'u scream' numeric
+@attribute uber numeric
+@attribute 'uber useful' numeric
+@attribute ugly numeric
+@attribute 'ugly new' numeric
+@attribute uh numeric
+@attribute 'uh talk' numeric
+@attribute 'uh uh' numeric
+@attribute ui numeric
+@attribute 'ui but' numeric
+@attribute 'ui feel' numeric
+@attribute 'ui liking' numeric
+@attribute unbelievable numeric
+@attribute 'unbelievable data' numeric
+@attribute 'unbelievable things' numeric
+@attribute under numeric
+@attribute 'under android' numeric
+@attribute underrated numeric
+@attribute 'underrated is' numeric
+@attribute unexpected numeric
+@attribute 'unexpected workshop' numeric
+@attribute unfair numeric
+@attribute 'unfair assessment' numeric
+@attribute unified numeric
+@attribute 'unified communications' numeric
+@attribute units numeric
+@attribute 'units in' numeric
+@attribute university numeric
+@attribute 'university exam' numeric
+@attribute unlike numeric
+@attribute 'unlike real' numeric
+@attribute unlocking numeric
+@attribute 'up and' numeric
+@attribute 'up close' numeric
+@attribute 'up considering' numeric
+@attribute 'up free' numeric
+@attribute 'up on' numeric
+@attribute 'up sale' numeric
+@attribute 'up say' numeric
+@attribute 'up the' numeric
+@attribute 'up was' numeric
+@attribute upcoming numeric
+@attribute 'upcoming trip' numeric
+@attribute 'update RRB' numeric
+@attribute 'update USERNAME' numeric
+@attribute 'update but' numeric
+@attribute 'update for' numeric
+@attribute 'update submitted' numeric
+@attribute 'updated for' numeric
+@attribute 'updated live' numeric
+@attribute 'updated my' numeric
+@attribute 'upgrade done' numeric
+@attribute 'upgrade for' numeric
+@attribute 'upgrade looking' numeric
+@attribute 'upgraded her' numeric
+@attribute upload numeric
+@attribute 'upload issues' numeric
+@attribute usage numeric
+@attribute 'usage feature' numeric
+@attribute 'usage info' numeric
+@attribute 'usage tools' numeric
+@attribute 'use android' numeric
+@attribute 'use my' numeric
+@attribute 'use their' numeric
+@attribute 'used to' numeric
+@attribute 'useful flashcard' numeric
+@attribute 'useful on' numeric
+@attribute useless numeric
+@attribute 'useless these' numeric
+@attribute 'user but' numeric
+@attribute 'user experience' numeric
+@attribute 'users are' numeric
+@attribute 'users find' numeric
+@attribute 'users have' numeric
+@attribute 'users on' numeric
+@attribute 'users the' numeric
+@attribute 'users will' numeric
+@attribute 'using and' numeric
+@attribute 'using my' numeric
+@attribute usual numeric
+@attribute 'usual is' numeric
+@attribute 'usual neat' numeric
+@attribute ux numeric
+@attribute 'ux tour' numeric
+@attribute 'v all' numeric
+@attribute 'v impressed' numeric
+@attribute validated numeric
+@attribute 'validated that' numeric
+@attribute 've been' numeric
+@attribute 've ever' numeric
+@attribute 've pretty' numeric
+@attribute 'vers text' numeric
+@attribute 'very happy' numeric
+@attribute 'very nice' numeric
+@attribute 'very smooth' numeric
+@attribute 'via phone' numeric
+@attribute 'video guy' numeric
+@attribute 'video out' numeric
+@attribute 'video wallet' numeric
+@attribute 'virtual bookcase' numeric
+@attribute 'virtual buttons' numeric
+@attribute 'voice dictation' numeric
+@attribute 'voice that' numeric
+@attribute volume numeric
+@attribute 'volume screenshot' numeric
+@attribute 'vs facebook' numeric
+@attribute 'vs stalkerismo' numeric
+@attribute 'wait for' numeric
+@attribute 'wait til' numeric
+@attribute 'waiting music' numeric
+@attribute walk numeric
+@attribute 'walk out' numeric
+@attribute wallet numeric
+@attribute 'wallet see' numeric
+@attribute wallpaper numeric
+@attribute 'wallpaper virtual' numeric
+@attribute 'want a' numeric
+@attribute 'want an' numeric
+@attribute 'want ice' numeric
+@attribute 'want some' numeric
+@attribute 'want something' numeric
+@attribute 'want the' numeric
+@attribute wants numeric
+@attribute 'wants to' numeric
+@attribute 'war in' numeric
+@attribute 'was a' numeric
+@attribute 'was bored' numeric
+@attribute 'was down' numeric
+@attribute 'was flawless' numeric
+@attribute 'was introduced' numeric
+@attribute 'was missing' numeric
+@attribute 'was referring' numeric
+@attribute 'watch this' numeric
+@attribute watching numeric
+@attribute 'watching the' numeric
+@attribute waterdamaged numeric
+@attribute 'waterdamaged macbook' numeric
+@attribute 'way daysofgratefulness' numeric
+@attribute 'way home' numeric
+@attribute 'way i' numeric
+@attribute 'way more' numeric
+@attribute 'way to' numeric
+@attribute 'we did' numeric
+@attribute 'we finally' numeric
+@attribute 'webgl globe' numeric
+@attribute 'website URL' numeric
+@attribute 'website get' numeric
+@attribute 'website today' numeric
+@attribute 'weekend bloomberg' numeric
+@attribute 'weekend sales' numeric
+@attribute 'weekend steve' numeric
+@attribute 'welcome to' numeric
+@attribute 'well URL' numeric
+@attribute 'well USERNAME' numeric
+@attribute 'well at' numeric
+@attribute 'well done' numeric
+@attribute 'well s' numeric
+@attribute 'well the' numeric
+@attribute 'were and' numeric
+@attribute 'were people' numeric
+@attribute 'were very' numeric
+@attribute 'what do' numeric
+@attribute 'what has' numeric
+@attribute 'what i' numeric
+@attribute 'what imo' numeric
+@attribute 'what pulls' numeric
+@attribute 'what syncs' numeric
+@attribute 'what you' numeric
+@attribute 'when am' numeric
+@attribute 'when he' numeric
+@attribute 'when in' numeric
+@attribute 'when unlocking' numeric
+@attribute 'when will' numeric
+@attribute 'when you' numeric
+@attribute 'where he' numeric
+@attribute 'where it' numeric
+@attribute 'where to' numeric
+@attribute 'which device' numeric
+@attribute 'which play' numeric
+@attribute 'while gates' numeric
+@attribute whores numeric
+@attribute 'whores and' numeric
+@attribute 'why google' numeric
+@attribute widget numeric
+@attribute 'widget navigation' numeric
+@attribute 'widgets for' numeric
+@attribute wife numeric
+@attribute 'wife searches' numeric
+@attribute 'wife upgraded' numeric
+@attribute wifi numeric
+@attribute 'wifi sync' numeric
+@attribute 'will my' numeric
+@attribute 'will now' numeric
+@attribute 'will publicly' numeric
+@attribute 'will watch' numeric
+@attribute 'will works' numeric
+@attribute william numeric
+@attribute win numeric
+@attribute 'win server' numeric
+@attribute 'windows i' numeric
+@attribute 'windows in' numeric
+@attribute 'winning the' numeric
+@attribute 'wish i' numeric
+@attribute 'with URL' numeric
+@attribute 'with android' numeric
+@attribute 'with esxi' numeric
+@attribute 'with help' numeric
+@attribute 'with interest' numeric
+@attribute 'with is' numeric
+@attribute 'with native' numeric
+@attribute 'with pinch' numeric
+@attribute 'with siri' numeric
+@attribute 'with that' numeric
+@attribute 'with ui' numeric
+@attribute 'with vs' numeric
+@attribute 'with your' numeric
+@attribute within numeric
+@attribute 'within your' numeric
+@attribute 'without borders' numeric
+@attribute 'wonder it' numeric
+@attribute 'word rt' numeric
+@attribute 'work pc' numeric
+@attribute 'working like' numeric
+@attribute 'working thanks' numeric
+@attribute works numeric
+@attribute 'works fine' numeric
+@attribute 'works like' numeric
+@attribute 'works on' numeric
+@attribute workshop numeric
+@attribute 'workshop for' numeric
+@attribute 'world USERNAME' numeric
+@attribute 'world and' numeric
+@attribute 'world go' numeric
+@attribute worldwide numeric
+@attribute 'worldwide web' numeric
+@attribute 'worst speakers' numeric
+@attribute 'worth the' numeric
+@attribute 'would have' numeric
+@attribute 'would like' numeric
+@attribute 'wow effect' numeric
+@attribute 'wow i' numeric
+@attribute 'wow lots' numeric
+@attribute 'wow respect' numeric
+@attribute 'wow tech' numeric
+@attribute 'wow the' numeric
+@attribute wowww numeric
+@attribute wp numeric
+@attribute 'wp handsets' numeric
+@attribute write numeric
+@attribute 'write this' numeric
+@attribute writing numeric
+@attribute 'writing the' numeric
+@attribute wuhu numeric
+@attribute 'wuhu when' numeric
+@attribute 'x URL' numeric
+@attribute 'x and' numeric
+@attribute xx numeric
+@attribute yeah numeric
+@attribute 'yeah USERNAME' numeric
+@attribute 'yeah i' numeric
+@attribute 'yeah it' numeric
+@attribute 'yeah looks' numeric
+@attribute 'year that' numeric
+@attribute 'year time' numeric
+@attribute 'years old' numeric
+@attribute yes numeric
+@attribute 'yes good' numeric
+@attribute yesterday numeric
+@attribute 'yesterday and' numeric
+@attribute 'yet these' numeric
+@attribute 'you and' numeric
+@attribute 'you cant' numeric
+@attribute 'you for' numeric
+@attribute 'you go' numeric
+@attribute 'you got' numeric
+@attribute 'you now' numeric
+@attribute 'you on' numeric
+@attribute 'you promise' numeric
+@attribute 'you search' numeric
+@attribute 'you send' numeric
+@attribute 'you steve' numeric
+@attribute 'you teehee' numeric
+@attribute 'you think' numeric
+@attribute 'you today' numeric
+@attribute 'you use' numeric
+@attribute 'you using' numeric
+@attribute 'you want' numeric
+@attribute 'your body' numeric
+@attribute 'your bookmarks' numeric
+@attribute 'your company' numeric
+@attribute 'your device' numeric
+@attribute 'your feeling' numeric
+@attribute 'your galaxy' numeric
+@attribute 'your ipad' numeric
+@attribute 'your kids' numeric
+@attribute 'your phone' numeric
+@attribute 'your photo' numeric
+@attribute 'your products' numeric
+@attribute 'your screenshots' numeric
+@attribute 'your simply' numeric
+@attribute 'yours URL' numeric
+@attribute yourself numeric
+@attribute 'yourself or' numeric
+@attribute yrs numeric
+@attribute 'yrs after' numeric
+@attribute 'yrs back' numeric
+@attribute yummy numeric
+@attribute 'yummy what' numeric
+@attribute yumyumyum numeric
+@attribute 'yumyumyum i' numeric
+@attribute zero numeric
+@attribute 'zero delay' numeric
+@attribute 'zero shutter' numeric
+@attribute zoom numeric
+@attribute 'zoom capabilities' numeric
+@attribute zune numeric
+@attribute 'zune music' numeric
+
+@data
+{32 1,36 1,767 1,934 1,1113 1,1572 1,1573 1,1580 1,2050 1,2104 1,2280 1,2281 1,2600 1,2856 1,2956 1,4297 1}
+{0 negative,1263 1,1317 1,1320 1,1808 1,2595 1,2689 1,2934 1,3096 1}
+{0 negative,89 1,244 1,306 1,320 1,369 1,940 1,1051 1,1113 1,1300 1,1718 1,1719 1,1807 1,1808 1,2139 1,2189 1,2190 1,2387 1,2515 1,2611 1,4005 1,4901 1,5017 1}
+{0 negative,166 1,224 1,885 1,1087 1,1183 1,1317 1,2189 1,2372 1,2439 1,2463 1,2623 1,2653 1,2737 1,3941 1,5698 1}
+{0 neutral,19 1,1149 1,1224 1,2012 1,2418 1,2666 1}
+{0 neutral,89 1,164 1,306 1,940 1,1808 1,1821 1,1863 1,2189 1,2190 1,3408 1,3453 1,4005 1,4087 1,4398 1}
+{0 neutral,19 1,224 1,452 1,743 1,934 1,1200 1,1345 1,2421 1,2556 1,2952 1,2991 1,2992 1,3015 1,3079 1,3105 1,3156 1,3189 1,3234 1,3241 1,3280 1,3345 1,3346 1,3485 1,3497 1,3498 1}
+{0 positive,169 1,414 1,415 1,778 1,779 1,889 1,890 1,1224 1,1227 1,1300 1,1317 1,1336 1,1596 1,3041 1,3042 1,3166 1,3242 1,3244 1,3447 1,3448 1,5170 1,5235 1,5272 1,5312 1}
+{0 positive,19 1,31 1,32 1,885 1,902 1,1082 1,1149 1,1821 1,1950 1,1951 1,2009 1,2777 1,4640 1,4864 1}
+{0 positive,752 1,1113 1,1200 1,1300 1,1606 1,1821 1,2016 1,2158 1,2376 1,2787 1,3431 1,3459 1,5914 1}

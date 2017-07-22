@@ -1,0 +1,11 @@
+Topic,Sentiment,TwitterID
+"apple","irrelevant","126097345124368385"
+"google","negative","126486654830645249"
+"google","neutral","126521564979150848"
+"google","positive","126484977176158208"
+"microsoft","negative","126647264943943682"
+"microsoft","neutral","126498215204892672"
+"microsoft","positive","126732577301217280"
+"twitter","negative","126870923591692288"
+"twitter","neutral","126881736364785664"
+"twitter","positive","126877171926040576"
