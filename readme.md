@@ -1,0 +1,1 @@
+Run configuration stopwords /Users/xuqianshawn/GitHub/Weka/training.csv /Users/xuqianshawn/GitHub/Weka/tweets /Users/xuqianshawn/GitHub/Weka/testing.csv

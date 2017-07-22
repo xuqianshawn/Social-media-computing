@@ -2,7 +2,7 @@
 
 Filtered data:
 
-@relation 'C__Users_shawn_workspace_Sentiment_wekaDataDir_all-weka.filters.unsupervised.attribute.StringToWordVector-R1-W1000-prune-rate-1.0-N0-stemmerweka.core.stemmers.NullStemmer-M1-tokenizerweka.core.tokenizers.NGramTokenizer -delimiters \" \\r\\n\\t.,;:\\\'\\\"()?!\" -max 2 -min 1'
+@relation '_Users_xuqianshawn_GitHub_Weka_wekaDataDir_all-weka.filters.unsupervised.attribute.StringToWordVector-R1-W1000-prune-rate-1.0-N0-stemmerweka.core.stemmers.NullStemmer-M1-tokenizerweka.core.tokenizers.NGramTokenizer -delimiters \" \\r\\n\\t.,;:\\\'\\\"()?!\" -max 2 -min 1'
 
 @attribute class {irrelevant,negative,neutral,positive}
 @attribute LRB numeric

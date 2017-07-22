@@ -137,18 +137,17 @@ public class LexiconSentiment {
 	    startTrainTime=System.currentTimeMillis();
 	    //construct various of classifier
 	    //  NaiveBayes classifier = new NaiveBayes();
-	  Classifier classifier = new IBk(3);
-	   
-	    //	RandomForest classifier = new RandomForest();
-//     	 LibSVM classifier = new LibSVM();
-//   	 classifier.setCacheSize(512); // MB
-//   	 classifier.setNormalize(true);
-//   	 classifier.setShrinking(true);
-//   	 classifier.setKernelType(new SelectedTag(LibSVM.KERNELTYPE_LINEAR, LibSVM.TAGS_KERNELTYPE));
-//   	 classifier.setDegree(3);
-//   	 classifier.setSVMType(new SelectedTag(LibSVM.SVMTYPE_C_SVC, LibSVM.TAGS_SVMTYPE));
-//   	classifier.buildClassifier(dataFiltered);
-//	    Vote vote =new Vote();
+
+	    	//RandomForest classifier = new RandomForest();
+     	 LibSVM classifier = new LibSVM();
+   	 classifier.setCacheSize(512); // MB
+   	 classifier.setNormalize(true);
+   	 classifier.setShrinking(true);
+   	 classifier.setKernelType(new SelectedTag(LibSVM.KERNELTYPE_LINEAR, LibSVM.TAGS_KERNELTYPE));
+   	 classifier.setDegree(3);
+   	 classifier.setSVMType(new SelectedTag(LibSVM.SVMTYPE_C_SVC, LibSVM.TAGS_SVMTYPE));
+   	classifier.buildClassifier(dataFiltered);
+	    Vote vote =new Vote();
 //	    Classifier[] classifier={new NaiveBayes(), new RandomForest(), new IBk()};
 //	    vote.setClassifiers(classifier);
 //	    vote.buildClassifier(dataFiltered);
@@ -303,7 +302,7 @@ public class LexiconSentiment {
 			
 			// Read in tweet;
 			String tweetID = tweetList.get(i);
-			JsonReader jReader = Json.createReader(new FileReader(tweetDir + "\\" + tweetID + ".json"));
+			JsonReader jReader = Json.createReader(new FileReader(tweetDir + "/" + tweetID + ".json"));
 			JsonStructure js = jReader.read();
 			JsonObject object = (JsonObject) js;
 
@@ -316,7 +315,7 @@ public class LexiconSentiment {
 			// Find the author sentiment ( How positive/negative is the author ) [ Only for author with high tweet counts ]
 			/*
 			String userDir = tweetDir.replace("tweets", "users");
-			JsonReader jReaderUsder = Json.createReader(new FileReader(userDir + "\\" + userid + ".json"));
+			JsonReader jReaderUsder = Json.createReader(new FileReader(userDir + "/" + userid + ".json"));
 			
 			JsonStructure jsuser = jReaderUsder.read();
 			JsonObject objectuser = (JsonObject) jsuser;
@@ -543,7 +542,7 @@ public class LexiconSentiment {
 	
 	public boolean processTweetJson(String topic, String sentiment, String tweetID, String tweetDir, String rootDir) throws IOException {
 		
-		JsonReader jReader = Json.createReader(new FileReader(tweetDir + "\\" + tweetID + ".json"));
+		JsonReader jReader = Json.createReader(new FileReader(tweetDir + "/" + tweetID + ".json"));
 		JsonStructure js = jReader.read();
 		
 		JsonObject object = (JsonObject) js;
